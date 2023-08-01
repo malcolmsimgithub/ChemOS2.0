@@ -1,0 +1,45 @@
+sample waiting for re-dissolution 0
+waiting job input 23-06-12-10-36
+processing job char_2nd_test
+
+measurement start for char_2nd_test
+valve connection opened
+23-06-12-18-34: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.068 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.022 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-06-12-18-35Measure absorption reference 
+23-06-12-18-36 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-06-12-18-37: Measure absorption dark
+ 23-06-12-18-37 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-06-12-18-38:Measure reference uv power
+23-06-12-18-38 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-06-12-18-39: Adjust PL exposure
+23-06-12-18-39: Measure PL dark spectrum
+23-06-12-18-39Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-06-12-18-40 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-06-12-18-41 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-06-12-18-41: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-06-12-18-45: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-06-12-18-45

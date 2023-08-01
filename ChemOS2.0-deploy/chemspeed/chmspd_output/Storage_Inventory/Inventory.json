@@ -1,0 +1,117 @@
+{
+  "K3PO4": {
+    "location": "SOLID:2",
+    "phase": "solid",
+    "quantity": 10000
+  },
+  "THF": {
+    "location": "VALVEB:1",
+    "phase": "liquid",
+    "quantity": 4000
+  },
+  "Hexane": {
+    "location": "VALVEB:2",
+    "phase": "liquid",
+    "quantity": 4000
+  },
+  "Acetonitrile": {
+    "location": "VALVEB:3",
+    "phase": "liquid",
+    "quantity": 4000
+  },
+  "Water": {
+    "location": "VALVEB:4",
+    "phase": "liquid",
+    "quantity": 4000
+  },
+  "Dioxane": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C002": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "SPhosPdG4": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "K2CO3": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "null": {
+    "location": "RACKR:30",
+    "phase": null,
+    "quantity": 1000000
+  },
+  "C031": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C012": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C023": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C015": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C020": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C021": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C028": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C034": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C030": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "C013": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "XPhos Pd G4": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "1,4-Dioxane": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  },
+  "Na2CO3": {
+    "location": null,
+    "phase": "liquid",
+    "quantity": 1000000
+  }
+}

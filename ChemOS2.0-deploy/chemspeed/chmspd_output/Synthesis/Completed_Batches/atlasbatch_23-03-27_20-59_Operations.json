@@ -1,0 +1,295 @@
+{
+  "1": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now starting the synthesis of batch atlasbatch_23-03-27_20-59",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "2": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now performing the task schlenk_cycle",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "3": {
+    "task": "request_confirmation",
+    "parameters": {
+      "message": "Before starting Schlenk cycles, please confirm that ISynth Nitrogen gas is switched on!"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "4": {
+    "task": "schlenk_cycle",
+    "parameters": {
+      "specification": "none",
+      "no_cycles": 5
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "5": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now performing the task transfer_compound",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "6": {
+    "task": "prime_pumps",
+    "parameters": {},
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "7": {
+    "task": "request_confirmation",
+    "parameters": {
+      "message": "Before starting liquid dispensing, please confirm that ISynth Nitrogen gas is switched on!"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "8": {
+    "task": "set_drawer",
+    "parameters": {
+      "target_setting": {
+        "state": "open",
+        "environment": "inert"
+      }
+    },
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "9": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "Dioxane",
+      "quantity": 1.0,
+      "dry": true
+    },
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "10": {
+    "task": "set_drawer",
+    "parameters": {},
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "11": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now performing the task reflux",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "12": {
+    "task": "reflux",
+    "parameters": {
+      "specification": "none",
+      "temperature": 60,
+      "heating": 1,
+      "cooling": 0.5
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "13": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now performing the task transfer_compound",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "14": {
+    "task": "prime_pumps",
+    "parameters": {},
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "15": {
+    "task": "request_confirmation",
+    "parameters": {
+      "message": "Before starting liquid dispensing, please confirm that ISynth Nitrogen gas is switched on!"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "16": {
+    "task": "set_drawer",
+    "parameters": {
+      "target_setting": {
+        "state": "open",
+        "environment": "inert"
+      }
+    },
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "17": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "C028",
+      "quantity": 0.5
+    },
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "18": {
+    "task": "set_drawer",
+    "parameters": {},
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "19": {
+    "task": "set_drawer",
+    "parameters": {
+      "target_setting": {
+        "state": "open",
+        "environment": "inert"
+      }
+    },
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "20": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "SPhosPdG4",
+      "quantity": 0.5
+    },
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "21": {
+    "task": "set_drawer",
+    "parameters": {},
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "22": {
+    "task": "set_drawer",
+    "parameters": {
+      "target_setting": {
+        "state": "open",
+        "environment": "inert"
+      }
+    },
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "23": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "K2CO3",
+      "quantity": 0.3
+    },
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "24": {
+    "task": "set_drawer",
+    "parameters": {},
+    "experiment_identifier": [
+      "Atlassuggestion"
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "25": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now performing the task reflux",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "26": {
+    "task": "reflux",
+    "parameters": {
+      "specification": "none",
+      "temperature": 100,
+      "heating": 12,
+      "cooling": 1
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  },
+  "27": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Synthesis of batch atlasbatch_23-03-27_20-59 has been completed",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-03-27_21-01"
+  }
+}

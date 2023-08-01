@@ -1,0 +1,28 @@
+valve connection opened
+Wash collector 2
+valve connection opened
+Wash collector 3
+update vial status : vial3 True
+valve connection closed
+valve connection opened
+Wash collector 4
+update vial status : vial4 True
+valve connection closed
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+valve connection opened
+Wash collector 8
+update vial status : vial8 True
+valve connection closed
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+valve connection opened
+Wash collector 10
+update vial status : vial10 True
+valve connection closed
+closing device
+OFF

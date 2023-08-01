@@ -1,0 +1,12 @@
+id,device_id,job_id,name,status,timestamp,location
+4431,1,706,,starting synthesis,2023-07-21 13:45:49.252257,uoft
+4432,1,706,,Synthesis: Synthesis of batch BSBCz_derivative_synthesis_23-07-21_13-45 started.,2023-07-21 13:45:49.252257,uoft
+4433,1,706,,all: all - Confirmation Required: The solid compound storage has been reset.Please Update the settings accordingly.,2023-07-21 13:45:49.252257,uoft
+4434,1,706,,all: all - Confirmation Required: The liquid compound storage has been reset.Please Update the settings accordingly.,2023-07-21 13:45:49.252257,uoft
+4435,1,706,,Synthesis: Now starting the synthesis of batch BSBCz_derivative_synthesis_23-07-21_13-45,2023-07-21 13:45:49.252257,uoft
+4436,1,706,,Synthesis: Now performing the task schlenk_cycle,2023-07-21 13:45:49.252257,uoft
+4437,1,706,,"all: all - Confirmation Required: Before starting Schlenk cycles, please confirm that ISynth Nitrogen gas is switched on!",2023-07-21 13:45:49.252257,uoft
+4438,1,706,,Synthesis: Now performing the task transfer_compound,2023-07-21 13:45:49.252257,uoft
+4439,1,706,,"all: all - Confirmation Required: Before starting liquid dispensing, please confirm that ISynth Nitrogen gas is switched on!",2023-07-21 13:45:49.252257,uoft
+4440,1,706,,Synthesis: Now performing the task reflux,2023-07-21 13:45:49.252257,uoft
+4441,1,706,,Synthesis: Synthesis of batch BSBCz_derivative_synthesis_23-07-21_13-45 has been completed,2023-07-21 13:45:49.252257,uoft

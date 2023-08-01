@@ -1,0 +1,82 @@
+sample waiting for re-dissolution 0
+waiting job input (2022-02-08 19:12:30)
+
+measurement start for Test_BSBCz_optics
+valve connection opened
+washing selector to pump line with solvent (2022-02-08 19:24:40)
+Discard selector to pump volumes
+Switch selector to position 2
+Draw 0.119 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-02-08 19:25:31)
+Emplying the flow cell (2022-02-08 19:25:55)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-02-08 19:26:46)
+Measure absorption spectrum  (2022-02-08 19:26:52)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-02-08 19:27:25)
+Emplying the flow cell (2022-02-08 19:27:33)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-02-08 19:28:29)
+Measure PL dark spectrum (2022-02-08 19:28:32)
+Measure PL spectrum (2022-02-08 19:28:54)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-02-08 19:29:46)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-02-08 19:30:18)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-02-08 19:30:44)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2022-02-08 19:34:55)
+sample waiting for re-dissolution 0
+waiting job input (2022-02-08 19:34:58)
+
+measurement start for A001B024C012_optics
+valve connection opened
+washing selector to pump line with solvent (2022-02-08 22:02:26)
+Discard selector to pump volumes
+Switch selector to position 2
+Draw 0.032 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.058 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+Measure absorption reference (2022-02-08 22:03:45)
+Emplying the flow cell (2022-02-08 22:04:09)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-02-08 22:05:01)
+Measure absorption spectrum  (2022-02-08 22:05:06)
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+Measure reference uv power (2022-02-08 22:06:07)
+Emplying the flow cell (2022-02-08 22:06:19)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-02-08 22:07:15)
+Measure PL dark spectrum (2022-02-08 22:07:18)
+Measure PL spectrum (2022-02-08 22:07:40)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-02-08 22:08:32)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-02-08 22:09:03)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-02-08 22:09:41)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2022-02-08 22:13:51)
+sample waiting for re-dissolution 0
+waiting job input (2022-02-08 22:13:54)

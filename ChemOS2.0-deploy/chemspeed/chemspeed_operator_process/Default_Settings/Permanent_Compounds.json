@@ -1,0 +1,11 @@
+{
+  "solid": {
+    "K3PO4": "SOLID:2"
+  },
+  "liquid": {
+    "THF": "VALVEB:1",
+    "Hexane": "VALVEB:2",
+    "Water": "VALVEB:4",
+    "Acetonitrile": "VALVEB:3"
+  }
+}

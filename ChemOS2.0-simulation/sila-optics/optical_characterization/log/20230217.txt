@@ -1,0 +1,710 @@
+washing selector to pump line with solvent {timestamp}
+Discard selector to pump volumes
+washing selector to pump line with solvent {timestamp}
+Discard selector to pump volumes
+washing selector to pump line with solvent {timestamp}
+Discard selector to pump volumes
+
+measurement start for Blank
+washing selector to pump line with solvent {timestamp}
+Discard selector to pump volumes
+
+measurement start for Blank
+washing selector to pump line with solvent {timestamp}
+Discard selector to pump volumes
+
+measurement start for Blank
+Measure absorption reference {timestamp}
+Measure absorption dark {timestamp}
+Measure absorption spectrum  {timestamp}
+washing selector to pump line with solvent {timestamp}
+Discard selector to pump volumes
+
+measurement start for Blank
+Measure absorption reference {timestamp}
+Measure absorption dark {timestamp}
+Measure absorption spectrum  {timestamp}
+Measure reference uv power {timestamp}
+Adjust PL exposure {timestamp}
+Measure PL dark spectrum {timestamp}
+Measure PL spectrum {timestamp}
+washing selector to pump line with solvent 23-02-17-14-55
+Discard selector to pump volumes 23-02-17-14-55
+
+measurement start for Blank
+Measure absorption reference 23-02-17-14-55
+Measure absorption dark 23-02-17-14-55
+Measure absorption spectrum  23-02-17-14-55
+Measure reference uv power 23-02-17-14-55
+Adjust PL exposure 23-02-17-14-55
+Measure PL dark spectrum 23-02-17-14-55
+Measure PL spectrum 23-02-17-14-55
+washing selector to pump line with solvent 23-02-17-14-56
+Discard selector to pump volumes 23-02-17-14-56
+
+measurement start for Blank
+Measure absorption reference 23-02-17-14-56
+Measure absorption dark 23-02-17-14-56
+Measure absorption spectrum  23-02-17-14-56
+Measure reference uv power 23-02-17-14-56
+Adjust PL exposure 23-02-17-14-56
+Measure PL dark spectrum 23-02-17-14-56
+Measure PL spectrum 23-02-17-14-56
+Measure transient emission 23-02-17-14-56
+washing selector to pump line with solvent 23-02-17-14-57
+Discard selector to pump volumes 23-02-17-14-57
+
+measurement start for Blank
+Measure absorption reference 23-02-17-14-57
+Measure absorption dark 23-02-17-14-57
+Measure absorption spectrum  23-02-17-14-57
+Measure reference uv power 23-02-17-14-57
+Adjust PL exposure 23-02-17-14-57
+Measure PL dark spectrum 23-02-17-14-57
+Measure PL spectrum 23-02-17-14-57
+Measure transient emission 23-02-17-14-57
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-14-59
+Discard selector to pump volumes 23-02-17-14-59
+
+measurement start for Blank
+Measure absorption reference 23-02-17-14-59
+Measure absorption dark 23-02-17-14-59
+Measure absorption spectrum  23-02-17-14-59
+Measure reference uv power 23-02-17-14-59
+Adjust PL exposure 23-02-17-14-59
+Measure PL dark spectrum 23-02-17-14-59
+Measure PL spectrum 23-02-17-14-59
+Measure transient emission 23-02-17-14-59
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-14-59
+Discard selector to pump volumes 23-02-17-14-59
+
+measurement start for Blank
+Measure absorption reference 23-02-17-14-59
+Measure absorption dark 23-02-17-14-59
+Measure absorption spectrum  23-02-17-14-59
+Measure reference uv power 23-02-17-14-59
+Adjust PL exposure 23-02-17-14-59
+Measure PL dark spectrum 23-02-17-14-59
+Measure PL spectrum 23-02-17-14-59
+Measure transient emission 23-02-17-14-59
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-00
+Discard selector to pump volumes 23-02-17-15-00
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-00
+Measure absorption dark 23-02-17-15-00
+Measure absorption spectrum  23-02-17-15-00
+Measure reference uv power 23-02-17-15-00
+Adjust PL exposure 23-02-17-15-00
+Measure PL dark spectrum 23-02-17-15-00
+Measure PL spectrum 23-02-17-15-00
+Measure transient emission 23-02-17-15-00
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-01
+Discard selector to pump volumes 23-02-17-15-01
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-01
+Measure absorption dark 23-02-17-15-01
+Measure absorption spectrum  23-02-17-15-01
+Measure reference uv power 23-02-17-15-02
+Adjust PL exposure 23-02-17-15-02
+Measure PL dark spectrum 23-02-17-15-02
+Measure PL spectrum 23-02-17-15-02
+Measure transient emission 23-02-17-15-02
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-02
+Discard selector to pump volumes 23-02-17-15-02
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-02
+Measure absorption dark 23-02-17-15-02
+Measure absorption spectrum  23-02-17-15-02
+Measure reference uv power 23-02-17-15-02
+Adjust PL exposure 23-02-17-15-02
+Measure PL dark spectrum 23-02-17-15-02
+Measure PL spectrum 23-02-17-15-02
+Measure transient emission 23-02-17-15-02
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-02
+Discard selector to pump volumes 23-02-17-15-02
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-03
+Measure absorption dark 23-02-17-15-03
+Measure absorption spectrum  23-02-17-15-03
+Measure reference uv power 23-02-17-15-03
+Adjust PL exposure 23-02-17-15-03
+Measure PL dark spectrum 23-02-17-15-03
+Measure PL spectrum 23-02-17-15-03
+Measure transient emission 23-02-17-15-03
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-03
+Discard selector to pump volumes 23-02-17-15-03
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-03
+Measure absorption dark 23-02-17-15-03
+Measure absorption spectrum  23-02-17-15-03
+Measure reference uv power 23-02-17-15-03
+Adjust PL exposure 23-02-17-15-03
+Measure PL dark spectrum 23-02-17-15-03
+Measure PL spectrum 23-02-17-15-03
+Measure transient emission 23-02-17-15-03
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-03
+measurement done 23-02-17-15-03
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-03
+washing selector to pump line with solvent 23-02-17-15-04
+Discard selector to pump volumes 23-02-17-15-04
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-04
+Measure absorption dark 23-02-17-15-04
+Measure absorption spectrum  23-02-17-15-04
+Measure reference uv power 23-02-17-15-04
+Adjust PL exposure 23-02-17-15-04
+Measure PL dark spectrum 23-02-17-15-04
+Measure PL spectrum 23-02-17-15-04
+Measure transient emission 23-02-17-15-04
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-05
+Discard selector to pump volumes 23-02-17-15-05
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-05
+Measure absorption dark 23-02-17-15-05
+Measure absorption spectrum  23-02-17-15-05
+Measure reference uv power 23-02-17-15-05
+Adjust PL exposure 23-02-17-15-05
+Measure PL dark spectrum 23-02-17-15-05
+Measure PL spectrum 23-02-17-15-05
+Measure transient emission 23-02-17-15-05
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-05
+measurement done 23-02-17-15-05
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-05
+washing selector to pump line with solvent 23-02-17-15-16
+Discard selector to pump volumes 23-02-17-15-16
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-16
+Measure absorption dark 23-02-17-15-16
+Measure absorption spectrum  23-02-17-15-16
+Measure reference uv power 23-02-17-15-16
+Adjust PL exposure 23-02-17-15-16
+Measure PL dark spectrum 23-02-17-15-16
+Measure PL spectrum 23-02-17-15-16
+Measure transient emission 23-02-17-15-16
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-17
+Discard selector to pump volumes 23-02-17-15-17
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-17
+Measure absorption dark 23-02-17-15-17
+Measure absorption spectrum  23-02-17-15-17
+Measure reference uv power 23-02-17-15-17
+Adjust PL exposure 23-02-17-15-17
+Measure PL dark spectrum 23-02-17-15-17
+Measure PL spectrum 23-02-17-15-17
+Measure transient emission 23-02-17-15-17
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-17
+Discard selector to pump volumes 23-02-17-15-17
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-17
+Measure absorption dark 23-02-17-15-17
+Measure absorption spectrum  23-02-17-15-17
+Measure reference uv power 23-02-17-15-17
+Adjust PL exposure 23-02-17-15-17
+Measure PL dark spectrum 23-02-17-15-17
+Measure PL spectrum 23-02-17-15-17
+Measure transient emission 23-02-17-15-18
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-18
+measurement done 23-02-17-15-18
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-18
+washing selector to pump line with solvent 23-02-17-15-23
+Discard selector to pump volumes 23-02-17-15-23
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-23
+Measure absorption dark 23-02-17-15-23
+Measure absorption spectrum  23-02-17-15-23
+Measure reference uv power 23-02-17-15-23
+Adjust PL exposure 23-02-17-15-23
+Measure PL dark spectrum 23-02-17-15-23
+Measure PL spectrum 23-02-17-15-23
+Measure transient emission 23-02-17-15-23
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-23
+measurement done 23-02-17-15-23
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-23
+washing selector to pump line with solvent 23-02-17-15-25
+Discard selector to pump volumes 23-02-17-15-25
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-26
+Measure absorption dark 23-02-17-15-26
+Measure absorption spectrum  23-02-17-15-26
+Measure reference uv power 23-02-17-15-26
+Adjust PL exposure 23-02-17-15-26
+Measure PL dark spectrum 23-02-17-15-26
+Measure PL spectrum 23-02-17-15-26
+Measure transient emission 23-02-17-15-26
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-26
+measurement done 23-02-17-15-26
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-26
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-26
+Measure absorption dark 23-02-17-15-26
+Measure absorption spectrum  23-02-17-15-26
+Measure reference uv power 23-02-17-15-26
+Adjust PL exposure 23-02-17-15-26
+Measure PL dark spectrum 23-02-17-15-26
+Measure PL spectrum 23-02-17-15-26
+Measure transient emission 23-02-17-15-26
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-26
+measurement done 23-02-17-15-26
+washing selector to pump line with solvent 23-02-17-15-29
+Discard selector to pump volumes 23-02-17-15-29
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-29
+Measure absorption dark 23-02-17-15-29
+Measure absorption spectrum  23-02-17-15-29
+Measure reference uv power 23-02-17-15-29
+Adjust PL exposure 23-02-17-15-29
+Measure PL dark spectrum 23-02-17-15-29
+Measure PL spectrum 23-02-17-15-29
+Measure transient emission 23-02-17-15-29
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-29
+measurement done 23-02-17-15-29
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-29
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-30
+Measure absorption dark 23-02-17-15-30
+Measure absorption spectrum  23-02-17-15-30
+Measure reference uv power 23-02-17-15-30
+Adjust PL exposure 23-02-17-15-30
+Measure PL dark spectrum 23-02-17-15-30
+Measure PL spectrum 23-02-17-15-30
+Measure transient emission 23-02-17-15-30
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-30
+measurement done 23-02-17-15-30
+washing selector to pump line with solvent 23-02-17-15-33
+Discard selector to pump volumes 23-02-17-15-33
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-34
+Measure absorption dark 23-02-17-15-34
+Measure absorption spectrum  23-02-17-15-34
+Measure reference uv power 23-02-17-15-34
+Adjust PL exposure 23-02-17-15-34
+Measure PL dark spectrum 23-02-17-15-34
+Measure PL spectrum 23-02-17-15-34
+Measure transient emission 23-02-17-15-34
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-34
+measurement done 23-02-17-15-34
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-34
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-34
+Measure absorption dark 23-02-17-15-34
+Measure absorption spectrum  23-02-17-15-34
+Measure reference uv power 23-02-17-15-34
+Adjust PL exposure 23-02-17-15-34
+Measure PL dark spectrum 23-02-17-15-34
+Measure PL spectrum 23-02-17-15-34
+Measure transient emission 23-02-17-15-34
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-35
+Discard selector to pump volumes 23-02-17-15-35
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-35
+Measure absorption dark 23-02-17-15-35
+Measure absorption spectrum  23-02-17-15-35
+Measure reference uv power 23-02-17-15-35
+Adjust PL exposure 23-02-17-15-35
+Measure PL dark spectrum 23-02-17-15-35
+Measure PL spectrum 23-02-17-15-35
+Measure transient emission 23-02-17-15-35
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-35
+measurement done 23-02-17-15-35
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-35
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-35
+Measure absorption dark 23-02-17-15-35
+Measure absorption spectrum  23-02-17-15-35
+Measure reference uv power 23-02-17-15-35
+Adjust PL exposure 23-02-17-15-35
+Measure PL dark spectrum 23-02-17-15-35
+Measure PL spectrum 23-02-17-15-35
+Measure transient emission 23-02-17-15-35
+Wash cells
+Wash collector 13
+washing selector to pump line with solvent 23-02-17-15-36
+Discard selector to pump volumes 23-02-17-15-36
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-36
+Measure absorption dark 23-02-17-15-36
+Measure absorption spectrum  23-02-17-15-36
+Measure reference uv power 23-02-17-15-36
+Adjust PL exposure 23-02-17-15-36
+Measure PL dark spectrum 23-02-17-15-36
+Measure PL spectrum 23-02-17-15-36
+Measure transient emission 23-02-17-15-36
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-36
+measurement done 23-02-17-15-36
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-36
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-36
+Measure absorption dark 23-02-17-15-36
+Measure absorption spectrum  23-02-17-15-36
+Measure reference uv power 23-02-17-15-36
+Adjust PL exposure 23-02-17-15-36
+Measure PL dark spectrum 23-02-17-15-36
+Measure PL spectrum 23-02-17-15-36
+Measure transient emission 23-02-17-15-36
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-36
+measurement done 23-02-17-15-36
+washing selector to pump line with solvent 23-02-17-15-37
+Discard selector to pump volumes 23-02-17-15-37
+
+measurement start for Blank
+Measure absorption reference 23-02-17-15-37
+Measure absorption dark 23-02-17-15-37
+Measure absorption spectrum  23-02-17-15-37
+Measure reference uv power 23-02-17-15-37
+Adjust PL exposure 23-02-17-15-37
+Measure PL dark spectrum 23-02-17-15-37
+Measure PL spectrum 23-02-17-15-37
+Measure transient emission 23-02-17-15-37
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-37
+measurement done 23-02-17-15-37
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-37
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-37
+Measure absorption dark 23-02-17-15-37
+Measure absorption spectrum  23-02-17-15-37
+Measure reference uv power 23-02-17-15-37
+Adjust PL exposure 23-02-17-15-37
+Measure PL dark spectrum 23-02-17-15-37
+Measure PL spectrum 23-02-17-15-37
+Measure transient emission 23-02-17-15-37
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-37
+measurement done 23-02-17-15-37
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-41
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-42
+Measure absorption dark 23-02-17-15-42
+Measure absorption spectrum  23-02-17-15-42
+Measure reference uv power 23-02-17-15-42
+Adjust PL exposure 23-02-17-15-42
+Measure PL dark spectrum 23-02-17-15-42
+Measure PL spectrum 23-02-17-15-42
+Measure transient emission 23-02-17-15-42
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-42
+measurement done 23-02-17-15-42
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-43
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-43
+Measure absorption dark 23-02-17-15-43
+Measure absorption spectrum  23-02-17-15-43
+Measure reference uv power 23-02-17-15-43
+Adjust PL exposure 23-02-17-15-43
+Measure PL dark spectrum 23-02-17-15-43
+Measure PL spectrum 23-02-17-15-43
+Measure transient emission 23-02-17-15-43
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-43
+measurement done 23-02-17-15-43
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-44
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-44
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-44
+Measure absorption dark 23-02-17-15-44
+Measure absorption spectrum  23-02-17-15-44
+Measure reference uv power 23-02-17-15-44
+Adjust PL exposure 23-02-17-15-44
+Measure PL dark spectrum 23-02-17-15-44
+Measure PL spectrum 23-02-17-15-44
+Measure transient emission 23-02-17-15-44
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-44
+measurement done 23-02-17-15-44
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-45
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-46
+Measure absorption dark 23-02-17-15-46
+Measure absorption spectrum  23-02-17-15-46
+Measure reference uv power 23-02-17-15-46
+Adjust PL exposure 23-02-17-15-46
+Measure PL dark spectrum 23-02-17-15-46
+Measure PL spectrum 23-02-17-15-46
+Measure transient emission 23-02-17-15-46
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-46
+measurement done 23-02-17-15-46
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-46
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-53
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-53
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-53
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-53
+Measure absorption dark 23-02-17-15-53
+Measure absorption spectrum  23-02-17-15-53
+Measure reference uv power 23-02-17-15-53
+Adjust PL exposure 23-02-17-15-53
+Measure PL dark spectrum 23-02-17-15-53
+Measure PL spectrum 23-02-17-15-53
+Measure transient emission 23-02-17-15-53
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-53
+measurement done 23-02-17-15-53
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-53
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-55
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-56
+Measure absorption dark 23-02-17-15-56
+Measure absorption spectrum  23-02-17-15-56
+Measure reference uv power 23-02-17-15-56
+Adjust PL exposure 23-02-17-15-56
+Measure PL dark spectrum 23-02-17-15-56
+Measure PL spectrum 23-02-17-15-56
+Measure transient emission 23-02-17-15-56
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-56
+measurement done 23-02-17-15-56
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-56
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-57
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-57
+Measure absorption dark 23-02-17-15-57
+Measure absorption spectrum  23-02-17-15-57
+Measure reference uv power 23-02-17-15-57
+Adjust PL exposure 23-02-17-15-57
+Measure PL dark spectrum 23-02-17-15-57
+Measure PL spectrum 23-02-17-15-57
+Measure transient emission 23-02-17-15-57
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-57
+measurement done 23-02-17-15-57
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-57
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-57
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-58
+Measure absorption dark 23-02-17-15-58
+Measure absorption spectrum  23-02-17-15-58
+Measure reference uv power 23-02-17-15-58
+Adjust PL exposure 23-02-17-15-58
+Measure PL dark spectrum 23-02-17-15-58
+Measure PL spectrum 23-02-17-15-58
+Measure transient emission 23-02-17-15-58
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-58
+measurement done 23-02-17-15-58
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-58
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-15-58
+Measure absorption dark 23-02-17-15-58
+Measure absorption spectrum  23-02-17-15-58
+Measure reference uv power 23-02-17-15-58
+Adjust PL exposure 23-02-17-15-58
+Measure PL dark spectrum 23-02-17-15-58
+Measure PL spectrum 23-02-17-15-58
+Measure transient emission 23-02-17-15-58
+Wash cells
+Wash collector 13
+discard sample 23-02-17-15-58
+measurement done 23-02-17-15-58
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-15-58
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-00
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-16-00
+Measure absorption dark 23-02-17-16-00
+Measure absorption spectrum  23-02-17-16-00
+Measure reference uv power 23-02-17-16-00
+Adjust PL exposure 23-02-17-16-00
+Measure PL dark spectrum 23-02-17-16-00
+Measure PL spectrum 23-02-17-16-00
+Measure transient emission 23-02-17-16-00
+Wash cells
+Wash collector 13
+discard sample 23-02-17-16-00
+measurement done 23-02-17-16-00
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-00
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-01
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-16-01
+Measure absorption dark 23-02-17-16-01
+Measure absorption spectrum  23-02-17-16-01
+Measure reference uv power 23-02-17-16-01
+Adjust PL exposure 23-02-17-16-01
+Measure PL dark spectrum 23-02-17-16-01
+Measure PL spectrum 23-02-17-16-01
+Measure transient emission 23-02-17-16-01
+Wash cells
+Wash collector 13
+discard sample 23-02-17-16-01
+measurement done 23-02-17-16-01
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-01
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-03
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-16-04
+Measure absorption dark 23-02-17-16-04
+Measure absorption spectrum  23-02-17-16-04
+Measure reference uv power 23-02-17-16-04
+Adjust PL exposure 23-02-17-16-04
+Measure PL dark spectrum 23-02-17-16-04
+Measure PL spectrum 23-02-17-16-04
+Measure transient emission 23-02-17-16-04
+Wash cells
+Wash collector 13
+discard sample 23-02-17-16-04
+measurement done 23-02-17-16-04
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-04
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-06
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-16-06
+Measure absorption dark 23-02-17-16-06
+Measure absorption spectrum  23-02-17-16-06
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-07
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-16-07
+Measure absorption dark 23-02-17-16-07
+Measure absorption spectrum  23-02-17-16-07
+Measure reference uv power 23-02-17-16-07
+Adjust PL exposure 23-02-17-16-07
+Measure PL dark spectrum 23-02-17-16-07
+Measure PL spectrum 23-02-17-16-07
+Measure transient emission 23-02-17-16-07
+Wash cells
+Wash collector 13
+discard sample 23-02-17-16-07
+measurement done 23-02-17-16-07
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-07
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-02-17-16-08
+Measure absorption dark 23-02-17-16-08
+Measure absorption spectrum  23-02-17-16-08
+Measure reference uv power 23-02-17-16-08
+Adjust PL exposure 23-02-17-16-08
+Measure PL dark spectrum 23-02-17-16-08
+Measure PL spectrum 23-02-17-16-08
+Measure transient emission 23-02-17-16-08
+Wash cells
+Wash collector 13
+discard sample 23-02-17-16-08
+measurement done 23-02-17-16-08
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-08
+sample waiting for re-dissolution 0
+waiting job input 23-02-17-16-08

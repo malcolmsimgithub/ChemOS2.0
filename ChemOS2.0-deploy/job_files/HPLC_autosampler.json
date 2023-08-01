@@ -1,0 +1,5 @@
+{"name": "test_hplc_job", 
+    "itype": "characterization_1st", 
+    "position": "Y:A9",
+    "targets": [{"name": "Carbazole", "type": "product", "smiles": "c1ccc2c(c1)c3ccccc3[nH]2"}, 
+        {"name": "BHT", "type": "others", "formula": "C15H24O"}]}

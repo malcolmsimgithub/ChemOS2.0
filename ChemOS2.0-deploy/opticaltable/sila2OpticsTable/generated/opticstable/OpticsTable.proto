@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+import "SiLAFramework.proto";
+
+package sila2.org.silastandard.examples.opticstable.v1;
+
+/* Simulates the optics table platform */
+service OpticsTable {
+  /* Gets the Status of the optics table */
+  rpc Status (sila2.org.silastandard.examples.opticstable.v1.Status_Parameters) returns (sila2.org.silastandard.examples.opticstable.v1.Status_Responses) {}
+  /* Submits a Job for the OpticsTableSimulator to do */
+  rpc SubmitJob (sila2.org.silastandard.examples.opticstable.v1.SubmitJob_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of SubmitJob */
+  rpc SubmitJob_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of SubmitJob */
+  rpc SubmitJob_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.opticstable.v1.SubmitJob_IntermediateResponses) {}
+  /* Retrieve result of SubmitJob */
+  rpc SubmitJob_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.opticstable.v1.SubmitJob_Responses) {}
+}
+
+/* Parameters for Status */
+message Status_Parameters {
+}
+
+/* Responses of Status */
+message Status_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Parameters for SubmitJob */
+message SubmitJob_Parameters {
+  sila2.org.silastandard.String JobFile = 1;  /* Job file to use in this experiment. */
+}
+
+/* Responses of SubmitJob */
+message SubmitJob_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of SubmitJob */
+message SubmitJob_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of batch */
+  sila2.org.silastandard.Binary Payload = 2;  /* Data Payload intermediate response */
+}

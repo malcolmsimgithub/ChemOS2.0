@@ -1,0 +1,30 @@
+{
+
+	"database": {
+        "hostname" : "localhost", 
+        "username" : "postgres", 
+        "password" : "",
+        "database" : "test1"
+	},
+
+	"lab": {
+		"name" : "MatterLab",
+		"short_name" : "ML"
+	},
+
+	"experiment_type": {
+		"name" : "Transient_PL"
+	},
+
+	"experiment_machine": {
+		"name" : "TPL-TK",
+		"model" : "Ver0.0",
+		"make" : "",
+		"metadata" : {"notes" :  "A Transient_PL setup Developed by Tony Wu and Kazuhiro Hotta"}
+	},
+
+	"units": {
+		"time" : "nano seconds",
+		"signal" : "photon count"
+	}
+}

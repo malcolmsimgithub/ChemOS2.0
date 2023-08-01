@@ -1,0 +1,103 @@
+id,device_id,job_id,name,status,timestamp,location
+4670,2,734,,beginning job BSBCz_C005_jul2023-07-24-13-40,2023-07-24 13:40:16.323193,uoft
+4671,2,734,,"new job ""BSBCz_C005_jul2023-07-24-13-40"" was submitted",2023-07-24 13:40:16.323193,uoft
+4672,2,734,,waiting a ready signal,2023-07-24 13:40:16.323193,uoft
+4673,2,734,,ready signal detected,2023-07-24 13:40:16.323193,uoft
+4674,2,734,,waiting a start signal,2023-07-24 13:40:16.323193,uoft
+4676,2,734,,HPLC run started,2023-07-24 13:40:16.323193,uoft
+4677,2,734,,"
+waiting until the run finishes
+",2023-07-24 13:40:16.323193,uoft
+4680,2,734,,"
+peak_analysis result for DAD data(wavelength averaged)
+************",2023-07-24 13:40:16.323193,uoft
+4681,2,734,,"
+starting data analysis for the injection <BSBCz_C005_jul2023-07-24-13-40>",2023-07-24 13:40:16.323193,uoft
+4682,2,734,,Time for DAD analysis (wavelength average) : 21.783418893814087 s,2023-07-24 13:40:16.323193,uoft
+4683,2,734,,"
+peak_analysis result for MS data
+************",2023-07-24 13:40:16.323193,uoft
+4684,2,734,,"
+peak_analysis for TIC_ESI_positive_MS1
+***",2023-07-24 13:40:16.323193,uoft
+4685,2,734,,"
+ BSBCz_derivative (C55H42N2) was found mainly as +.",2023-07-24 13:40:16.323193,uoft
+4686,2,734,,delta_mz : 0.0,2023-07-24 13:40:16.323193,uoft
+4687,2,734,,delta_mz : -0.0061868552472788,2023-07-24 13:40:16.323193,uoft
+4688,2,734,,delta_mz : -0.0061868552472788,2023-07-24 13:40:16.323193,uoft
+4689,2,734,,delta_mz : -0.0065530661847788,2023-07-24 13:40:16.323193,uoft
+4690,2,734,,delta_mz : -0.0049051169660288,2023-07-24 13:40:16.323193,uoft
+4691,2,734,,delta_mz : -0.0047220114972788,2023-07-24 13:40:16.323193,uoft
+4692,2,734,,"
+ BHT (C15H24O) was found mainly as +.",2023-07-24 13:40:16.323193,uoft
+4693,2,734,,delta_mz : -0.00450873903645288,2023-07-24 13:40:16.323193,uoft
+4694,2,734,,delta_mz : -0.00452399782551538,2023-07-24 13:40:16.323193,uoft
+4695,2,734,,"
+DAD peak annotation by MS data
+************",2023-07-24 13:40:16.323193,uoft
+4696,2,734,,"
+analysis for BSBCz_derivative
+************",2023-07-24 13:40:16.323193,uoft
+4697,2,734,,lambda_max(250-500): 378.0 nm,2023-07-24 13:40:16.323193,uoft
+4698,2,734,,lambda_max(250-500): 378.0 nm,2023-07-24 13:40:16.323193,uoft
+4699,2,734,,"
+peak_analysis result for DAD data(wavelength :378.0 nm)
+************",2023-07-24 13:40:16.323193,uoft
+4700,2,734,,Time for DAD analysis (BSBCz_derivative) : 26.608829975128174 s,2023-07-24 13:40:16.323193,uoft
+4701,2,734,,"
+Retention time of BSBCz_derivative: 11.60 min (start 11.46, end 11.75)",2023-07-24 13:40:16.323193,uoft
+4702,2,734,,"
+Retention time of BSBCz_derivative: 11.64 min (start 11.54, end 11.74)",2023-07-24 13:40:16.323193,uoft
+4703,2,734,,lambda_max(250-500): 368.0 nm,2023-07-24 13:40:16.323193,uoft
+4704,2,734,,lambda_max(250-500): 368.0 nm,2023-07-24 13:40:16.323193,uoft
+4705,2,734,,"
+peak_analysis result for DAD data(wavelength :368.0 nm)
+************",2023-07-24 13:40:16.323193,uoft
+4706,2,734,,Time for DAD analysis (BSBCz_derivative) : 57.20348405838013 s,2023-07-24 13:40:16.323193,uoft
+4707,2,734,,"
+Retention time of BSBCz_derivative: 11.63 min (start 11.52, end 11.74)",2023-07-24 13:40:16.323193,uoft
+4708,2,734,,lambda_max(250-500): 364.0 nm,2023-07-24 13:40:16.323193,uoft
+4709,2,734,,lambda_max(250-500): 364.0 nm,2023-07-24 13:40:16.323193,uoft
+4710,2,734,,"
+peak_analysis result for DAD data(wavelength :364.0 nm)
+************",2023-07-24 13:40:16.323193,uoft
+4711,2,734,,Time for DAD analysis (BSBCz_derivative) : 76.98648071289062 s,2023-07-24 13:40:16.323193,uoft
+4712,2,734,,"
+Retention time of BSBCz_derivative: 11.75 min (start 11.71, end 11.89)",2023-07-24 13:40:16.323193,uoft
+4713,2,734,,lambda_max(250-500): 250.0 nm,2023-07-24 13:40:16.323193,uoft
+4714,2,734,,lambda_max(250-500): 250.0 nm,2023-07-24 13:40:16.323193,uoft
+4715,2,734,,"
+peak_analysis result for DAD data(wavelength :250.0 nm)
+************",2023-07-24 13:40:16.323193,uoft
+4716,2,734,,Time for DAD analysis (BSBCz_derivative) : 27.605537176132202 s,2023-07-24 13:40:16.323193,uoft
+4717,2,734,,"
+Retention time of BSBCz_derivative: 11.93 min (start 11.80, end 12.06)",2023-07-24 13:40:16.323193,uoft
+4718,2,734,,"
+analysis for BHT
+************",2023-07-24 13:40:16.323193,uoft
+4719,2,734,,lambda_max(250-500): 280.0 nm,2023-07-24 13:40:16.323193,uoft
+4720,2,734,,lambda_max(250-500): 280.0 nm,2023-07-24 13:40:16.323193,uoft
+4721,2,734,,"
+peak_analysis result for DAD data(wavelength :280.0 nm)
+************",2023-07-24 13:40:16.323193,uoft
+4722,2,734,,Time for DAD analysis (BHT) : 34.1041362285614 s,2023-07-24 13:40:16.323193,uoft
+4723,2,734,,"
+Retention time of BHT: 7.34 min (start 7.26, end 7.39)",2023-07-24 13:40:16.323193,uoft
+4724,2,734,,"
+Retention time of BHT: 7.43 min (start 7.39, end 7.52)",2023-07-24 13:40:16.323193,uoft
+4725,2,734,,lambda_max(250-500): 278.0 nm,2023-07-24 13:40:16.323193,uoft
+4726,2,734,,lambda_max(250-500): 278.0 nm,2023-07-24 13:40:16.323193,uoft
+4727,2,734,,"
+peak_analysis result for DAD data(wavelength :278.0 nm)
+************",2023-07-24 13:40:16.323193,uoft
+4728,2,734,,Time for DAD analysis (BHT) : 25.034717559814453 s,2023-07-24 13:40:16.323193,uoft
+4729,2,734,,"
+Retention time of BHT: 7.35 min (start 7.26, end 7.39)",2023-07-24 13:40:16.323193,uoft
+4730,2,734,,"
+Retention time of BHT: 7.42 min (start 7.39, end 7.52)",2023-07-24 13:40:16.323193,uoft
+4731,2,734,,"target: BSBCz_derivative, average_abs_peak(368.0nm) : 1087.8439001944007, average_abs_375 : 1141.327628421206, sample_volume : 0.08136000000000032",2023-07-24 13:40:16.323193,uoft
+4732,2,734,,"
+concentration for BSBCz_C005_jul2023-07-24-13-40: 1",2023-07-24 13:40:16.323193,uoft
+4733,2,734,,"
+file C:\Users\Thermo\Documents\sila-hplc-deploy-master\data_path\jobs_returned/BSBCz_C005_jul2023-07-24-13-40.pkl was submitted to chemspeed",2023-07-24 13:40:16.323193,uoft
+4734,2,734,,job termination detected,2023-07-24 13:40:16.323193,uoft

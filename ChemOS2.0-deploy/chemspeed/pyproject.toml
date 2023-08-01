@@ -1,0 +1,21 @@
+[project]
+name = "chmspd_sila2_pkg"
+version = "0.0.0"
+requires-python = ">=3.7"
+dependencies = [
+    "sila2",
+    "typer",
+]
+
+[build-system]
+requires = ["setuptools>=0.61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["chmspd_sila2_pkg*"]
+
+[tool.setuptools.package-data]
+"chmspd_sila2_pkg.generated" = [
+    "*/*.sila.xml",
+    "*/*.proto",
+]

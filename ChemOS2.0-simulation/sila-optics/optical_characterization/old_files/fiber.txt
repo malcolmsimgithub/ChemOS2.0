@@ -1,0 +1,2 @@
+absorption : 15ms  
+ - N92L02 -> 0.02

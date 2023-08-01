@@ -1,0 +1,18 @@
+sample waiting for re-dissolution 0
+waiting job input 23-04-07-19-52
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-07-20-15
+Measure absorption dark 23-04-07-20-15
+Measure absorption spectrum  23-04-07-20-15
+Measure reference uv power 23-04-07-20-15
+Adjust PL exposure 23-04-07-20-15
+Measure PL dark spectrum 23-04-07-20-15
+Measure PL spectrum 23-04-07-20-15
+Measure transient emission 23-04-07-20-15
+Wash cells
+Wash collector 13
+discard sample 23-04-07-20-15
+measurement done 23-04-07-20-15
+sample waiting for re-dissolution 0
+waiting job input 23-04-07-20-15

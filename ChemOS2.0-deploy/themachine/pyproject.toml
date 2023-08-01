@@ -1,0 +1,21 @@
+[project]
+name = "silathemachine"
+version = "0.0.0"
+requires-python = ">=3.7"
+dependencies = [
+    "sila2",
+    "typer",
+]
+
+[build-system]
+requires = ["setuptools>=0.61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["silathemachine*"]
+
+[tool.setuptools.package-data]
+"silathemachine.generated" = [
+    "*/*.sila.xml",
+    "*/*.proto",
+]

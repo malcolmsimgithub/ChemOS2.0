@@ -1,0 +1,234 @@
+sample waiting for re-dissolution 0
+waiting job input (2022-08-10 18:49:25)
+
+measurement start for MeCN_Blank
+valve connection opened
+washing selector to pump line with solvent (2022-08-10 19:11:34)
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+Measure absorption reference (2022-08-10 19:12:52)
+Emplying the flow cell (2022-08-10 19:13:17)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-08-10 19:14:08)
+Measure absorption spectrum  (2022-08-10 19:14:13)
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+Measure reference uv power (2022-08-10 19:15:14)
+Emplying the flow cell (2022-08-10 19:15:22)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-08-10 19:16:18)
+Measure PL dark spectrum (2022-08-10 19:16:21)
+Measure PL spectrum (2022-08-10 19:16:43)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-08-10 19:17:35)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-08-10 19:18:07)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-08-10 19:18:59)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+measurement done (2022-08-10 19:23:08)
+sample waiting for re-dissolution 0
+waiting job input (2022-08-10 19:23:11)
+
+measurement start for VR-686_opt
+valve connection opened
+washing selector to pump line with solvent (2022-08-10 20:20:44)
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.345 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-08-10 20:21:35)
+Emplying the flow cell (2022-08-10 20:21:59)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-08-10 20:22:50)
+Measure absorption spectrum  (2022-08-10 20:22:56)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-08-10 20:23:29)
+Emplying the flow cell (2022-08-10 20:23:37)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-08-10 20:24:33)
+Measure PL dark spectrum (2022-08-10 20:24:36)
+Measure PL spectrum (2022-08-10 20:24:58)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-08-10 20:25:50)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-08-10 20:26:22)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-08-10 20:26:47)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+measurement done (2022-08-10 20:30:57)
+sample waiting for re-dissolution 0
+waiting job input (2022-08-10 20:31:00)
+
+measurement start for VR-687_opt
+valve connection opened
+washing selector to pump line with solvent (2022-08-10 20:55:55)
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.296 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-08-10 20:56:46)
+Emplying the flow cell (2022-08-10 20:57:10)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-08-10 20:58:01)
+Measure absorption spectrum  (2022-08-10 20:58:07)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-08-10 20:58:40)
+Emplying the flow cell (2022-08-10 20:58:48)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-08-10 20:59:44)
+Measure PL dark spectrum (2022-08-10 20:59:47)
+Measure PL spectrum (2022-08-10 21:00:09)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-08-10 21:01:01)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-08-10 21:01:33)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-08-10 21:02:01)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+measurement done (2022-08-10 21:06:10)
+sample waiting for re-dissolution 0
+waiting job input (2022-08-10 21:06:13)
+
+measurement start for VR-688_opt
+valve connection opened
+washing selector to pump line with solvent (2022-08-10 21:31:34)
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.316 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-08-10 21:32:25)
+Emplying the flow cell (2022-08-10 21:32:49)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-08-10 21:33:40)
+Measure absorption spectrum  (2022-08-10 21:33:46)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-08-10 21:34:19)
+Emplying the flow cell (2022-08-10 21:34:26)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-08-10 21:35:23)
+Measure PL dark spectrum (2022-08-10 21:35:26)
+Measure PL spectrum (2022-08-10 21:35:47)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-08-10 21:36:40)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-08-10 21:37:12)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-08-10 21:37:44)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+measurement done (2022-08-10 21:41:54)
+sample waiting for re-dissolution 0
+waiting job input (2022-08-10 21:41:57)
+
+measurement start for VR-689_opt
+valve connection opened
+washing selector to pump line with solvent (2022-08-10 22:07:02)
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.340 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-08-10 22:07:53)
+Emplying the flow cell (2022-08-10 22:08:17)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-08-10 22:09:09)
+Measure absorption spectrum  (2022-08-10 22:09:14)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-08-10 22:09:47)
+Emplying the flow cell (2022-08-10 22:09:55)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-08-10 22:10:51)
+Measure PL dark spectrum (2022-08-10 22:10:54)
+Measure PL spectrum (2022-08-10 22:11:16)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-08-10 22:12:09)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-08-10 22:12:40)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-08-10 22:13:26)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+measurement done (2022-08-10 22:17:36)
+sample waiting for re-dissolution 0
+waiting job input (2022-08-10 22:17:39)
+
+measurement start for VR-690_opt
+valve connection opened
+washing selector to pump line with solvent (2022-08-10 22:42:04)
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.720 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-08-10 22:42:55)
+Emplying the flow cell (2022-08-10 22:43:19)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-08-10 22:44:10)
+Measure absorption spectrum  (2022-08-10 22:44:16)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-08-10 22:44:49)
+Emplying the flow cell (2022-08-10 22:44:57)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-08-10 22:45:53)
+Measure PL dark spectrum (2022-08-10 22:45:56)
+Measure PL spectrum (2022-08-10 22:46:18)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-08-10 22:47:10)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-08-10 22:47:42)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-08-10 22:48:32)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+measurement done (2022-08-10 22:52:42)
+sample waiting for re-dissolution 0
+waiting job input (2022-08-10 22:52:45)

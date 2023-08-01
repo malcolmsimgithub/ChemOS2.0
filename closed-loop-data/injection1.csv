@@ -1,0 +1,4 @@
+id,device_id,job_id,name,status,timestamp,location
+4675,1,735,,Characterization: Injection started for job Injection_23-07-24_13-41,2023-07-24 13:41:33.339668,uoft
+4678,1,735,,Characterization: Injection done for Injection_23-07-24_13-41,2023-07-24 13:41:33.339668,uoft
+4679,1,735,,Characterization: Injection done for Injection_23-07-24_13-41,2023-07-24 13:41:33.339668,uoft

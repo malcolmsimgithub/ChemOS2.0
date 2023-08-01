@@ -1,0 +1,52 @@
+sample waiting for re-dissolution 0
+waiting job input 23-08-01-11-26
+
+measurement start 23-08-01-11-34
+Measure absorption reference 23-08-01-11-34
+Measure absorption dark 23-08-01-11-34
+Measure absorption spectrum  23-08-01-11-34
+Measure reference uv power 23-08-01-11-34
+Adjust PL exposure 23-08-01-11-34
+Measure PL dark spectrum 23-08-01-11-34
+Measure PL spectrum 23-08-01-11-34
+Measure transient emission 23-08-01-11-34
+Wash cells
+Wash collector 13
+discard sample 23-08-01-11-34
+measurement done 23-08-01-11-34
+sample waiting for re-dissolution 0
+waiting job input 23-08-01-11-34
+sample waiting for re-dissolution 0
+waiting job input 23-08-01-13-35
+
+measurement start 23-08-01-13-38
+Measure absorption reference 23-08-01-13-38
+Measure absorption dark 23-08-01-13-38
+Measure absorption spectrum  23-08-01-13-38
+Measure reference uv power 23-08-01-13-38
+Adjust PL exposure 23-08-01-13-38
+Measure PL dark spectrum 23-08-01-13-38
+Measure PL spectrum 23-08-01-13-38
+Measure transient emission 23-08-01-13-38
+Wash cells
+Wash collector 13
+discard sample 23-08-01-13-38
+measurement done 23-08-01-13-38
+sample waiting for re-dissolution 0
+waiting job input 23-08-01-13-38
+
+measurement start 23-08-01-13-41
+Measure absorption reference 23-08-01-13-41
+Measure absorption dark 23-08-01-13-41
+Measure absorption spectrum  23-08-01-13-41
+Measure reference uv power 23-08-01-13-41
+Adjust PL exposure 23-08-01-13-41
+Measure PL dark spectrum 23-08-01-13-41
+Measure PL spectrum 23-08-01-13-41
+Measure transient emission 23-08-01-13-41
+Wash cells
+Wash collector 13
+discard sample 23-08-01-13-41
+measurement done 23-08-01-13-41
+sample waiting for re-dissolution 0
+waiting job input 23-08-01-13-41

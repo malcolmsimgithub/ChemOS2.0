@@ -1,0 +1,39 @@
+id,device_id,job_id,name,status,timestamp,location
+4801,3,738,,submitted job BSBCz_23-07-24-14-40,2023-07-24 14:40:30.108814,uoft
+4802,3,738,,processing job BSBCz_23-07-24-14-40,2023-07-24 14:40:30.108814,uoft
+4803,3,738,,"
+measurement start for BSBCz_C00523-07-20-17-38",2023-07-24 14:40:30.108814,uoft
+4804,3,738,,valve connection opened,2023-07-24 14:40:30.108814,uoft
+4805,3,738,,23-07-24-14-40: washing selector to pump line with solvent,2023-07-24 14:40:30.108814,uoft
+4806,3,738,,Discard selector to pump volumes,2023-07-24 14:40:30.108814,uoft
+4807,3,738,,Switch selector to position 5,2023-07-24 14:40:30.108814,uoft
+4808,3,738,,Draw 0.194 ml of sample,2023-07-24 14:40:30.108814,uoft
+4809,3,738,,Switch selector to position 1,2023-07-24 14:40:30.108814,uoft
+4810,3,738,,valve connection closed,2023-07-24 14:40:30.108814,uoft
+4811,3,738,,23-07-24-14-41Measure absorption reference ,2023-07-24 14:40:30.108814,uoft
+4812,3,738,,23-07-24-14-41 :Emplying the flow cell,2023-07-24 14:40:30.108814,uoft
+4813,3,738,,Send 0.085 ml of solution to flow cell,2023-07-24 14:40:30.108814,uoft
+4814,3,738,, 23-07-24-14-42: Measure absorption dark,2023-07-24 14:40:30.108814,uoft
+4815,3,738,, 23-07-24-14-42 Measure absorption spectrum ,2023-07-24 14:40:30.108814,uoft
+4816,3,738,,Collect 0.085 ml of solution to flow cell,2023-07-24 14:40:30.108814,uoft
+4817,3,738,,23-07-24-14-43:Measure reference uv power,2023-07-24 14:40:30.108814,uoft
+4818,3,738,,23-07-24-14-43 :Emplying the flow cell,2023-07-24 14:40:30.108814,uoft
+4819,3,738,,Send 0.100 ml of solution to flow cell,2023-07-24 14:40:30.108814,uoft
+4820,3,738,, 23-07-24-14-44: Adjust PL exposure,2023-07-24 14:40:30.108814,uoft
+4821,3,738,,23-07-24-14-44: Measure PL dark spectrum,2023-07-24 14:40:30.108814,uoft
+4822,3,738,,23-07-24-14-44Measure PL spectrum,2023-07-24 14:40:30.108814,uoft
+4823,3,738,,Collect 0.100 ml of solution to flow cell,2023-07-24 14:40:30.108814,uoft
+4824,3,738,,23-07-24-14-45 :Emplying the flow cell,2023-07-24 14:40:30.108814,uoft
+4825,3,738,,Send 0.100 ml of solution to flow cell,2023-07-24 14:40:30.108814,uoft
+4826,3,738,, 23-07-24-14-45 Measure transient emission,2023-07-24 14:40:30.108814,uoft
+4827,3,738,,Collect 0.100 ml of solution to flow cell,2023-07-24 14:40:30.108814,uoft
+4828,3,738,, 23-07-24-14-46: discard sample ,2023-07-24 14:40:30.108814,uoft
+4829,3,738,,Wash flow_cell_abs,2023-07-24 14:40:30.108814,uoft
+4830,3,738,,Wash flow_cell_PL,2023-07-24 14:40:30.108814,uoft
+4831,3,738,,Wash flow_cell,2023-07-24 14:40:30.108814,uoft
+4832,3,738,,Wash vial,2023-07-24 14:40:30.108814,uoft
+4833,3,738,,valve connection opened,2023-07-24 14:40:30.108814,uoft
+4834,3,738,,Wash collector 5,2023-07-24 14:40:30.108814,uoft
+4835,3,738,,update vial status : vial5 True,2023-07-24 14:40:30.108814,uoft
+4836,3,738,,valve connection closed,2023-07-24 14:40:30.108814,uoft
+4837,3,738,, 23-07-24-14-50: measurement done,2023-07-24 14:40:30.108814,uoft

@@ -1,0 +1,1 @@
+{"jobname":"democampaign","goal": "maximize", "num_init_design": 1, "has_descriptors": false, "acquisition_type": "EI", "acquisition_optimizer_kind": "Gradient"}

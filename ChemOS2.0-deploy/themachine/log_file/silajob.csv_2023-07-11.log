@@ -1,0 +1,52 @@
+2023-07-11 17:00:50.452152	silajob.csv Start Run
+2023-07-11 17:01:13.954783	Pump Initialization Successful
+2023-07-11 17:04:30.851893	Sample 1 Atmosphere Changed
+2023-07-11 17:04:47.197360	Syringe 2rinsed with Liquid G_1
+2023-07-11 17:04:47.804114	0mL Liquid G_1 in Syringe 2
+2023-07-11 17:04:55.161489	1.5mL Liquid G_1 in Syringe 2
+2023-07-11 17:05:06.708194	Liquid add to Group 1 Rxn_Port 1
+2023-07-11 17:05:30.504813	Tubing flushed with N2
+2023-07-11 17:05:34.548604	Start Heating 60 Stirring 500 for 0.01 hours
+2023-07-11 17:06:12.587179	Stop Heating and Stirring
+2023-07-11 17:06:29.675577	Syringe 2rinsed with Liquid G_1
+2023-07-11 17:06:30.283896	0mL Liquid G_1 in Syringe 2
+2023-07-11 17:09:37.188616	Stock 31 Atmosphere Changed
+2023-07-11 17:09:53.533062	Syringe 2rinsed with Liquid G_1
+2023-07-11 17:10:18.321272	6mL Liquid G_1 in Syringe 2
+2023-07-11 17:10:47.604346	Liquid add to Group 3 Rxn_Port 1
+2023-07-11 17:11:09.481196	Tubing flushed with N2
+2023-07-11 17:11:39.228263	6mL Liquid 31 in Syringe 2
+2023-07-11 17:12:07.711506	Liquid add to Group 3 Rxn_Port 1
+2023-07-11 17:12:29.588580	Tubing flushed with N2
+2023-07-11 17:12:59.286618	6mL Liquid 31 in Syringe 2
+2023-07-11 17:13:27.770382	Liquid add to Group 3 Rxn_Port 1
+2023-07-11 17:13:49.648024	Tubing flushed with N2
+2023-07-11 17:14:19.409733	6mL Liquid 31 in Syringe 2
+2023-07-11 17:14:47.877285	Liquid add to Group 3 Rxn_Port 1
+2023-07-11 17:15:09.754495	Tubing flushed with N2
+2023-07-11 17:15:39.452961	6mL Liquid 31 in Syringe 2
+2023-07-11 17:16:07.934356	Liquid add to Group 3 Rxn_Port 1
+2023-07-11 17:16:29.812439	Tubing flushed with N2
+2023-07-11 17:16:59.559766	6mL Liquid 31 in Syringe 2
+2023-07-11 17:17:28.042652	Liquid add to Group 3 Rxn_Port 1
+2023-07-11 17:17:49.919469	Tubing flushed with N2
+2023-07-11 17:18:19.602187	6mL Liquid 31 in Syringe 2
+2023-07-11 17:18:48.085669	Liquid add to Group 3 Rxn_Port 1
+2023-07-11 17:18:48.085669	Stock 31 Preparation finished
+2023-07-11 17:18:58.401150	1.2mL Liquid 31 in Syringe 2
+2023-07-11 17:19:08.059297	Liquid add to Group 1 Rxn_Port 1
+2023-07-11 17:19:31.856933	Tubing flushed with N2
+2023-07-11 17:19:52.680149	Syringe 2rinsed with liquid 42
+2023-07-11 17:19:53.096119	0mL Liquid 42 in Syringe 2
+2023-07-11 17:20:13.230764	Syringe 2rinsed with liquid 44
+2023-07-11 17:20:13.647380	0mL Liquid 44 in Syringe 2
+2023-07-11 17:20:20.812401	0.5mL Liquid 44 in Syringe 2
+2023-07-11 17:20:27.800902	Liquid add to Group 1 Rxn_Port 1
+2023-07-11 17:20:51.597002	Tubing flushed with N2
+2023-07-11 17:21:12.420106	Syringe 2rinsed with liquid 43
+2023-07-11 17:21:12.835243	0mL Liquid 43 in Syringe 2
+2023-07-11 17:21:18.977015	0.25mL Liquid 43 in Syringe 2
+2023-07-11 17:21:24.926454	Liquid add to Group 1 Rxn_Port 1
+2023-07-11 17:21:48.723630	Tubing flushed with N2
+2023-07-11 17:21:52.741002	Start Heating 90 Stirring 500 for 12.0 hours
+2023-07-12 05:21:54.798573	Stop Heating and Stirring

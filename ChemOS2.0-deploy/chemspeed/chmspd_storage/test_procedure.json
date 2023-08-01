@@ -1,0 +1,9 @@
+{
+  "1" : {"task":  "schlenk_cycle", "parameters":  {"specification": "none", "no_cycles":  5}, "local": false, "pre-operation":  true},
+  "2" : {"task":  "transfer_compound", "parameters":  {"specification": "liquid", "compound":  "Dioxane", "quantity":  1.0, "dry":  true}, "local": true, "pre-operation":  true},
+  "3" : {"task":  "reflux", "parameters":  {"specification": "none", "temperature": 60, "heating":  1, "cooling":  0.5}, "local": false, "pre-operation":  true},
+  "4" : {"task":  "transfer_compound", "parameters":  {"specification": "liquid", "compound":  "$C$", "quantity":  0.5}, "local": true, "pre-operation":  true},
+  "5" : {"task":  "transfer_compound", "parameters":  {"specification": "liquid", "compound":  "SPhosPdG4", "quantity":  0.5}, "local": true, "pre-operation":  false},
+  "6" : {"task":  "transfer_compound", "parameters":  {"specification": "liquid", "compound": "K2CO3", "quantity":  0.3}, "local": true, "pre-operation":  false},
+  "7" : {"task":  "reflux", "parameters":  {"specification": "none", "temperature": 100, "heating":  12, "cooling":  1}, "local": false, "pre-operation":  true}
+}

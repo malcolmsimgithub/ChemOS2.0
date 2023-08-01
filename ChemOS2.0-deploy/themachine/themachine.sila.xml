@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Feature SiLA2Version="1.0" FeatureVersion="1.0" MaturityLevel="Verified" Originator="org.silastandard"
+         Category="examples"
+         xmlns="http://www.sila-standard.org"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.sila-standard.org https://gitlab.com/SiLA2/sila_base/raw/master/schema/FeatureDefinition.xsd">
+  <Identifier>TheMachine</Identifier>
+  <DisplayName>TheMachine</DisplayName>
+  <Description>
+    TheMachine RemoteControl via Sila
+  </Description>
+  <Command>
+    <Identifier>Runjob</Identifier>
+    <DisplayName>Runjob</DisplayName>
+    <Description> Runs a job on the machine platform</Description>
+    <Observable>Yes</Observable>
+    <Parameter>
+      <Identifier>Jobfile</Identifier>
+      <DisplayName>Batch file</DisplayName>
+      <Description>Batch file to use in this experiment.</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Parameter>
+      <Identifier>ProcedureScript</Identifier>
+      <DisplayName>ProcedureScript</DisplayName>
+      <Description>python script of the procedure to use</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+    <IntermediateResponse>
+      <Identifier>Status</Identifier>
+      <DisplayName>Status</DisplayName>
+      <Description>Status of batch </Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </IntermediateResponse>
+  </Command>
+</Feature>

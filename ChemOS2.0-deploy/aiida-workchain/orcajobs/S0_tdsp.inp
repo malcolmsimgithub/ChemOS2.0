@@ -1,0 +1,19 @@
+! PBE0 def2-SV(P) D3BJ def2/J RIJCOSX normalprint nopop defgrid2
+! EnGrad
+%maxcore 1800
+%pal nprocs 16 end
+%tddft  NRoots          5
+        IRoot           1
+        IRootMult       Singlet
+        TDA             True
+        MaxDim          10
+        PrintLevel      3
+        DoTrans         All
+        Tprint          1E-10
+        NACME           True
+        ETF             True
+        SGradList       0, 1, 2, 3
+end
+%method StoreCISGrad    True
+end
+* xyzfile 0 1 ./S0_opt.xyz

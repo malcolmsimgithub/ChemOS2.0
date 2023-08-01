@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+import "SiLAFramework.proto";
+
+package sila2.org.silastandard.examples.themachine.v1;
+
+/* TheMachine RemoteControl via Sila */
+service TheMachine {
+  /*  Runs a job on the machine platform */
+  rpc Runjob (sila2.org.silastandard.examples.themachine.v1.Runjob_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of Runjob */
+  rpc Runjob_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of Runjob */
+  rpc Runjob_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.themachine.v1.Runjob_IntermediateResponses) {}
+  /* Retrieve result of Runjob */
+  rpc Runjob_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.themachine.v1.Runjob_Responses) {}
+}
+
+/* Parameters for Runjob */
+message Runjob_Parameters {
+  sila2.org.silastandard.String Jobfile = 1;  /* Batch file to use in this experiment. */
+  sila2.org.silastandard.String ProcedureScript = 2;  /* python script of the procedure to use */
+}
+
+/* Responses of Runjob */
+message Runjob_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of Runjob */
+message Runjob_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of batch */
+}

@@ -1,0 +1,128 @@
+sample waiting for re-dissolution 0
+waiting job input 23-07-24-09-41
+processing job BSBCz_derivative_23-07-24-12-02
+
+measurement start for BSBCz_C00523-07-20-17-38
+valve connection opened
+23-07-24-12-02: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.194 ml of sample
+Switch selector to position 1
+valve connection closed
+23-07-24-12-03Measure absorption reference 
+23-07-24-12-03 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-07-24-12-04: Measure absorption dark
+ 23-07-24-12-04 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+23-07-24-12-04:Measure reference uv power
+23-07-24-12-05 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-07-24-12-06: Adjust PL exposure
+23-07-24-12-06: Measure PL dark spectrum
+23-07-24-12-06Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-07-24-12-07 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-07-24-12-07 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-07-24-12-08: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-07-24-12-12: measurement done
+job BSBCz_derivative_23-07-24-12-02 completed
+waiting job input 23-07-24-12-12
+processing job BSBCz_23-07-24-14-40
+
+measurement start for BSBCz_C00523-07-20-17-38
+valve connection opened
+23-07-24-14-40: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.194 ml of sample
+Switch selector to position 1
+valve connection closed
+23-07-24-14-41Measure absorption reference 
+23-07-24-14-41 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-07-24-14-42: Measure absorption dark
+ 23-07-24-14-42 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+23-07-24-14-43:Measure reference uv power
+23-07-24-14-43 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-07-24-14-44: Adjust PL exposure
+23-07-24-14-44: Measure PL dark spectrum
+23-07-24-14-44Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-07-24-14-45 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-07-24-14-45 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-07-24-14-46: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-07-24-14-50: measurement done
+job BSBCz_23-07-24-14-40 completed
+waiting job input 23-07-24-14-50
+processing job BSBCz_23-07-24-16-23
+
+measurement start for BSBCz_C00523-07-24-15-33
+sample waiting for re-dissolution 0
+waiting job input 23-07-24-16-29
+processing job BSBCz_23-07-24-16-28
+
+measurement start for BSBCz_C00523-07-24-15-33
+valve connection opened
+23-07-24-16-29: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.022 ml of solvent and mix in vial
+Current sample volume : 0.094 ml
+23-07-24-16-30Measure absorption reference 
+23-07-24-16-31 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-07-24-16-32: Measure absorption dark
+ 23-07-24-16-32 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.016 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-07-24-16-33:Measure reference uv power
+23-07-24-16-33 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-07-24-16-34: Adjust PL exposure
+23-07-24-16-34: Measure PL dark spectrum
+23-07-24-16-34Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-07-24-16-35 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-07-24-16-35 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-07-24-16-35: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-07-24-16-40: measurement done
+job BSBCz_23-07-24-16-28 completed
+waiting job input 23-07-24-16-40

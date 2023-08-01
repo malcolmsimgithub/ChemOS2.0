@@ -1,0 +1,62 @@
+Metadata-Version: 2.1
+Name: zhinst
+Version: 18.12.59443
+Summary: Python API for Zurich Instruments Devices
+Home-page: http://www.zhinst.com
+Author: Zurich Instruments AG
+Author-email: info@zhinst.com
+License: UNKNOWN
+Platform: windows
+Platform: Linux
+Platform: Darwin
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+Requires-Dist: numpy (>=1.12)
+
+The `zhinst` package allows communication with Zurich Instruments devices from
+the Python programming language. It's the Python API of LabOne&reg;, the
+Zurich Instruments control software.
+
+![Zurich Instruments Arbitrary Waveform Generator and monitor showing LabOne Software](https://people.zhinst.com/~danielw/pypi/hdawg_labone_pic02.jpg)
+
+The package contains:
+* The `ziPython` binary extension for communicating with and recording data from instruments,
+* Utility functions for common tasks such as loading/saving settings files and
+  loading data saved from the [LabOne&reg; User
+  Interface](http://www.zhinst.com/labone/ui),
+* Many examples that serve as a basis for custom measurement programs.
+
+Getting help on the `ziPython` binary extension:
+```Python
+import zhinst.ziPython
+help(zhinst.ziPython)
+```
+
+Running an example:
+```Python
+import zhinst.examples.common.example_data_acquisition_continuous as example
+data = example.run_example('dev123', do_plot=True)
+```
+
+More information about programming with Zurich Instruments devices is available
+in the [LabOne Programming
+Manual](https://www.zhinst.com/manuals/programming). See the section "Getting
+Started with the LabOne Python API".
+
+

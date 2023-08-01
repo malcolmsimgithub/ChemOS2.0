@@ -1,0 +1,52 @@
+id,device_id,job_id,name,status,timestamp,location
+2544,5,576,,Pump Initialization Successful,2023-07-11 17:01:13.52167,uoft
+2545,5,576,,Sample 1 Atmosphere Changed,2023-07-11 17:04:30.419399,uoft
+2546,5,576,,Syringe 2rinsed with Liquid G_1,2023-07-11 17:04:46.764716,uoft
+2547,5,576,,0mL Liquid G_1 in Syringe 2,2023-07-11 17:04:47.372637,uoft
+2548,5,576,,1.5mL Liquid G_1 in Syringe 2,2023-07-11 17:04:54.728846,uoft
+2549,5,576,,Liquid add to Group 1 Rxn_Port 1,2023-07-11 17:05:06.275645,uoft
+2550,5,576,,Tubing flushed with N2,2023-07-11 17:05:30.073077,uoft
+2551,5,576,,Start Heating 60 Stirring 500 for 0.01 hours,2023-07-11 17:05:34.116171,uoft
+2552,5,576,,Stop Heating and Stirring,2023-07-11 17:06:12.155235,uoft
+2553,5,576,,Syringe 2rinsed with Liquid G_1,2023-07-11 17:06:29.244015,uoft
+2554,5,576,,0mL Liquid G_1 in Syringe 2,2023-07-11 17:06:29.85184,uoft
+2555,5,576,,Stock 31 Atmosphere Changed,2023-07-11 17:09:36.758348,uoft
+2556,5,576,,Syringe 2rinsed with Liquid G_1,2023-07-11 17:09:53.102211,uoft
+2557,5,576,,6mL Liquid G_1 in Syringe 2,2023-07-11 17:10:17.891389,uoft
+2558,5,576,,Liquid add to Group 3 Rxn_Port 1,2023-07-11 17:10:47.173631,uoft
+2559,5,576,,Tubing flushed with N2,2023-07-11 17:11:09.052067,uoft
+2560,5,576,,6mL Liquid 31 in Syringe 2,2023-07-11 17:11:38.798427,uoft
+2561,5,576,,Liquid add to Group 3 Rxn_Port 1,2023-07-11 17:12:07.281465,uoft
+2562,5,576,,Tubing flushed with N2,2023-07-11 17:12:29.159096,uoft
+2563,5,576,,6mL Liquid 31 in Syringe 2,2023-07-11 17:12:58.857464,uoft
+2564,5,576,,Liquid add to Group 3 Rxn_Port 1,2023-07-11 17:13:27.341484,uoft
+2565,5,576,,Tubing flushed with N2,2023-07-11 17:13:49.218474,uoft
+2566,5,576,,6mL Liquid 31 in Syringe 2,2023-07-11 17:14:18.980575,uoft
+2567,5,576,,Liquid add to Group 3 Rxn_Port 1,2023-07-11 17:14:47.448079,uoft
+2568,5,576,,Tubing flushed with N2,2023-07-11 17:15:09.325345,uoft
+2569,5,576,,6mL Liquid 31 in Syringe 2,2023-07-11 17:15:39.024397,uoft
+2570,5,576,,Liquid add to Group 3 Rxn_Port 1,2023-07-11 17:16:07.506156,uoft
+2571,5,576,,Tubing flushed with N2,2023-07-11 17:16:29.384448,uoft
+2572,5,576,,6mL Liquid 31 in Syringe 2,2023-07-11 17:16:59.131399,uoft
+2573,5,576,,Liquid add to Group 3 Rxn_Port 1,2023-07-11 17:17:27.614569,uoft
+2574,5,576,,Tubing flushed with N2,2023-07-11 17:17:49.49156,uoft
+2575,5,576,,6mL Liquid 31 in Syringe 2,2023-07-11 17:18:19.175477,uoft
+2576,5,576,,Liquid add to Group 3 Rxn_Port 1,2023-07-11 17:18:47.658534,uoft
+2577,5,576,,Stock 31 Preparation finished,2023-07-11 17:18:47.659977,uoft
+2578,5,576,,1.2mL Liquid 31 in Syringe 2,2023-07-11 17:18:57.973989,uoft
+2579,5,576,,Liquid add to Group 1 Rxn_Port 1,2023-07-11 17:19:07.633182,uoft
+2580,5,576,,Tubing flushed with N2,2023-07-11 17:19:31.430272,uoft
+2581,5,576,,Syringe 2rinsed with liquid 42,2023-07-11 17:19:52.253489,uoft
+2582,5,576,,0mL Liquid 42 in Syringe 2,2023-07-11 17:19:52.669501,uoft
+2583,5,576,,Syringe 2rinsed with liquid 44,2023-07-11 17:20:12.804483,uoft
+2584,5,576,,0mL Liquid 44 in Syringe 2,2023-07-11 17:20:13.220665,uoft
+2585,5,576,,0.5mL Liquid 44 in Syringe 2,2023-07-11 17:20:20.385411,uoft
+2586,5,576,,Liquid add to Group 1 Rxn_Port 1,2023-07-11 17:20:27.3744,uoft
+2587,5,576,,Tubing flushed with N2,2023-07-11 17:20:51.17175,uoft
+2588,5,576,,Syringe 2rinsed with liquid 43,2023-07-11 17:21:11.993805,uoft
+2589,5,576,,0mL Liquid 43 in Syringe 2,2023-07-11 17:21:12.410033,uoft
+2590,5,576,,0.25mL Liquid 43 in Syringe 2,2023-07-11 17:21:18.551354,uoft
+2591,5,576,,Liquid add to Group 1 Rxn_Port 1,2023-07-11 17:21:24.501445,uoft
+2592,5,576,,Tubing flushed with N2,2023-07-11 17:21:48.298495,uoft
+2593,5,576,,Start Heating 90 Stirring 500 for 12.0 hours,2023-07-11 17:21:52.31518,uoft
+2594,5,576,,Stop Heating and Stirring,2023-07-12 05:21:54.564187,uoft

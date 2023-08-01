@@ -1,0 +1,66 @@
+{
+  "1": {
+    "task": "schlenk_cycle",
+    "parameters": {
+      "specification": "none",
+      "no_cycles": 5
+    },
+    "local": false,
+    "pre-operation": true
+  },
+  "2": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "$C$",
+      "quantity": 2.0,
+      "dry": true
+    },
+    "local": true,
+    "pre-operation": true
+  },
+  "3": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "XPhos Pd G4",
+      "quantity": 1.0,
+      "dry": true
+    },
+    "local": true,
+    "pre-operation": false
+  },
+  "4": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "1,4-Dioxane",
+      "quantity": 0.33,
+      "dry": true
+    },
+    "local": true,
+    "pre-operation": false
+  },
+  "5": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "Na2CO3",
+      "quantity": 0.67,
+      "dry": true
+    },
+    "local": true,
+    "pre-operation": false
+  },
+  "6": {
+    "task": "reflux",
+    "parameters": {
+      "specification": "none",
+      "temperature": 100,
+      "heating": 12,
+      "cooling": 1
+    },
+    "local": false,
+    "pre-operation": true
+  }
+}

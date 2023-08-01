@@ -1,0 +1,3 @@
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+closing device
+OFF

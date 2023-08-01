@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Feature SiLA2Version="1.0" FeatureVersion="1.0" MaturityLevel="Verified" Originator="org.silastandard"
+         Category="examples"
+         xmlns="http://www.sila-standard.org"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.sila-standard.org https://gitlab.com/SiLA2/sila_base/raw/master/schema/FeatureDefinition.xsd">
+  <Identifier>HPLCMSsimulator</Identifier>
+  <DisplayName>HPLCMSsimulator</DisplayName>
+  <Description>
+    Runs the ChemSpeed platform using a given synthesis procedure
+  </Description>
+  <Command>
+    <Identifier>Status</Identifier>
+    <DisplayName>Status</DisplayName>
+    <Description>Gets the Status of the HPLC</Description>
+    <Observable>No</Observable>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+  </Command>
+  <Command>
+    <Identifier>ValveStatus</Identifier>
+    <DisplayName>Status</DisplayName>
+    <Description>Gets the Status of the HPLC</Description>
+    <Observable>No</Observable>
+    <Parameter>
+      <Identifier>Purpose</Identifier>
+      <DisplayName>Purpose</DisplayName>
+      <Description>Purpose of query: ask or edit</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Parameter>
+      <Identifier>StatusUpdate</Identifier>
+      <DisplayName>StatusUpdate</DisplayName>
+      <Description>status to change to, if applicable</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+  </Command>
+  <Command>
+    <Identifier>SubmitJobAutosampler</Identifier>
+    <DisplayName>SubmitJobAutosampler</DisplayName>
+    <Description> Submits a Job for the HPLCMS to do</Description>
+    <Observable>Yes</Observable>
+    <Parameter>
+      <Identifier>JobFile</Identifier>
+      <DisplayName>JobFile</DisplayName>
+      <Description>Job file to use in this experiment.</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+    <IntermediateResponse>
+      <Identifier>Data</Identifier>
+      <DisplayName>Data</DisplayName>
+      <Description>Type of data being returned </Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </IntermediateResponse>
+    <IntermediateResponse>
+      <Identifier>Payload</Identifier>
+      <DisplayName>Payload</DisplayName>
+      <Description>Type of data being returned </Description>
+      <DataType>
+        <Basic>Binary</Basic>
+      </DataType>
+    </IntermediateResponse>
+  </Command>
+  <Command>
+    <Identifier>SubmitJobChemspeed</Identifier>
+    <DisplayName>SubmitJobChemspeed</DisplayName>
+    <Description> Submits a Job for the HPLCMS to do</Description>
+    <Observable>Yes</Observable>
+    <Parameter>
+      <Identifier>JobFile</Identifier>
+      <DisplayName>JobFile</DisplayName>
+      <Description>Job file to use in this experiment.</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+    <IntermediateResponse>
+      <Identifier>Data</Identifier>
+      <DisplayName>Data</DisplayName>
+      <Description>Type of data being returned </Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </IntermediateResponse>
+    <IntermediateResponse>
+      <Identifier>Payload</Identifier>
+      <DisplayName>Payload</DisplayName>
+      <Description>Type of data being returned </Description>
+      <DataType>
+        <Basic>Binary</Basic>
+      </DataType>
+    </IntermediateResponse>
+  </Command>
+</Feature>

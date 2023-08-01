@@ -1,0 +1,44 @@
+sample waiting for re-dissolution 0
+waiting job input (2022-04-21 18:51:28)
+
+measurement start for MeCN_Blank
+valve connection opened
+washing selector to pump line with solvent (2022-04-21 18:55:22)
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+Measure absorption reference (2022-04-21 18:56:39)
+Emplying the flow cell (2022-04-21 18:57:03)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-04-21 18:57:55)
+Measure absorption spectrum  (2022-04-21 18:58:00)
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+Measure reference uv power (2022-04-21 18:59:01)
+Emplying the flow cell (2022-04-21 18:59:09)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-04-21 19:00:05)
+Measure PL dark spectrum (2022-04-21 19:00:08)
+Measure PL spectrum (2022-04-21 19:00:29)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-04-21 19:01:22)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-04-21 19:01:53)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-04-21 19:02:49)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+measurement done (2022-04-21 19:06:58)
+sample waiting for re-dissolution 0
+waiting job input (2022-04-21 19:07:01)

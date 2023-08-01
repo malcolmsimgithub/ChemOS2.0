@@ -1,0 +1,69 @@
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+
+measurement start for Blank
+valve connection opened
+washing selector to pump line with solvent (2020-11-30 16:14:10)
+Discard selector to pump volumes
+Switch selector to position 2.000000
+Draw 0.100 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure reference uv power (2020-11-30 16:14:57)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+
+measurement start for Blank
+Measure reference uv power (2020-11-30 16:16:35)
+Emplying the flow cell (2020-11-30 16:16:43)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-11-30 16:17:55)
+Measure PL dark spectrum (2020-11-30 16:17:57)
+Measure PL spectrum (2020-11-30 16:18:02)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+
+measurement start for Blank
+valve connection opened
+washing selector to pump line with solvent (2020-11-30 17:00:53)
+Discard selector to pump volumes
+Switch selector to position 2.000000
+Draw 0.100 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure reference uv power (2020-11-30 17:01:40)
+Emplying the flow cell (2020-11-30 17:01:48)
+Send 0.100 ml of solution to flow cell
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+
+measurement start for Blank
+valve connection opened
+washing selector to pump line with solvent (2020-11-30 17:11:21)
+Discard selector to pump volumes
+Switch selector to position 2.000000
+Draw 0.100 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure reference uv power (2020-11-30 17:12:08)
+Emplying the flow cell (2020-11-30 17:12:16)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-11-30 17:13:28)
+Measure PL dark spectrum (2020-11-30 17:13:30)
+Measure PL spectrum (2020-11-30 17:13:33)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-11-30 17:13:59)
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2020-11-30 17:16:19)

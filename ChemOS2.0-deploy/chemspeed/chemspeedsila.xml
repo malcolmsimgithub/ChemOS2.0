@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Feature SiLA2Version="1.0" FeatureVersion="1.0" MaturityLevel="Verified" Originator="org.silastandard"
+         Category="examples"
+         xmlns="http://www.sila-standard.org"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.sila-standard.org https://gitlab.com/SiLA2/sila_base/raw/master/schema/FeatureDefinition.xsd">
+  <Identifier>ChemSpeedOperator</Identifier>
+  <DisplayName>Chem Speed Operator</DisplayName>
+  <Description>
+    Runs the ChemSpeed platform using a given synthesis procedure
+  </Description>
+  <Command>
+    <Identifier>ChangeProcedure</Identifier>
+    <DisplayName>ChangeProcedure</DisplayName>
+    <Description>Changes the synthesis procedure</Description>
+    <Observable>No</Observable>
+    <Parameter>
+      <Identifier>SynthesisProcedure</Identifier>
+      <DisplayName>Synthesis Procedure</DisplayName>
+      <Description>Synthesis procedure to use in this experiment.</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+  </Command>
+  <Command>
+    <Identifier>Addbatch</Identifier>
+    <DisplayName>add batch</DisplayName>
+    <Description> Adds a batch for the chemspeed platform to make</Description>
+    <Observable>Yes</Observable>
+    <Parameter>
+      <Identifier>BatchName</Identifier>
+      <DisplayName>Batch Name</DisplayName>
+      <Description>Name of batchfile to use</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Parameter>
+      <Identifier>Batchfile</Identifier>
+      <DisplayName>Batch file</DisplayName>
+      <Description>Batch file to use in this experiment.</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+    <IntermediateResponse>
+      <Identifier>Status</Identifier>
+      <DisplayName>Status</DisplayName>
+      <Description>Status of batch </Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </IntermediateResponse>
+    <IntermediateResponse>
+      <Identifier>Operations</Identifier>
+      <DisplayName>Operations</DisplayName>
+      <Description>Operations executed by chemspeed during this batch</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </IntermediateResponse>
+  </Command>
+  <Property>
+    <Identifier>IsBusy</Identifier>
+    <DisplayName>Is Busy</DisplayName>
+    <Description>Indicates if chemspeed is currently occupied</Description>
+    <Observable>No</Observable>
+    <DataType>
+      <Basic>String</Basic>
+    </DataType>
+  </Property>
+  <Command>
+    <Identifier>AddCharacterization</Identifier>
+    <DisplayName>add AddCharacterization</DisplayName>
+    <Description> Adds a Characterization for chemspeed to schedule injection</Description>
+    <Observable>Yes</Observable>
+      <Parameter>
+        <Identifier>RackPosition</Identifier>
+        <DisplayName>RackPosition</DisplayName>
+        <Description>Position of compound on rackL</Description>
+        <DataType>
+          <Basic>String</Basic>
+        </DataType>
+      </Parameter>
+      <Parameter>
+        <Identifier>Identifier</Identifier>
+        <DisplayName>Identifier</DisplayName>
+        <Description> Name of sample</Description>
+        <DataType>
+          <Basic>String</Basic>
+        </DataType>
+      </Parameter>
+      <Parameter>
+        <Identifier>Structure</Identifier>
+        <DisplayName>Structure</DisplayName>
+        <Description>Smiles string for target compound</Description>
+        <DataType>
+          <Basic>String</Basic>
+        </DataType>
+      </Parameter>
+      <Parameter>
+        <Identifier>FilterCollect</Identifier>
+        <DisplayName>Filter Collect</DisplayName>
+        <Description>whether or not flitration of sample is required prior to injection</Description>
+        <DataType>
+          <Basic>String</Basic>
+        </DataType>
+      </Parameter>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+    <IntermediateResponse>
+      <Identifier>Status</Identifier>
+      <DisplayName>Status</DisplayName>
+      <Description>Status of Characterization </Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </IntermediateResponse>
+    <IntermediateResponse>
+      <Identifier>Operations</Identifier>
+      <DisplayName>Operations</DisplayName>
+      <Description>Operations executed by chemspeed during this batch</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </IntermediateResponse>
+  </Command>
+</Feature>

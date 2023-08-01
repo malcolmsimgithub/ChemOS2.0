@@ -1,0 +1,245 @@
+{
+  "1": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now starting the synthesis of batch BSBCz_derivative_synthesis_23-06-26_11-35",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-36"
+  },
+  "2": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now performing the task schlenk_cycle",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-36"
+  },
+  "3": {
+    "task": "request_confirmation",
+    "parameters": {
+      "message": "Before starting Schlenk cycles, please confirm that ISynth Nitrogen gas is switched on!"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-36"
+  },
+  "4": {
+    "task": "schlenk_cycle",
+    "parameters": {
+      "specification": "none",
+      "no_cycles": 5
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-36"
+  },
+  "5": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now performing the task transfer_compound",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-46"
+  },
+  "6": {
+    "task": "prime_pumps",
+    "parameters": {},
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-46"
+  },
+  "7": {
+    "task": "request_confirmation",
+    "parameters": {
+      "message": "Before starting liquid dispensing, please confirm that ISynth Nitrogen gas is switched on!"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-48"
+  },
+  "8": {
+    "task": "set_drawer",
+    "parameters": {
+      "target_setting": {
+        "state": "open",
+        "environment": "inert"
+      }
+    },
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-48"
+  },
+  "9": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "C013",
+      "quantity": 2.0,
+      "dry": true
+    },
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-49"
+  },
+  "10": {
+    "task": "set_drawer",
+    "parameters": {},
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-51"
+  },
+  "11": {
+    "task": "set_drawer",
+    "parameters": {
+      "target_setting": {
+        "state": "open",
+        "environment": "inert"
+      }
+    },
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-51"
+  },
+  "12": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "XPhos Pd G4",
+      "quantity": 1.0,
+      "dry": true
+    },
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-52"
+  },
+  "13": {
+    "task": "set_drawer",
+    "parameters": {},
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-53"
+  },
+  "14": {
+    "task": "set_drawer",
+    "parameters": {
+      "target_setting": {
+        "state": "open",
+        "environment": "inert"
+      }
+    },
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-54"
+  },
+  "15": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "1,4-Dioxane",
+      "quantity": 0.33,
+      "dry": true
+    },
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-54"
+  },
+  "16": {
+    "task": "set_drawer",
+    "parameters": {},
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-56"
+  },
+  "17": {
+    "task": "set_drawer",
+    "parameters": {
+      "target_setting": {
+        "state": "open",
+        "environment": "inert"
+      }
+    },
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-56"
+  },
+  "18": {
+    "task": "transfer_compound",
+    "parameters": {
+      "specification": "liquid",
+      "compound": "Na2CO3",
+      "quantity": 0.67,
+      "dry": true
+    },
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-57"
+  },
+  "19": {
+    "task": "set_drawer",
+    "parameters": {},
+    "experiment_identifier": [
+      "BSBCz_derivative"
+    ],
+    "executed": "23-06-26_11-58"
+  },
+  "20": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Now performing the task reflux",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-59"
+  },
+  "21": {
+    "task": "reflux",
+    "parameters": {
+      "specification": "none",
+      "temperature": 100,
+      "heating": 12,
+      "cooling": 1
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-26_11-59"
+  },
+  "22": {
+    "task": "communicate",
+    "parameters": {
+      "message": "Synthesis of batch BSBCz_derivative_synthesis_23-06-26_11-35 has been completed",
+      "thread": "Synthesis"
+    },
+    "experiment_identifier": [
+      null
+    ],
+    "executed": "23-06-27_01-31"
+  }
+}

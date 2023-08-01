@@ -1,0 +1,342 @@
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+
+measurement start for Blank
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 10:52:14)
+Discard selector to pump volumes
+Switch selector to position 2.000000
+Draw 0.200 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2020-12-04 10:53:02)
+Emplying the flow cell (2020-12-04 10:53:14)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 10:54:50)
+Measure absorption spectrum  (2020-12-04 10:54:56)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 10:55:17)
+Emplying the flow cell (2020-12-04 10:55:25)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-12-04 10:56:36)
+Measure PL dark spectrum (2020-12-04 10:56:38)
+Measure PL spectrum (2020-12-04 10:57:00)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2020-12-04 10:57:53)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2020-12-04 10:58:25)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-12-04 10:58:58)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2020-12-04 11:02:06)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+
+measurement start for Blank
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 11:07:10)
+Discard selector to pump volumes
+Switch selector to position 2.000000
+Draw 0.200 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2020-12-04 11:07:58)
+Emplying the flow cell (2020-12-04 11:08:10)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 11:09:46)
+Measure absorption spectrum  (2020-12-04 11:09:52)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 11:10:13)
+Emplying the flow cell (2020-12-04 11:10:21)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-12-04 11:11:32)
+Measure PL dark spectrum (2020-12-04 11:11:34)
+Measure PL spectrum (2020-12-04 11:11:56)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2020-12-04 11:12:49)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2020-12-04 11:13:21)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-12-04 11:13:47)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2020-12-04 11:16:55)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+
+measurement start for Blank
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 16:16:32)
+Discard selector to pump volumes
+Switch selector to position 2.000000
+Draw 0.200 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2020-12-04 16:17:19)
+Emplying the flow cell (2020-12-04 16:17:32)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 16:19:08)
+Measure absorption spectrum  (2020-12-04 16:19:14)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 16:19:35)
+Emplying the flow cell (2020-12-04 16:19:42)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-12-04 16:20:54)
+Measure PL dark spectrum (2020-12-04 16:20:56)
+Measure PL spectrum (2020-12-04 16:21:18)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2020-12-04 16:22:11)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2020-12-04 16:22:43)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-12-04 16:23:16)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2020-12-04 16:27:05)
+waiting job input (2020-12-04 16:27:05)
+
+measurement start for 1_a
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 16:29:13)
+Discard selector to pump volumes
+Switch selector to position 3.000000
+Draw 0.093 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.037 ml of solvent and mix in vial
+Measure absorption reference (2020-12-04 16:30:17)
+Emplying the flow cell (2020-12-04 16:30:29)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 16:32:06)
+Measure absorption spectrum  (2020-12-04 16:32:12)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 16:32:32)
+Emplying the flow cell (2020-12-04 16:32:40)
+Send 0.100 ml of solution to flow cell
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+Wash vial
+valve connection opened
+Wash collector 3
+update vial status : vial3 True
+valve connection closed
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+waiting job input (2020-12-04 16:39:13)
+
+measurement start for 1_a
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 16:39:17)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+waiting job input (2020-12-04 16:40:31)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+waiting job input (2020-12-04 16:44:05)
+
+measurement start for 2_a
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 16:50:34)
+Discard selector to pump volumes
+Switch selector to position 2.000000
+Draw 0.083 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.047 ml of solvent and mix in vial
+Measure absorption reference (2020-12-04 16:51:38)
+Emplying the flow cell (2020-12-04 16:51:50)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 16:53:26)
+Measure absorption spectrum  (2020-12-04 16:53:32)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 16:53:53)
+Emplying the flow cell (2020-12-04 16:54:01)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-12-04 16:55:13)
+Measure PL dark spectrum (2020-12-04 16:55:14)
+Measure PL spectrum (2020-12-04 16:55:23)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2020-12-04 16:55:58)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2020-12-04 16:56:29)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-12-04 16:56:53)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2020-12-04 16:59:57)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt.dat
+waiting job input (2020-12-04 17:00:26)
+
+measurement start for 1_c
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 17:01:04)
+Discard selector to pump volumes
+Switch selector to position 5.000000
+Draw 0.093 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.037 ml of solvent and mix in vial
+Measure absorption reference (2020-12-04 17:02:08)
+Emplying the flow cell (2020-12-04 17:02:20)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 17:03:56)
+Measure absorption spectrum  (2020-12-04 17:04:02)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 17:04:23)
+Emplying the flow cell (2020-12-04 17:04:31)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-12-04 17:05:43)
+Measure PL dark spectrum (2020-12-04 17:05:44)
+Measure PL spectrum (2020-12-04 17:05:56)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2020-12-04 17:06:35)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2020-12-04 17:07:06)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-12-04 17:07:31)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+measurement done (2020-12-04 17:10:35)
+
+measurement start for 1_c
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 17:10:44)
+Discard selector to pump volumes
+Switch selector to position 8.000000
+Draw 0.108 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.022 ml of solvent and mix in vial
+Measure absorption reference (2020-12-04 17:11:47)
+Emplying the flow cell (2020-12-04 17:12:00)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 17:13:36)
+Measure absorption spectrum  (2020-12-04 17:13:42)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 17:14:02)
+Emplying the flow cell (2020-12-04 17:14:10)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-12-04 17:15:22)
+Measure PL dark spectrum (2020-12-04 17:15:24)
+Measure PL spectrum (2020-12-04 17:15:35)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2020-12-04 17:16:14)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2020-12-04 17:16:46)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-12-04 17:17:10)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 8
+update vial status : vial8 True
+valve connection closed
+measurement done (2020-12-04 17:20:14)
+waiting job input (2020-12-04 17:20:19)
+
+measurement start for 3_c
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 17:20:28)
+Discard selector to pump volumes
+Switch selector to position 2.000000
+Draw 0.038 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.092 ml of solvent and mix in vial
+Measure absorption reference (2020-12-04 17:21:33)
+Emplying the flow cell (2020-12-04 17:21:45)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 17:23:22)
+Measure absorption spectrum  (2020-12-04 17:23:28)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 17:23:49)
+Emplying the flow cell (2020-12-04 17:23:56)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-12-04 17:25:08)
+Measure PL dark spectrum (2020-12-04 17:25:10)
+Measure PL spectrum (2020-12-04 17:25:14)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2020-12-04 17:25:46)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2020-12-04 17:26:18)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-12-04 17:26:49)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2020-12-04 17:29:53)
+
+measurement start for 3_c
+valve connection opened
+washing selector to pump line with solvent (2020-12-04 17:30:02)
+Discard selector to pump volumes
+Switch selector to position 3.000000
+Draw 0.025 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.105 ml of solvent and mix in vial
+Measure absorption reference (2020-12-04 17:31:07)
+Emplying the flow cell (2020-12-04 17:31:19)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2020-12-04 17:32:56)
+Measure absorption spectrum  (2020-12-04 17:33:02)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2020-12-04 17:33:22)
+Emplying the flow cell (2020-12-04 17:33:30)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2020-12-04 17:34:42)
+Measure PL dark spectrum (2020-12-04 17:34:44)
+Measure PL spectrum (2020-12-04 17:34:47)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2020-12-04 17:35:19)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2020-12-04 17:35:51)
+Collect 0.100 ml of solution to flow cell
+discard sample (2020-12-04 17:36:18)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 3
+update vial status : vial3 True
+valve connection closed
+measurement done (2020-12-04 17:39:23)
+waiting job input (2020-12-04 17:39:28)

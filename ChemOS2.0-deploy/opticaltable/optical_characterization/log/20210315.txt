@@ -1,0 +1,552 @@
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+Wash collector 3
+update vial status : vial3 True
+Wash collector 4
+update vial status : vial4 True
+Wash collector 5
+update vial status : vial5 True
+Wash collector 7
+update vial status : vial7 True
+Wash collector 8
+update vial status : vial8 True
+Wash collector 9
+update vial status : vial9 True
+Wash collector 10
+update vial status : vial10 True
+valve connection closed
+washing selector to pump line with solvent (2021-03-15 17:18:46)
+Discard selector to pump volumes
+update vial status : vial2 used
+
+measurement start for Blank
+valve connection opened
+washing selector to pump line with solvent (2021-03-15 17:19:17)
+Discard selector to pump volumes
+Switch selector to position 2
+Draw 0.200 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-03-15 17:20:08)
+Emplying the flow cell (2021-03-15 17:20:33)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 17:21:24)
+Measure absorption spectrum  (2021-03-15 17:21:29)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 17:22:02)
+Emplying the flow cell (2021-03-15 17:22:10)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 17:23:06)
+Measure PL dark spectrum (2021-03-15 17:23:09)
+Measure PL spectrum (2021-03-15 17:23:31)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 17:24:24)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2021-03-15 17:28:01)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 17:28:23)
+Emplying the flow cell (2021-03-15 17:28:47)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 17:29:38)
+Measure absorption spectrum  (2021-03-15 17:29:44)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 17:30:17)
+Emplying the flow cell (2021-03-15 17:30:25)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 17:31:21)
+Measure PL dark spectrum (2021-03-15 17:31:24)
+Measure PL spectrum (2021-03-15 17:31:46)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 17:32:38)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 17:33:10)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 17:33:40)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 17:36:30)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 17:36:54)
+Emplying the flow cell (2021-03-15 17:37:18)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 17:38:09)
+Measure absorption spectrum  (2021-03-15 17:38:15)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 17:38:48)
+Emplying the flow cell (2021-03-15 17:38:56)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 17:39:52)
+Measure PL dark spectrum (2021-03-15 17:39:55)
+Measure PL spectrum (2021-03-15 17:40:16)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 17:41:09)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 17:41:41)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 17:42:11)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 17:45:01)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 17:45:36)
+Emplying the flow cell (2021-03-15 17:46:01)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 17:46:52)
+Measure absorption spectrum  (2021-03-15 17:46:58)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 17:47:31)
+Emplying the flow cell (2021-03-15 17:47:38)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 17:48:34)
+Measure PL dark spectrum (2021-03-15 17:48:38)
+Measure PL spectrum (2021-03-15 17:48:59)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 17:49:52)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 17:50:23)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 17:50:54)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 17:53:43)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 17:54:05)
+Emplying the flow cell (2021-03-15 17:54:29)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 17:55:20)
+Measure absorption spectrum  (2021-03-15 17:55:26)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 17:55:59)
+Emplying the flow cell (2021-03-15 17:56:07)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 17:57:03)
+Measure PL dark spectrum (2021-03-15 17:57:06)
+Measure PL spectrum (2021-03-15 17:57:28)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 17:58:20)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 17:58:52)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 17:59:23)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 18:02:13)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 18:02:36)
+Emplying the flow cell (2021-03-15 18:03:00)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 18:03:52)
+Measure absorption spectrum  (2021-03-15 18:03:57)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 18:04:30)
+Emplying the flow cell (2021-03-15 18:04:38)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 18:05:34)
+Measure PL dark spectrum (2021-03-15 18:05:37)
+Measure PL spectrum (2021-03-15 18:05:59)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 18:06:51)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 18:07:23)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 18:07:50)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 18:10:40)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 18:11:24)
+Emplying the flow cell (2021-03-15 18:11:48)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 18:12:39)
+Measure absorption spectrum  (2021-03-15 18:12:45)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 18:13:18)
+Emplying the flow cell (2021-03-15 18:13:26)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 18:14:22)
+Measure PL dark spectrum (2021-03-15 18:14:25)
+Measure PL spectrum (2021-03-15 18:14:47)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 18:15:39)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 18:16:11)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 18:16:40)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 18:19:29)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 18:19:55)
+Emplying the flow cell (2021-03-15 18:20:19)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 18:21:11)
+Measure absorption spectrum  (2021-03-15 18:21:16)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 18:21:49)
+Emplying the flow cell (2021-03-15 18:21:57)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 18:22:53)
+Measure PL dark spectrum (2021-03-15 18:22:56)
+Measure PL spectrum (2021-03-15 18:23:18)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 18:24:10)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 18:24:42)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 18:25:10)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 18:28:00)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 18:28:33)
+Emplying the flow cell (2021-03-15 18:28:57)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 18:29:48)
+Measure absorption spectrum  (2021-03-15 18:29:54)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 18:30:27)
+Emplying the flow cell (2021-03-15 18:30:34)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 18:31:31)
+Measure PL dark spectrum (2021-03-15 18:31:34)
+Measure PL spectrum (2021-03-15 18:31:55)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 18:32:48)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 18:33:19)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 18:33:46)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 18:36:36)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 18:37:12)
+Emplying the flow cell (2021-03-15 18:37:36)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 18:38:27)
+Measure absorption spectrum  (2021-03-15 18:38:33)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 18:39:06)
+Emplying the flow cell (2021-03-15 18:39:13)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 18:40:10)
+Measure PL dark spectrum (2021-03-15 18:40:13)
+Measure PL spectrum (2021-03-15 18:40:34)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 18:41:27)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 18:41:58)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 18:42:24)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 18:45:14)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 18:46:00)
+Emplying the flow cell (2021-03-15 18:46:24)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 18:47:15)
+Measure absorption spectrum  (2021-03-15 18:47:21)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 18:47:54)
+Emplying the flow cell (2021-03-15 18:48:02)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 18:48:58)
+Measure PL dark spectrum (2021-03-15 18:49:01)
+Measure PL spectrum (2021-03-15 18:49:23)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 18:50:16)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 18:50:47)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 18:51:13)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 18:54:02)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 18:54:23)
+Emplying the flow cell (2021-03-15 18:54:47)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 18:55:38)
+Measure absorption spectrum  (2021-03-15 18:55:44)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 18:56:17)
+Emplying the flow cell (2021-03-15 18:56:25)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 18:57:21)
+Measure PL dark spectrum (2021-03-15 18:57:24)
+Measure PL spectrum (2021-03-15 18:57:46)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 18:58:38)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 18:59:10)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 18:59:48)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 19:02:38)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 19:03:08)
+Emplying the flow cell (2021-03-15 19:03:32)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 19:04:24)
+Measure absorption spectrum  (2021-03-15 19:04:29)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 19:05:02)
+Emplying the flow cell (2021-03-15 19:05:10)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 19:06:06)
+Measure PL dark spectrum (2021-03-15 19:06:09)
+Measure PL spectrum (2021-03-15 19:06:31)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 19:07:23)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 19:07:55)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 19:08:35)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 19:11:24)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 19:12:02)
+Emplying the flow cell (2021-03-15 19:12:26)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 19:13:17)
+Measure absorption spectrum  (2021-03-15 19:13:23)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 19:13:56)
+Emplying the flow cell (2021-03-15 19:14:04)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 19:15:00)
+Measure PL dark spectrum (2021-03-15 19:15:03)
+Measure PL spectrum (2021-03-15 19:15:24)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 19:16:17)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 19:16:48)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 19:17:25)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 19:20:15)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 19:20:38)
+Emplying the flow cell (2021-03-15 19:21:02)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 19:21:53)
+Measure absorption spectrum  (2021-03-15 19:21:59)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 19:22:32)
+Emplying the flow cell (2021-03-15 19:22:39)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 19:23:36)
+Measure PL dark spectrum (2021-03-15 19:23:39)
+Measure PL spectrum (2021-03-15 19:23:51)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 19:24:30)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 19:25:02)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 19:25:29)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 19:28:18)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 19:28:40)
+Emplying the flow cell (2021-03-15 19:29:04)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 19:29:55)
+Measure absorption spectrum  (2021-03-15 19:30:01)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 19:30:34)
+Emplying the flow cell (2021-03-15 19:30:41)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 19:31:37)
+Measure PL dark spectrum (2021-03-15 19:31:40)
+Measure PL spectrum (2021-03-15 19:31:53)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 19:32:31)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 19:33:03)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 19:33:29)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 19:36:18)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 19:36:49)
+Emplying the flow cell (2021-03-15 19:37:13)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 19:38:04)
+Measure absorption spectrum  (2021-03-15 19:38:10)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 19:38:43)
+Emplying the flow cell (2021-03-15 19:38:51)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 19:39:47)
+Measure PL dark spectrum (2021-03-15 19:39:50)
+Measure PL spectrum (2021-03-15 19:40:02)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 19:40:40)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 19:41:11)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 19:41:38)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 19:44:27)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 19:44:48)
+Emplying the flow cell (2021-03-15 19:45:12)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 19:46:03)
+Measure absorption spectrum  (2021-03-15 19:46:09)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 19:46:42)
+Emplying the flow cell (2021-03-15 19:46:50)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 19:47:46)
+Measure PL dark spectrum (2021-03-15 19:47:49)
+Measure PL spectrum (2021-03-15 19:47:56)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 19:48:29)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 19:49:00)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 19:49:23)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 19:52:13)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 19:52:44)
+Emplying the flow cell (2021-03-15 19:53:08)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 19:53:59)
+Measure absorption spectrum  (2021-03-15 19:54:05)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 19:54:38)
+Emplying the flow cell (2021-03-15 19:54:46)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 19:55:42)
+Measure PL dark spectrum (2021-03-15 19:55:45)
+Measure PL spectrum (2021-03-15 19:55:52)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 19:56:25)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 19:56:56)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 19:57:19)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 20:00:08)
+
+measurement start for DSB
+Measure absorption reference (2021-03-15 20:00:31)
+Emplying the flow cell (2021-03-15 20:00:56)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-03-15 20:01:47)
+Measure absorption spectrum  (2021-03-15 20:01:53)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-03-15 20:02:26)
+Emplying the flow cell (2021-03-15 20:02:33)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-03-15 20:03:29)
+Measure PL dark spectrum (2021-03-15 20:03:32)
+Measure PL spectrum (2021-03-15 20:03:40)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-03-15 20:04:12)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-03-15 20:04:44)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-03-15 20:05:07)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+measurement done (2021-03-15 20:07:56)
+Wash flow_cell
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+Wash collector 3
+update vial status : vial3 True
+Wash collector 4
+update vial status : vial4 True
+Wash collector 5
+update vial status : vial5 True
+Wash collector 7
+update vial status : vial7 True
+Wash collector 8
+update vial status : vial8 True
+Wash collector 9
+update vial status : vial9 True
+Wash collector 10
+update vial status : vial10 True
+valve connection closed
+closing device
+OFF

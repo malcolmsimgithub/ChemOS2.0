@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Feature SiLA2Version="1.0" FeatureVersion="1.0" MaturityLevel="Verified" Originator="org.silastandard"
+         Category="examples"
+         xmlns="http://www.sila-standard.org"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.sila-standard.org https://gitlab.com/SiLA2/sila_base/raw/master/schema/FeatureDefinition.xsd">
+  <Identifier>OpticsTableSimulator</Identifier>
+  <DisplayName>OpticsTableSimulator</DisplayName>
+  <Description>
+    Simulates the optics table platform
+  </Description>
+  <Command>
+    <Identifier>Status</Identifier>
+    <DisplayName>Status</DisplayName>
+    <Description>Gets the Status of the optics table</Description>
+    <Observable>No</Observable>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+  </Command>
+  <Command>
+    <Identifier>SubmitJob</Identifier>
+    <DisplayName>SubmitJob</DisplayName>
+    <Description> Submits a Job for the OpticsTableSimulator to do</Description>
+    <Observable>Yes</Observable>
+    <Parameter>
+      <Identifier>JobFile</Identifier>
+      <DisplayName>JobFile</DisplayName>
+      <Description>Job file to use in this experiment.</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Parameter>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+    <IntermediateResponse>
+      <Identifier>Status</Identifier>
+      <DisplayName>Status</DisplayName>
+      <Description>Status of batch </Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </IntermediateResponse>
+    <IntermediateResponse>
+      <Identifier>Payload</Identifier>
+      <DisplayName>Payload</DisplayName>
+      <Description>Data Payload intermediate response</Description>
+      <DataType>
+        <Basic>Binary</Basic>
+      </DataType>
+    </IntermediateResponse>
+  </Command>
+</Feature>

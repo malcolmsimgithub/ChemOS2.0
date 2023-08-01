@@ -1,0 +1,1 @@
+{"name": "BSBCz_C005_jul2023-07-20-18-39", "itype": "characterization_1st", "targets": [{"name": "BSBCz_derivative", "type": "product", "smiles": "CC1(C)c2cc(/C=C/c3ccc(-n4c5ccccc5c5ccccc54)cc3)ccc2-c2ccc(/C=C/c3ccc(-n4c5ccccc5c5ccccc54)cc3)cc21"}, {"name": "BHT", "type": "others", "formula": "C15H24O"}]}

@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+import "SiLAFramework.proto";
+
+package sila2.org.silastandard.examples.atlas.v1;
+
+/* A Sila_server for Atlas */
+service Atlas {
+  /* get recommendation from Atlas */
+  rpc Recommend (sila2.org.silastandard.examples.atlas.v1.Recommend_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of Recommend */
+  rpc Recommend_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of Recommend */
+  rpc Recommend_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.atlas.v1.Recommend_IntermediateResponses) {}
+  /* Retrieve result of Recommend */
+  rpc Recommend_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.atlas.v1.Recommend_Responses) {}
+  /* Indicates the status of Atlas */
+  rpc Get_Status (sila2.org.silastandard.examples.atlas.v1.Get_Status_Parameters) returns (sila2.org.silastandard.examples.atlas.v1.Get_Status_Responses) {}
+}
+
+/* Parameters for Recommend */
+message Recommend_Parameters {
+  sila2.org.silastandard.Binary Campaign = 1;  /* Olympus Campaign Object */
+  sila2.org.silastandard.String Config = 2;  /* Configuration for the optimizer */
+}
+
+/* Responses of Recommend */
+message Recommend_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of Recommend */
+message Recommend_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of Campaign */
+  sila2.org.silastandard.Binary BinaryPayload = 2;  /* BinaryPayload */
+  sila2.org.silastandard.String StringPayload = 3;  /* StringPayload */
+}
+
+/* Parameters for Status */
+message Get_Status_Parameters {
+}
+
+/* Responses of Status */
+message Get_Status_Responses {
+  sila2.org.silastandard.String Status = 1;  /* Indicates the status of Atlas */
+}

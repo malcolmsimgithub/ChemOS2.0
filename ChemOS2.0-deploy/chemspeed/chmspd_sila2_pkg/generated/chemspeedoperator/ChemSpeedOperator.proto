@@ -1,0 +1,84 @@
+syntax = "proto3";
+
+import "SiLAFramework.proto";
+
+package sila2.org.silastandard.examples.chemspeedoperator.v1;
+
+/* Runs the ChemSpeed platform using a given synthesis procedure */
+service ChemSpeedOperator {
+  /* Changes the synthesis procedure */
+  rpc ChangeProcedure (sila2.org.silastandard.examples.chemspeedoperator.v1.ChangeProcedure_Parameters) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.ChangeProcedure_Responses) {}
+  /*  Adds a batch for the chemspeed platform to make */
+  rpc Addbatch (sila2.org.silastandard.examples.chemspeedoperator.v1.Addbatch_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of Addbatch */
+  rpc Addbatch_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of Addbatch */
+  rpc Addbatch_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.chemspeedoperator.v1.Addbatch_IntermediateResponses) {}
+  /* Retrieve result of Addbatch */
+  rpc Addbatch_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.Addbatch_Responses) {}
+  /*  Adds a Characterization for chemspeed to schedule injection */
+  rpc AddCharacterization (sila2.org.silastandard.examples.chemspeedoperator.v1.AddCharacterization_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of AddCharacterization */
+  rpc AddCharacterization_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of AddCharacterization */
+  rpc AddCharacterization_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.chemspeedoperator.v1.AddCharacterization_IntermediateResponses) {}
+  /* Retrieve result of AddCharacterization */
+  rpc AddCharacterization_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.AddCharacterization_Responses) {}
+  /* Indicates if chemspeed is currently occupied */
+  rpc Get_IsBusy (sila2.org.silastandard.examples.chemspeedoperator.v1.Get_IsBusy_Parameters) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.Get_IsBusy_Responses) {}
+}
+
+/* Parameters for ChangeProcedure */
+message ChangeProcedure_Parameters {
+  sila2.org.silastandard.String SynthesisProcedure = 1;  /* Synthesis procedure to use in this experiment. */
+}
+
+/* Responses of ChangeProcedure */
+message ChangeProcedure_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Parameters for Addbatch */
+message Addbatch_Parameters {
+  sila2.org.silastandard.String BatchName = 1;  /* Name of batchfile to use */
+  sila2.org.silastandard.String Batchfile = 2;  /* Batch file to use in this experiment. */
+}
+
+/* Responses of Addbatch */
+message Addbatch_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of Addbatch */
+message Addbatch_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of batch */
+  sila2.org.silastandard.String Operations = 2;  /* Operations executed by chemspeed during this batch */
+}
+
+/* Parameters for AddCharacterization */
+message AddCharacterization_Parameters {
+  sila2.org.silastandard.String RackPosition = 1;  /* Position of compound on rackL */
+  sila2.org.silastandard.String Identifier = 2;  /* Name of sample */
+  sila2.org.silastandard.String Structure = 3;  /* Smiles string for target compound */
+  sila2.org.silastandard.String FilterCollect = 4;  /* whether or not flitration of sample is required prior to injection */
+}
+
+/* Responses of AddCharacterization */
+message AddCharacterization_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of AddCharacterization */
+message AddCharacterization_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of Characterization */
+  sila2.org.silastandard.String Operations = 2;  /* Operations executed by chemspeed during this batch */
+}
+
+/* Parameters for IsBusy */
+message Get_IsBusy_Parameters {
+}
+
+/* Responses of IsBusy */
+message Get_IsBusy_Responses {
+  sila2.org.silastandard.String IsBusy = 1;  /* Indicates if chemspeed is currently occupied */
+}

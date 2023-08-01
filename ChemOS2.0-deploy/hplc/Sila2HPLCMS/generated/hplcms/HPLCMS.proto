@@ -1,0 +1,81 @@
+syntax = "proto3";
+
+import "SiLAFramework.proto";
+
+package sila2.org.silastandard.examples.hplcms.v1;
+
+/* Runs the ChemSpeed platform using a given synthesis procedure */
+service HPLCMS {
+  /* Gets the Status of the HPLC */
+  rpc Status (sila2.org.silastandard.examples.hplcms.v1.Status_Parameters) returns (sila2.org.silastandard.examples.hplcms.v1.Status_Responses) {}
+  /* Gets the Status of the HPLC */
+  rpc ValveStatus (sila2.org.silastandard.examples.hplcms.v1.ValveStatus_Parameters) returns (sila2.org.silastandard.examples.hplcms.v1.ValveStatus_Responses) {}
+  /*  Submits a Job for the HPLCMS to do */
+  rpc SubmitJobAutosampler (sila2.org.silastandard.examples.hplcms.v1.SubmitJobAutosampler_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of SubmitJobAutosampler */
+  rpc SubmitJobAutosampler_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of SubmitJobAutosampler */
+  rpc SubmitJobAutosampler_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.hplcms.v1.SubmitJobAutosampler_IntermediateResponses) {}
+  /* Retrieve result of SubmitJobAutosampler */
+  rpc SubmitJobAutosampler_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.hplcms.v1.SubmitJobAutosampler_Responses) {}
+  /*  Submits a Job for the HPLCMS to do */
+  rpc SubmitJobChemspeed (sila2.org.silastandard.examples.hplcms.v1.SubmitJobChemspeed_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of SubmitJobChemspeed */
+  rpc SubmitJobChemspeed_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of SubmitJobChemspeed */
+  rpc SubmitJobChemspeed_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.hplcms.v1.SubmitJobChemspeed_IntermediateResponses) {}
+  /* Retrieve result of SubmitJobChemspeed */
+  rpc SubmitJobChemspeed_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.hplcms.v1.SubmitJobChemspeed_Responses) {}
+}
+
+/* Parameters for Status */
+message Status_Parameters {
+}
+
+/* Responses of Status */
+message Status_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Parameters for ValveStatus */
+message ValveStatus_Parameters {
+  sila2.org.silastandard.String Purpose = 1;  /* Purpose of query: ask or edit */
+  sila2.org.silastandard.String StatusUpdate = 2;  /* status to change to, if applicable */
+}
+
+/* Responses of ValveStatus */
+message ValveStatus_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Parameters for SubmitJobAutosampler */
+message SubmitJobAutosampler_Parameters {
+  sila2.org.silastandard.String JobFile = 1;  /* Job file to use in this experiment. */
+}
+
+/* Responses of SubmitJobAutosampler */
+message SubmitJobAutosampler_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of SubmitJobAutosampler */
+message SubmitJobAutosampler_IntermediateResponses {
+  sila2.org.silastandard.String Data = 1;  /* Type of data being returned */
+  sila2.org.silastandard.Binary Payload = 2;  /* Type of data being returned */
+}
+
+/* Parameters for SubmitJobChemspeed */
+message SubmitJobChemspeed_Parameters {
+  sila2.org.silastandard.String JobFile = 1;  /* Job file to use in this experiment. */
+}
+
+/* Responses of SubmitJobChemspeed */
+message SubmitJobChemspeed_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of SubmitJobChemspeed */
+message SubmitJobChemspeed_IntermediateResponses {
+  sila2.org.silastandard.String Data = 1;  /* Type of data being returned */
+  sila2.org.silastandard.Binary Payload = 2;  /* Type of data being returned */
+}

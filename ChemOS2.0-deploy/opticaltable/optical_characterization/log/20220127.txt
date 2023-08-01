@@ -1,0 +1,116 @@
+sample waiting for re-dissolution 0
+waiting job input (2022-01-27 09:44:58)
+
+measurement start for VR602_opt
+valve connection opened
+washing selector to pump line with solvent (2022-01-27 10:36:50)
+Discard selector to pump volumes
+Switch selector to position 4
+Draw 0.603 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-01-27 10:37:41)
+Emplying the flow cell (2022-01-27 10:38:05)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-01-27 10:38:56)
+Measure absorption spectrum  (2022-01-27 10:39:02)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-01-27 10:39:35)
+Emplying the flow cell (2022-01-27 10:39:43)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-01-27 10:40:39)
+Measure PL dark spectrum (2022-01-27 10:40:42)
+Measure PL spectrum (2022-01-27 10:41:04)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-01-27 10:41:56)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-01-27 10:42:28)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-01-27 10:42:54)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 4
+update vial status : vial4 True
+valve connection closed
+measurement done (2022-01-27 10:47:03)
+sample waiting for re-dissolution 0
+waiting job input (2022-01-27 10:47:06)
+
+measurement start for HH066-02-03_opt
+valve connection opened
+washing selector to pump line with solvent (2022-01-27 13:02:44)
+Discard selector to pump volumes
+Switch selector to position 4
+Draw 1.620 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-01-27 13:03:34)
+Emplying the flow cell (2022-01-27 13:03:59)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-01-27 13:04:50)
+Measure absorption spectrum  (2022-01-27 13:04:56)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-01-27 13:05:29)
+Emplying the flow cell (2022-01-27 13:05:36)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-01-27 13:06:33)
+Measure PL dark spectrum (2022-01-27 13:06:36)
+Measure PL spectrum (2022-01-27 13:06:57)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-01-27 13:07:50)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-01-27 13:08:21)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-01-27 13:08:47)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 4
+update vial status : vial4 True
+valve connection closed
+measurement done (2022-01-27 13:12:56)
+sample waiting for re-dissolution 0
+waiting job input (2022-01-27 13:12:59)
+
+measurement start for HH066-03-04_opt
+valve connection opened
+washing selector to pump line with solvent (2022-01-27 14:15:39)
+Discard selector to pump volumes
+Switch selector to position 4
+Draw 1.620 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2022-01-27 14:16:30)
+Emplying the flow cell (2022-01-27 14:16:54)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2022-01-27 14:17:45)
+Measure absorption spectrum  (2022-01-27 14:17:51)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2022-01-27 14:18:24)
+Emplying the flow cell (2022-01-27 14:18:32)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2022-01-27 14:19:28)
+Measure PL dark spectrum (2022-01-27 14:19:31)
+Measure PL spectrum (2022-01-27 14:19:53)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2022-01-27 14:20:45)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2022-01-27 14:21:16)
+Collect 0.100 ml of solution to flow cell
+discard sample (2022-01-27 14:21:42)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 4
+update vial status : vial4 True
+valve connection closed
+measurement done (2022-01-27 14:25:52)
+sample waiting for re-dissolution 0
+waiting job input (2022-01-27 14:25:55)

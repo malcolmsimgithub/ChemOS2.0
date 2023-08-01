@@ -1,0 +1,10 @@
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat
+load C:\Users\hottakaz\Dropbox\PythonScript\kazu\transient_emission/.config_AutoOpt_rev.dat

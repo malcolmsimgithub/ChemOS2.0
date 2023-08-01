@@ -1,0 +1,71 @@
+closing device
+OFF
+Wash flow_cell
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+Wash collector 3
+update vial status : vial3 True
+Wash collector 4
+update vial status : vial4 True
+Wash collector 5
+update vial status : vial5 True
+Wash collector 7
+update vial status : vial7 True
+Wash collector 8
+update vial status : vial8 True
+Wash collector 9
+update vial status : vial9 True
+Wash collector 10
+update vial status : vial10 True
+valve connection closed
+sample waiting for re-dissolution 0
+waiting job input (2021-04-26 17:08:10)
+washing selector to pump line with solvent (2021-04-26 19:15:39)
+Discard selector to pump volumes
+update vial status : vial2 used
+
+measurement start for Blank
+valve connection opened
+washing selector to pump line with solvent (2021-04-26 19:16:11)
+Discard selector to pump volumes
+Switch selector to position 2
+Draw 0.200 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-04-26 19:17:02)
+Emplying the flow cell (2021-04-26 19:17:26)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-04-26 19:18:18)
+Measure absorption spectrum  (2021-04-26 19:18:23)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-04-26 19:18:56)
+Emplying the flow cell (2021-04-26 19:19:04)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-04-26 19:20:00)
+Measure PL dark spectrum (2021-04-26 19:20:03)
+Measure PL spectrum (2021-04-26 19:20:25)
+Collect 0.100 ml of solution to flow cell
+Emplying the flow cell (2021-04-26 19:21:17)
+Send 0.100 ml of solution to flow cell
+Measure transient emission (2021-04-26 19:21:49)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-04-26 19:22:03)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2021-04-26 19:26:14)
+sample waiting for re-dissolution 0
+waiting job input (2021-04-26 19:26:14)
+closing device
+OFF
+sample waiting for re-dissolution 0
+waiting job input (2021-04-26 20:08:32)

@@ -1,0 +1,98 @@
+id,device_id,job_id,name,status,timestamp,location
+3614,2,649,,C:\Users\Thermo\Documents\sila-hplc-deploy-master\data_path\jobs_submitted\BSBCz_C00523-07-13-13-35.json,2023-07-13 13:36:00.845709,uoft
+3615,2,649,,beginning job BSBCz_C00523-07-13-13-35,2023-07-13 13:36:00.845709,uoft
+3616,2,649,,monitoring for C:\Users\Thermo\Documents\sila-hplc-deploy-master\data_path\jobs_returned\BSBCz_C00523-07-13-13-35.json,2023-07-13 13:36:00.845709,uoft
+3617,2,649,,"new job ""BSBCz_C00523-07-13-13-35"" was submitted",2023-07-13 13:36:00.845709,uoft
+3618,2,649,,Number of target : 1,2023-07-13 13:36:00.845709,uoft
+3619,2,649,,"valve switching
+***********",2023-07-13 13:36:00.845709,uoft
+3620,2,649,,7.603000000000001 min: open_valves,2023-07-13 13:36:00.845709,uoft
+3621,2,649,,8.803 min: switch valve to 5,2023-07-13 13:36:00.845709,uoft
+3622,2,649,,9.517000000000001 min: switch valve to 1,2023-07-13 13:36:00.845709,uoft
+3623,2,649,,9.557 min: close_valves,2023-07-13 13:36:00.845709,uoft
+3624,2,649,,waiting a start signal,2023-07-13 13:36:00.845709,uoft
+3625,2,649,,HPLC run started,2023-07-13 13:36:00.845709,uoft
+3626,2,649,,characterization_valve_status : free,2023-07-13 13:36:00.845709,uoft
+3627,2,649,,Valve connection opened,2023-07-13 13:36:00.845709,uoft
+3628,2,649,,valve was switched to 5 at time 8.806 min,2023-07-13 13:36:00.845709,uoft
+3629,2,649,,valve was switched to 1 at time 9.519 min,2023-07-13 13:36:00.845709,uoft
+3630,2,649,,Valve connection closed,2023-07-13 13:36:00.845709,uoft
+3631,2,649,,"
+waiting until the run finishes
+",2023-07-13 13:36:00.845709,uoft
+3632,2,649,,"
+characterization parameters for BSBCz_derivative:",2023-07-13 13:36:00.845709,uoft
+3633,2,649,,"
+characterization file %s was created",2023-07-13 13:36:00.845709,uoft
+3634,2,649,,"
+starting data analysis for the injection <BSBCz_C00523-07-13-13-35>",2023-07-13 13:36:00.845709,uoft
+3635,2,649,,"
+peak_analysis result for DAD data(wavelength averaged)
+************",2023-07-13 13:36:00.845709,uoft
+3636,2,649,,Time for DAD analysis (wavelength average) : 6.495059967041016 s,2023-07-13 13:36:00.845709,uoft
+3637,2,649,,"
+peak_analysis result for MS data
+************",2023-07-13 13:36:00.845709,uoft
+3638,2,649,,"
+peak_analysis for TIC_ESI_positive_MS1
+***",2023-07-13 13:36:00.845709,uoft
+3639,2,649,,"
+ BSBCz_derivative (C55H42N2) was found mainly as +.",2023-07-13 13:36:00.845709,uoft
+3640,2,649,,delta_mz : -0.0472635154035288,2023-07-13 13:36:00.845709,uoft
+3641,2,649,,delta_mz : -0.0054544333722788,2023-07-13 13:36:00.845709,uoft
+3642,2,649,,delta_mz : -0.0058816794660288,2023-07-13 13:36:00.845709,uoft
+3643,2,649,,delta_mz : -0.0050271872785288,2023-07-13 13:36:00.845709,uoft
+3644,2,649,,delta_mz : -0.0051492575910288,2023-07-13 13:36:00.845709,uoft
+3645,2,649,,delta_mz : -0.0053323630597788,2023-07-13 13:36:00.845709,uoft
+3646,2,649,,"
+ BHT (C15H24O) was found mainly as +H.",2023-07-13 13:36:00.845709,uoft
+3647,2,649,,delta_mz : -0.04996191286457474,2023-07-13 13:36:00.845709,uoft
+3648,2,649,,delta_mz : -0.05009924196613724,2023-07-13 13:36:00.845709,uoft
+3649,2,649,,"
+DAD peak annotation by MS data
+************",2023-07-13 13:36:00.845709,uoft
+3650,2,649,,"
+analysis for BSBCz_derivative
+************",2023-07-13 13:36:00.845709,uoft
+3651,2,649,,lambda_max(250-600): 378.0 nm,2023-07-13 13:36:00.845709,uoft
+3652,2,649,,lambda_max(250-600): 378.0 nm,2023-07-13 13:36:00.845709,uoft
+3653,2,649,,"
+peak_analysis result for DAD data(wavelength :378.0 nm)
+************",2023-07-13 13:36:00.845709,uoft
+3654,2,649,,Time for DAD analysis (BSBCz_derivative) : 10.778232097625732 s,2023-07-13 13:36:00.845709,uoft
+3655,2,649,,"
+Retention time of BSBCz_derivative: 8.80 min (start 8.58, end 9.29)",2023-07-13 13:36:00.845709,uoft
+3656,2,649,,"
+Retention time of BSBCz_derivative: 8.83 min (start 8.76, end 8.91)",2023-07-13 13:36:00.845709,uoft
+3657,2,649,,lambda_max(250-600): 378.0 nm,2023-07-13 13:36:00.845709,uoft
+3658,2,649,,lambda_max(250-600): 378.0 nm,2023-07-13 13:36:00.845709,uoft
+3659,2,649,,"
+peak_analysis result for DAD data(wavelength :378.0 nm)
+************",2023-07-13 13:36:00.845709,uoft
+3660,2,649,,Time for DAD analysis (BSBCz_derivative) : 10.463432788848877 s,2023-07-13 13:36:00.845709,uoft
+3661,2,649,,"
+Retention time of BSBCz_derivative: 8.80 min (start 8.58, end 9.29)",2023-07-13 13:36:00.845709,uoft
+3662,2,649,,"
+Retention time of BSBCz_derivative: 8.83 min (start 8.76, end 8.91)",2023-07-13 13:36:00.845709,uoft
+3663,2,649,,lambda_max(250-600): 378.0 nm,2023-07-13 13:36:00.845709,uoft
+3664,2,649,,lambda_max(250-600): 378.0 nm,2023-07-13 13:36:00.845709,uoft
+3665,2,649,,"
+peak_analysis result for DAD data(wavelength :378.0 nm)
+************",2023-07-13 13:36:00.845709,uoft
+3666,2,649,,Time for DAD analysis (BSBCz_derivative) : 10.581108808517456 s,2023-07-13 13:36:00.845709,uoft
+3667,2,649,,"
+Retention time of BSBCz_derivative: 9.35 min (start 9.21, end 9.48)",2023-07-13 13:36:00.845709,uoft
+3668,2,649,,"
+Retention time of BSBCz_derivative: 9.36 min (start 9.31, end 9.41)",2023-07-13 13:36:00.845709,uoft
+3669,2,649,,"
+analysis for BHT
+************",2023-07-13 13:36:00.845709,uoft
+3670,2,649,,lambda_max(250-600): 278.0 nm,2023-07-13 13:36:00.845709,uoft
+3671,2,649,,lambda_max(250-600): 278.0 nm,2023-07-13 13:36:00.845709,uoft
+3672,2,649,,"
+peak_analysis result for DAD data(wavelength :278.0 nm)
+************",2023-07-13 13:36:00.845709,uoft
+3673,2,649,,Time for DAD analysis (BHT) : 24.64998197555542 s,2023-07-13 13:36:00.845709,uoft
+3674,2,649,,"
+Retention time of BHT: 5.30 min (start 5.16, end 5.43)",2023-07-13 13:36:00.845709,uoft
+3675,2,649,,job termination detected,2023-07-13 13:36:00.845709,uoft

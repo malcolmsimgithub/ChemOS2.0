@@ -1,0 +1,626 @@
+washing selector to pump line with solvent 23-05-15-15-45
+Discard selector to pump volumes
+update vial status : vial2 used
+washing selector to pump line with solvent 23-05-15-16-21
+Discard selector to pump volumes
+washing selector to pump line with solvent 23-05-15-16-27
+Discard selector to pump volumes
+update vial status : vial2 used
+washing selector to pump line with solvent 23-05-15-17-06
+Discard selector to pump volumes
+update vial status : vial2 used
+washing selector to pump line with solvent 23-05-15-17-14
+Discard selector to pump volumes
+update vial status : vial2 used
+
+measurement start for Blank
+washing selector to pump line with solvent 23-05-15-17-24
+Discard selector to pump volumes
+update vial status : vial2 used
+
+measurement start for Blank
+washing selector to pump line with solvent 23-05-15-17-29
+Discard selector to pump volumes
+update vial status : vial2 used
+
+measurement start for Blank
+washing selector to pump line with solvent 23-05-15-17-32
+Discard selector to pump volumes
+update vial status : vial2 used
+
+measurement start for Blank
+valve connection opened
+23-05-15-17-33: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 2
+Draw 0.200 ml of sample
+Switch selector to position 1
+valve connection closed
+23-05-15-17-34Measure absorption reference 
+23-05-15-17-34 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-17-35: Measure absorption dark
+ 23-05-15-17-35 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+23-05-15-17-35:Measure reference uv power
+23-05-15-17-36 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-17-37: Adjust PL exposure
+23-05-15-17-37: Measure PL dark spectrum
+23-05-15-17-37Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-17-38 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-17-38 Measure transient emission
+washing selector to pump line with solvent 23-05-15-17-44
+Discard selector to pump volumes
+update vial status : vial2 used
+washing selector to pump line with solvent 23-05-15-17-48
+Discard selector to pump volumes
+update vial status : vial2 used
+
+measurement start for Blank
+valve connection opened
+23-05-15-17-48: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 2
+Draw 0.200 ml of sample
+Switch selector to position 1
+valve connection closed
+23-05-15-17-49Measure absorption reference 
+23-05-15-17-49 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-17-50: Measure absorption dark
+ 23-05-15-17-50 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+23-05-15-17-51:Measure reference uv power
+23-05-15-17-51 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-17-52: Adjust PL exposure
+23-05-15-17-52: Measure PL dark spectrum
+23-05-15-17-52Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-17-53 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-17-54 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-17-54: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+ 23-05-15-17-59: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-17-59
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-17
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-34
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-36
+processing job test_fsk_malcolm
+
+measurement start for test_fsk_malcolm
+valve connection opened
+23-05-15-18-36: washing selector to pump line with solvent
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-38
+processing job test_fsk_malcolm
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-41
+processing job test_fsk_malcolm
+
+measurement start for test_fsk_malcolm
+valve connection opened
+23-05-15-18-41: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-44
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-45
+processing job test_fsk_malcolm
+
+measurement start for test_fsk_malcolm
+valve connection opened
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-47
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-49
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-50
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-52
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-53
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-55
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-18-57
+processing job test_fsk_malcolm
+
+measurement start for test_fsk_malcolm
+valve connection opened
+23-05-15-18-58: washing selector to pump line with solvent
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-19-01
+processing job test_fsk_malcolm
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-19-03
+processing job test_fsk_malcolm
+
+measurement start for test_fsk_malcolm
+valve connection opened
+23-05-15-19-03: washing selector to pump line with solvent
+Discard selector to pump volumes
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-19-05
+processing job test_fsk_malcolm
+
+measurement start for test_fsk_malcolm
+valve connection opened
+23-05-15-19-05: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-19-07Measure absorption reference 
+23-05-15-19-07 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-19-08: Measure absorption dark
+ 23-05-15-19-08 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-05-15-19-09:Measure reference uv power
+23-05-15-19-09 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-19-10: Adjust PL exposure
+23-05-15-19-10: Measure PL dark spectrum
+23-05-15-19-11Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-19-11 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-19-12 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-19-12: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-05-15-19-16: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-19-35
+processing job test_fsk_malcolm
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-19-36
+processing job test_fsk_malcolm
+
+measurement start for test_fsk_malcolm
+valve connection opened
+23-05-15-19-36: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-19-37Measure absorption reference 
+23-05-15-19-38 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-19-43
+processing job test_fsk_malcolm
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-19-53
+processing job test_fsk_malcolm
+warning: job name appears to exist already. proceeding with measurements
+
+measurement start for test_fsk_malcolm
+valve connection opened
+23-05-15-19-53: washing selector to pump line with solvent
+Discard selector to pump volumes
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-19-54
+processing job test_fsk_malcolm
+warning: job name appears to exist already. proceeding with measurements
+
+measurement start for test_fsk_malcolm
+valve connection opened
+23-05-15-19-54: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-19-55Measure absorption reference 
+23-05-15-19-56 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-19-56: Measure absorption dark
+ 23-05-15-19-56 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-05-15-19-57:Measure reference uv power
+23-05-15-19-58 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-19-59: Adjust PL exposure
+23-05-15-19-59: Measure PL dark spectrum
+23-05-15-19-59Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-20-00 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-20-00 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-20-01: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-05-15-20-05: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-20-05
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-20-06
+processing job malcolm first run
+warning: job name appears to exist already. proceeding with job
+
+measurement start for malcolm first run
+valve connection opened
+23-05-15-20-06: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-20-08Measure absorption reference 
+23-05-15-20-08 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-20-09: Measure absorption dark
+ 23-05-15-20-09 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-05-15-20-10:Measure reference uv power
+23-05-15-20-10 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-20-11: Adjust PL exposure
+23-05-15-20-11: Measure PL dark spectrum
+23-05-15-20-12Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-20-12 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-20-13 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-20-13: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-05-15-20-17: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-20-18
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-21-14
+processing job malcolm first run
+warning: job name appears to exist already. proceeding with job
+
+measurement start for malcolm first run
+valve connection opened
+23-05-15-21-14: washing selector to pump line with solvent
+Discard selector to pump volumes
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-21-16
+processing job malcolm second run
+warning: job name appears to exist already. proceeding with job
+
+measurement start for malcolm second run
+valve connection opened
+23-05-15-21-17: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-21-18Measure absorption reference 
+23-05-15-21-18 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-21-19: Measure absorption dark
+ 23-05-15-21-19 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-05-15-21-20:Measure reference uv power
+23-05-15-21-20 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-21-21: Adjust PL exposure
+23-05-15-21-21: Measure PL dark spectrum
+23-05-15-21-22Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-21-23 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-21-23 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-21-24: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-05-15-21-28: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-21-32
+processing job malcolm third run
+
+measurement start for malcolm third run
+valve connection opened
+23-05-15-21-34: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-21-35Measure absorption reference 
+23-05-15-21-36 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-21-36: Measure absorption dark
+ 23-05-15-21-37 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-05-15-21-38:Measure reference uv power
+23-05-15-21-38 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-21-39: Adjust PL exposure
+23-05-15-21-39: Measure PL dark spectrum
+23-05-15-21-39Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-21-40 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-21-40 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-21-41: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-05-15-21-45: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-21-48
+processing job malcolm_test_processing
+
+measurement start for malcolm_test_processing
+valve connection opened
+23-05-15-21-49: washing selector to pump line with solvent
+Discard selector to pump volumes
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-21-52
+processing job malcolm_test_processing2
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-21-54
+processing job malcolm_test_processing2
+
+measurement start for malcolm_test_processing2
+valve connection opened
+23-05-15-21-54: washing selector to pump line with solvent
+Discard selector to pump volumes
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-21-54
+processing job malcolm_test_processing2
+
+measurement start for malcolm_test_processing2
+valve connection opened
+23-05-15-21-55: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-21-56Measure absorption reference 
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-06
+processing job malcolm_test_processing3
+processingname
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-09
+processing job malcolm_test_processing3
+processingname
+processing_folder\malcolm_test_processing3
+
+measurement start for malcolm_test_processing3
+valve connection opened
+23-05-15-22-09: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-22-11Measure absorption reference 
+23-05-15-22-11 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-22-12: Measure absorption dark
+ 23-05-15-22-12 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-05-15-22-13:Measure reference uv power
+23-05-15-22-13 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-22-14: Adjust PL exposure
+23-05-15-22-14: Measure PL dark spectrum
+23-05-15-22-14Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-22-15 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-22-16 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-22-16: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-05-15-22-20: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-27
+processing job malcolm_test_processing3
+processingname
+processing_folder\malcolm_test_processing3
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-28
+processing job malcolm_test_processing3
+processingname
+C:\Users\MatterLab\Documents\sila-optics-deploy\sila-optics-deploy\input_folder\malcolm_test_processing3.json
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-30
+processing job malcolm_test_processing3
+C:\Users\MatterLab\Documents\sila-optics-deploy\sila-optics-deploy\input_folder\malcolm_test_processing3.json
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-32
+processing job malcolm_test_processing3
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-33
+processing job malcolm_test_processing3
+
+measurement start for malcolm_test_processing3
+valve connection opened
+23-05-15-22-33: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-35
+processing job malcolm_test_processing3
+
+measurement start for malcolm_test_processing3
+valve connection opened
+23-05-15-22-36: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-22-37Measure absorption reference 
+23-05-15-22-37 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-22-38: Measure absorption dark
+ 23-05-15-22-38 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-05-15-22-39:Measure reference uv power
+23-05-15-22-39 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-22-40: Adjust PL exposure
+23-05-15-22-40: Measure PL dark spectrum
+23-05-15-22-41Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-22-42 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-22-42 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-22-43: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-05-15-22-47: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-47
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-22-56
+processing job malcolm_test_final
+
+measurement start for malcolm_test_final
+valve connection opened
+23-05-15-23-10: washing selector to pump line with solvent
+Discard selector to pump volumes
+Switch selector to position 5
+Draw 0.072 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.018 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+23-05-15-23-11Measure absorption reference 
+23-05-15-23-12 :Emplying the flow cell
+Send 0.085 ml of solution to flow cell
+ 23-05-15-23-13: Measure absorption dark
+ 23-05-15-23-13 Measure absorption spectrum 
+Collect 0.085 ml of solution to flow cell
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.110 ml
+23-05-15-23-14:Measure reference uv power
+23-05-15-23-14 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-23-15: Adjust PL exposure
+23-05-15-23-15: Measure PL dark spectrum
+23-05-15-23-15Measure PL spectrum
+Collect 0.100 ml of solution to flow cell
+23-05-15-23-16 :Emplying the flow cell
+Send 0.100 ml of solution to flow cell
+ 23-05-15-23-17 Measure transient emission
+Collect 0.100 ml of solution to flow cell
+ 23-05-15-23-17: discard sample 
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash flow_cell
+Wash vial
+valve connection opened
+Wash collector 5
+update vial status : vial5 True
+valve connection closed
+ 23-05-15-23-21: measurement done
+sample waiting for re-dissolution 0
+waiting job input 23-05-15-23-21

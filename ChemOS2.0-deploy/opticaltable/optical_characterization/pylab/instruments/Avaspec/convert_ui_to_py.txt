@@ -1,0 +1,5 @@
+Use: pyuic5.bat
+
+pyuic5 form1.ui -o form1.py
+
+

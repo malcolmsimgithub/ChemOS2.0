@@ -1,0 +1,12 @@
+! PBE0 def2-SVP D3BJ def2/J RIJCOSX tightSCF noautostart miniprint nopop defgrid3
+! EnGrad
+%maxcore    4000
+%pal    nprocs  8  end
+%tddft  PrintLevel  3
+	IRootMult	Triplet
+	TDA	True
+	NRoots	5
+        MaxDim  10
+end
+* xyzfile 0 1 orcaopt.xyz
+

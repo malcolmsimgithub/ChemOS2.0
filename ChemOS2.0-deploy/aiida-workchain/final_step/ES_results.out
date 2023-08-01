@@ -1,0 +1,74 @@
+     1	 Sr index (integral of Sr function):   0.72692 a.u.
+     2	 Sr index (integral of Sr function):   0.47075 a.u.
+     3	 Sr index (integral of Sr function):   0.57091 a.u.
+     4	 Sr index (integral of Sr function):   0.74596 a.u.
+     5	 Sr index (integral of Sr function):   0.09872 a.u.
+
+     1	 D_x:   0.010  D_y:   0.532  D_z:   0.273    D index:   0.598 Angstrom
+     2	 D_x:   0.018  D_y:   1.513  D_z:   0.778    D index:   1.701 Angstrom
+     3	 D_x:   0.004  D_y:   1.060  D_z:   0.545    D index:   1.191 Angstrom
+     4	 D_x:   0.012  D_y:   0.166  D_z:   0.084    D index:   0.187 Angstrom
+     5	 D_x:  10.593  D_y:   1.895  D_z:   0.980    D index:  10.806 Angstrom
+
+     1	 RMSD of hole in X/Y/Z:       8.361   1.698   1.065   Norm:   8.598 Angstrom
+     2	 RMSD of hole in X/Y/Z:      11.492   1.870   1.093   Norm:  11.694 Angstrom
+     3	 RMSD of hole in X/Y/Z:      10.435   2.017   1.170   Norm:  10.693 Angstrom
+     4	 RMSD of hole in X/Y/Z:       8.186   1.661   1.053   Norm:   8.419 Angstrom
+     5	 RMSD of hole in X/Y/Z:       0.914   2.238   1.211   Norm:   2.703 Angstrom
+
+     1	 RMSD of electron in X/Y/Z:   5.687   1.332   0.973   Norm:   5.921 Angstrom
+     2	 RMSD of electron in X/Y/Z:   5.697   1.332   0.973   Norm:   5.931 Angstrom
+     3	 RMSD of electron in X/Y/Z:   5.677   1.332   0.973   Norm:   5.912 Angstrom
+     4	 RMSD of electron in X/Y/Z:   6.820   1.312   0.961   Norm:   7.012 Angstrom
+     5	 RMSD of electron in X/Y/Z:   5.237   1.332   0.973   Norm:   5.490 Angstrom
+
+     1	 H_x:  7.024  H_y:  1.515  H_z:  1.019  H_CT:  1.430  H index:  7.259 Angstrom
+     2	 H_x:  8.594  H_y:  1.601  H_z:  1.033  H_CT:  1.503  H index:  8.812 Angstrom
+     3	 H_x:  8.056  H_y:  1.675  H_z:  1.071  H_CT:  1.568  H index:  8.302 Angstrom
+     4	 H_x:  7.503  H_y:  1.487  H_z:  1.007  H_CT:  1.476  H index:  7.715 Angstrom
+     5	 H_x:  3.075  H_y:  1.785  H_z:  1.092  H_CT:  3.033  H index:  4.097 Angstrom
+
+     1	 t index: -0.833 Angstrom
+     2	 t index:  0.198 Angstrom
+     3	 t index: -0.377 Angstrom
+     4	 t index: -1.290 Angstrom
+     5	 t index:  7.774 Angstrom
+
+     1	 Excited state    1:   Delta_r =    1.137946 Bohr,    0.602175 Angstrom
+     2	 Excited state    2:   Delta_r =    3.213946 Bohr,    1.700747 Angstrom
+     3	 Excited state    3:   Delta_r =    2.222179 Bohr,    1.175926 Angstrom
+     4	 Excited state    4:   Delta_r =    0.361768 Bohr,    0.191439 Angstrom
+     5	 Excited state    5:   Delta_r =   24.669055 Bohr,   13.054302 Angstrom
+
+     1	 Excited state    1:   lambda =    0.733686
+     2	 Excited state    2:   lambda =    0.452206
+     3	 Excited state    3:   lambda =    0.588262
+     4	 Excited state    4:   lambda =    0.737923
+     5	 Excited state    5:   lambda =    0.078339
+
+ Transition electric dipole moment between ground state (0) and excited states (a.u.)
+     i     j         X             Y             Z        Diff.(eV)   Oscil.str
+     0     1    -6.0706413     0.0018035     0.0002512     2.93100     2.64632
+     0     2     0.0014179     0.6524606    -0.3421957     3.23200     0.04298
+     0     3     1.8968394     0.0002062    -0.0009228     3.52500     0.31073
+     0     4     0.0022098    -0.8436863     0.4409789     3.64000     0.08082
+     0     5    -0.0060640     0.0749916     0.0330112     3.69500     0.00061
+ 
+ Transition electric dipole moment between excited states (a.u.):
+     i     j         X             Y             Z        Diff.(eV)   Oscil.str
+     1     1     0.0407518    -2.5119670    -0.5154360     0.00000     0.00000
+     1     2   -12.8820249     0.0020991     0.0007531     0.30100     1.22375
+     1     3    -0.0133223     1.6977644    -0.9236860     0.59400     0.05437
+     1     4    -6.5462232     0.0007215     0.0007229     0.70900     0.74437
+     1     5    -0.0099768     0.0790007     0.0318178     0.76400     0.00014
+     2     2     0.0931797    -0.7038041    -1.4616173     0.00000     0.00000
+     2     3   -12.5148927     0.0004022     0.0014932     0.29300     1.12429
+     2     4     0.0038091    -0.6956732     0.3619046     0.40800     0.00615
+     2     5     0.0180979    -0.1524986    -0.0626727     0.46300     0.00031
+     3     3     0.0522162    -1.5244828    -1.0155147     0.00000     0.00000
+     3     4     4.8531785    -0.0012763    -0.0000681     0.11500     0.06636
+     3     5    -0.0334229     0.1628829     0.0668182     0.17000     0.00013
+     4     4     0.0393476    -3.1301164    -0.1597594     0.00000     0.00000
+     4     5    -0.0027836     0.0513386     0.0203130     0.05500     0.00000
+     5     5    19.9575546     0.0128759    -1.8467834     0.00000     0.00000
+ 
