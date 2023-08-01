@@ -60,7 +60,7 @@ python database.py
 ```
 
 
-## Usage
+## Usage of simulators
 
 Next, we can start of the sila2 servers:
 
