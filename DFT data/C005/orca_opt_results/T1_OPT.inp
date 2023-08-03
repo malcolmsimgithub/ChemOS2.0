@@ -1,0 +1,15 @@
+! PBE0 def2-SVP D3BJ def2/J RIJCOSX tightSCF noautostart miniprint nopop defgrid3 Opt
+%maxcore    4000
+%pal    nprocs  40  end
+%geom	Convergence	loose
+	MaxIter	5
+end
+%tddft  PrintLevel  3
+	IRootMult	Triplet
+	NRoots	5
+	IRoot	1
+	TDA	True
+        MaxDim  10
+end
+* xyzfile 0 1 T1_XTB_OPT_XYZ.xyz
+

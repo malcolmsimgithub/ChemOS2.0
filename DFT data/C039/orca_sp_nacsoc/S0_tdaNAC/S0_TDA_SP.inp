@@ -1,0 +1,15 @@
+! PBE0 def2-SVP D3BJ def2/J RIJCOSX tightSCF noautostart miniprint nopop defgrid3
+! EnGrad
+%maxcore    4000
+%pal    nprocs  20  end
+%tddft  PrintLevel  3
+	TDA	True
+	ETF	True
+	NACME	True
+	SGradList	0, 1, 2, 3
+	NRoots	5
+	IRoot	1
+        MaxDim  10
+end
+* xyzfile 0 1 /gpfs/fs0/scratch/a/aspuru/malcolms/aiida/c3/fa/679e-d5df-4596-9de7-eb75d21e247f/orca_freq.xyz
+

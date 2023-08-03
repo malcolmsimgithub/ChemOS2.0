@@ -1,0 +1,5 @@
+! PBE0 def2-SVP D3BJ def2/J RIJCOSX tightSCF noautostart miniprint nopop defgrid3 Opt Freq
+%maxcore    4000
+%pal    nprocs  40  end
+* xyzfile 0 1 S0_XTB.xyz
+
