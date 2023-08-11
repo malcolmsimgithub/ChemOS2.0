@@ -92,7 +92,7 @@ python start_sila_servers.py
 ```
 
 ## echem data
-Note that we have included a folder called "echem_runs". THis data is a part of a thesis that incorporates this project, and is not directly related to 
+Note that we have included a folder called "echem_data". This code is a part of a thesis that incorporates this project, and is not directly related to 
 the ChemOS 2.0 white paper.
 
 ## License

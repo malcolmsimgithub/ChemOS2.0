@@ -1,0 +1,105 @@
+syntax = "proto3";
+
+import "SiLAFramework.proto";
+
+package sila2.org.silastandard.examples.potenserver.v1;
+
+/* Potentiostat pump + voltamperometry. */
+service PotenServer {
+  /* Run experiment */
+  rpc RunExp (sila2.org.silastandard.examples.potenserver.v1.RunExp_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of RunExp */
+  rpc RunExp_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of RunExp */
+  rpc RunExp_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.potenserver.v1.RunExp_IntermediateResponses) {}
+  /* Retrieve result of RunExp */
+  rpc RunExp_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.potenserver.v1.RunExp_Responses) {}
+  /* Rinse cell */
+  rpc Rinse (sila2.org.silastandard.examples.potenserver.v1.Rinse_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of Rinse */
+  rpc Rinse_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of Rinse */
+  rpc Rinse_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.potenserver.v1.Rinse_IntermediateResponses) {}
+  /* Retrieve result of Rinse */
+  rpc Rinse_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.potenserver.v1.Rinse_Responses) {}
+  /* Run experiment */
+  rpc PrepareSample (sila2.org.silastandard.examples.potenserver.v1.PrepareSample_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of PrepareSample */
+  rpc PrepareSample_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of PrepareSample */
+  rpc PrepareSample_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.potenserver.v1.PrepareSample_IntermediateResponses) {}
+  /* Retrieve result of PrepareSample */
+  rpc PrepareSample_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.potenserver.v1.PrepareSample_Responses) {}
+  /* Run experiment */
+  rpc RunVoltammetry (sila2.org.silastandard.examples.potenserver.v1.RunVoltammetry_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of RunVoltammetry */
+  rpc RunVoltammetry_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of RunVoltammetry */
+  rpc RunVoltammetry_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.potenserver.v1.RunVoltammetry_IntermediateResponses) {}
+  /* Retrieve result of RunVoltammetry */
+  rpc RunVoltammetry_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.potenserver.v1.RunVoltammetry_Responses) {}
+}
+
+/* Parameters for RunExp */
+message RunExp_Parameters {
+  sila2.org.silastandard.String Jobfile = 1;  /* Jobfile */
+}
+
+/* Responses of RunExp */
+message RunExp_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of RunExp */
+message RunExp_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of Command */
+  sila2.org.silastandard.String Payload = 2;  /* Json file payload */
+}
+
+/* Parameters for Rinse */
+message Rinse_Parameters {
+  sila2.org.silastandard.String Jobfile = 1;  /* Jobfile */
+}
+
+/* Responses of Rinse */
+message Rinse_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of Rinse */
+message Rinse_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of Command */
+  sila2.org.silastandard.String Payload = 2;  /* Json file payload */
+}
+
+/* Parameters for PrepareSample */
+message PrepareSample_Parameters {
+  sila2.org.silastandard.String Jobfile = 1;  /* Jobfile */
+}
+
+/* Responses of PrepareSample */
+message PrepareSample_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of PrepareSample */
+message PrepareSample_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of Command */
+  sila2.org.silastandard.String Payload = 2;  /* Json file payload */
+}
+
+/* Parameters for RunVoltammetry */
+message RunVoltammetry_Parameters {
+  sila2.org.silastandard.String Jobfile = 1;  /* Jobfile */
+}
+
+/* Responses of RunVoltammetry */
+message RunVoltammetry_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of RunVoltammetry */
+message RunVoltammetry_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of Command */
+  sila2.org.silastandard.String Payload = 2;  /* Json file payload */
+}
