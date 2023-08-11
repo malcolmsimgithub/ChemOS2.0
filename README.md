@@ -91,6 +91,9 @@ if a sila2 server crashes, one can restart the servers using the command once mo
 python start_sila_servers.py
 ```
 
+## echem data
+Note that we have included a folder called "echem_runs". THis data is a part of a thesis that incorporates this project, and is not directly related to 
+the ChemOS 2.0 white paper.
 
 ## License
 
