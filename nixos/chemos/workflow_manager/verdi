@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+import sys
+from aiida.cmdline.commands.cmd_verdi import verdi
+sys.exit(verdi())
