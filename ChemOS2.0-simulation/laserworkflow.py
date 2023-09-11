@@ -146,6 +146,8 @@ for i in range(10):
 
 
     job_id = resultsdict["id"]
+
+    print(f"job id: {job_id}")
     if fetch_hplc_results(job_id):
         with open(f"jobresults/hplc/{job_id}/characterization_params.json", "r") as f:
             opticsjob = json.load(f)
@@ -194,6 +196,5 @@ for i in range(10):
     print(cross_section_gain)
 
     campaign.add_observation([reccomends[0]],np.array([cross_section_gain]))
-
     with open(f"runs/{i+1}.pkl", "wb") as f:
         pickle.dump(campaign, f)

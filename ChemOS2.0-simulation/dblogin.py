@@ -1,7 +1,7 @@
 ####configure your database credentials
 
 def get_login():
-    dbname = "chemos or another database name"
-    dbuser = "username"
-    dbpassword = "password"
+    dbname = "chemos"
+    dbuser = "maozer"
+    dbpassword = "maozer"
     return dbname, dbuser, dbpassword

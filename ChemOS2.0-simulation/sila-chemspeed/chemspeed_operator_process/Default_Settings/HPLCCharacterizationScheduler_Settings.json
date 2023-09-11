@@ -1,0 +1,32 @@
+{
+  "hplc_interface": "hplc",
+  "filtration_rack": "filtration_rack",
+  "sample_storage": "sample_rack",
+  "blank": "VALVEB:1",
+  "operations":
+  {
+    "filter_collect": {
+      "task": "filter_collect",
+      "parameters": {
+        "volume": 1.0,
+        "pre_wash": "THF",
+        "pre_wash_volume": 1.0,
+        "post_wash": "THF",
+        "post_wash_volume":  2.0
+      }
+    },
+    "characterization_1st": {
+      "task": "inject_to_hplc",
+      "parameters": {}
+    },
+    "characterization_2nd": {
+      "task": "inject_to_hplc",
+      "parameters": {}
+    },
+    "inject": {
+      "task": "inject_to_hplc",
+      "parameters": {}
+    }
+  },
+  "regular_blank_runs": 10
+}
