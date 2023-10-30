@@ -53,6 +53,10 @@ def get_login():
 
 ## Usage of simulators
 
+
+IMPORTANT:  the simulators are primarily meant to showcase the functionality of SiLA2 as an interface for laboratory hardware. They are not meant for deployment or any
+real-world usage. The simulators allow users to send commands to virtual clones of the hardware used in the organic-laser campaign of the ChemOS 2.0 project. like their deployment counterparts, they utilize SiLA2 to receive and execute commands from ChemOS2.0, and stream output data back to ChemOS2.0. Whilst the SiLA2 servers for the simulators are all hosted locally on the same device, note that for the actual deployment, each SiLA2 server was hosted on a separate computer connected to its respective hardware. The simulators return (identical) sample data from each instrument, which is automatically logged in the database (which should be configured according to the instructions above).
+
 Next, we can start of the sila2 servers:
 
 ```Bash
@@ -82,7 +86,6 @@ if a sila2 server crashes, one can restart the servers using the command once mo
 ```Bash
 python start_sila_servers.py
 ```
-
 
 ![Screenshot 2023-10-30 at 11 49 53 AM](https://github.com/malcolmsimgithub/ChemOS2.0/assets/110689046/b7121ecf-e29b-4f2e-a91f-ed461dd84be6)
 
