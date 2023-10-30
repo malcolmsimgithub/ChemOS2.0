@@ -3,15 +3,21 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-`ChemOS 2.0` is an orchestration framework for automating chemistry labs.
+`ChemOS 2.0` is an orchestration framework for automating chemistry labs. 
 
 This repository contains code used in the creation of ChemOS 2.0, as well as data collected during development.
+https://chemrxiv.org/engage/chemrxiv/article-details/64cbe80adfabaf06ffa61204
 
 There is also a demontstrative collection of simulators to showcase the functioning of ChemOS 2.0.
 
 Output data for the machine's runs can be found in the folder "the-machine-data".
 
 Output data for the closed loop can be found in the folder "closed-loop-data".
+
+ChemOS 2.0 is currently under peer review. Additional changes to this repository's code following publication
+
+NOTE: Specific implementations of ChemOS 2.0 require a unique customization of the architecture for a specific experimental setting. 
+      repository does not contain a complete package for immediate deployment
 
 
 # Contact
@@ -76,6 +82,13 @@ if a sila2 server crashes, one can restart the servers using the command once mo
 ```Bash
 python start_sila_servers.py
 ```
+
+
+![Screenshot 2023-10-30 at 11 49 53 AM](https://github.com/malcolmsimgithub/ChemOS2.0/assets/110689046/b7121ecf-e29b-4f2e-a91f-ed461dd84be6)
+
+Web application for ChemOS 2.0. A:sidebar for toggling between instruments/features. B:job submission for the HPLC-MS. C:data visualiza- tion of the HLPC-MS’s job results.
+
+
 
 ## echem data
 Note that we have included a folder called "echem_data". This code is a part of a thesis that incorporates this project, and is not directly related to 
