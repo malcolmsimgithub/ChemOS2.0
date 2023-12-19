@@ -1,0 +1,102 @@
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-11-42
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-11-56
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-05-03-12-09
+Measure absorption dark 23-05-03-12-09
+Measure absorption spectrum  23-05-03-12-09
+Measure reference uv power 23-05-03-12-09
+Adjust PL exposure 23-05-03-12-09
+Measure PL dark spectrum 23-05-03-12-09
+Measure PL spectrum 23-05-03-12-09
+Measure transient emission 23-05-03-12-09
+Wash cells
+Wash collector 13
+discard sample 23-05-03-12-09
+measurement done 23-05-03-12-09
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-12-14
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-05-03-12-14
+Measure absorption dark 23-05-03-12-14
+Measure absorption spectrum  23-05-03-12-14
+Measure reference uv power 23-05-03-12-14
+Adjust PL exposure 23-05-03-12-14
+Measure PL dark spectrum 23-05-03-12-14
+Measure PL spectrum 23-05-03-12-14
+Measure transient emission 23-05-03-12-14
+Wash cells
+Wash collector 13
+discard sample 23-05-03-12-14
+measurement done 23-05-03-12-14
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-12-23
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-05-03-12-23
+Measure absorption dark 23-05-03-12-23
+Measure absorption spectrum  23-05-03-12-23
+Measure reference uv power 23-05-03-12-23
+Adjust PL exposure 23-05-03-12-23
+Measure PL dark spectrum 23-05-03-12-23
+Measure PL spectrum 23-05-03-12-23
+Measure transient emission 23-05-03-12-23
+Wash cells
+Wash collector 13
+discard sample 23-05-03-12-23
+measurement done 23-05-03-12-23
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-12-24
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-12-31
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-05-03-12-32
+Measure absorption dark 23-05-03-12-32
+Measure absorption spectrum  23-05-03-12-32
+Measure reference uv power 23-05-03-12-32
+Adjust PL exposure 23-05-03-12-32
+Measure PL dark spectrum 23-05-03-12-32
+Measure PL spectrum 23-05-03-12-32
+Measure transient emission 23-05-03-12-32
+Wash cells
+Wash collector 13
+discard sample 23-05-03-12-32
+measurement done 23-05-03-12-32
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-12-34
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-05-03-12-34
+Measure absorption dark 23-05-03-12-34
+Measure absorption spectrum  23-05-03-12-34
+Measure reference uv power 23-05-03-12-34
+Adjust PL exposure 23-05-03-12-34
+Measure PL dark spectrum 23-05-03-12-34
+Measure PL spectrum 23-05-03-12-34
+Measure transient emission 23-05-03-12-34
+Wash cells
+Wash collector 13
+discard sample 23-05-03-12-34
+measurement done 23-05-03-12-34
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-12-35
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-05-03-12-35
+Measure absorption dark 23-05-03-12-35
+Measure absorption spectrum  23-05-03-12-35
+Measure reference uv power 23-05-03-12-35
+Adjust PL exposure 23-05-03-12-35
+Measure PL dark spectrum 23-05-03-12-35
+Measure PL spectrum 23-05-03-12-35
+Measure transient emission 23-05-03-12-35
+Wash cells
+Wash collector 13
+discard sample 23-05-03-12-35
+measurement done 23-05-03-12-35
+sample waiting for re-dissolution 0
+waiting job input 23-05-03-12-35

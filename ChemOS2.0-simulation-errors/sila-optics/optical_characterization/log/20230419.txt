@@ -1,0 +1,248 @@
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-12
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-18
+Measure absorption dark 23-04-19-15-18
+Measure absorption spectrum  23-04-19-15-18
+Measure reference uv power 23-04-19-15-18
+Adjust PL exposure 23-04-19-15-18
+Measure PL dark spectrum 23-04-19-15-18
+Measure PL spectrum 23-04-19-15-18
+Measure transient emission 23-04-19-15-18
+Wash cells
+Wash collector 13
+discard sample 23-04-19-15-18
+measurement done 23-04-19-15-18
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-18
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-22
+
+measurement start for simulated atlas compound
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-30
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-30
+Measure absorption dark 23-04-19-15-30
+Measure absorption spectrum  23-04-19-15-30
+Measure reference uv power 23-04-19-15-30
+Adjust PL exposure 23-04-19-15-30
+Measure PL dark spectrum 23-04-19-15-30
+Measure PL spectrum 23-04-19-15-30
+Measure transient emission 23-04-19-15-30
+Wash cells
+Wash collector 13
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-31
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-32
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-33
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-34
+Measure absorption dark 23-04-19-15-34
+Measure absorption spectrum  23-04-19-15-34
+Measure reference uv power 23-04-19-15-34
+Adjust PL exposure 23-04-19-15-34
+Measure PL dark spectrum 23-04-19-15-34
+Measure PL spectrum 23-04-19-15-34
+Measure transient emission 23-04-19-15-34
+Wash cells
+Wash collector 13
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-34
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-35
+Measure absorption dark 23-04-19-15-35
+Measure absorption spectrum  23-04-19-15-35
+Measure reference uv power 23-04-19-15-35
+Adjust PL exposure 23-04-19-15-35
+Measure PL dark spectrum 23-04-19-15-35
+Measure PL spectrum 23-04-19-15-35
+Measure transient emission 23-04-19-15-35
+Wash cells
+Wash collector 13
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-36
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-36
+Measure absorption dark 23-04-19-15-36
+Measure absorption spectrum  23-04-19-15-36
+Measure reference uv power 23-04-19-15-36
+Adjust PL exposure 23-04-19-15-36
+Measure PL dark spectrum 23-04-19-15-36
+Measure PL spectrum 23-04-19-15-36
+Measure transient emission 23-04-19-15-36
+Wash cells
+Wash collector 13
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-37
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-37
+Measure absorption dark 23-04-19-15-37
+Measure absorption spectrum  23-04-19-15-37
+Measure reference uv power 23-04-19-15-37
+Adjust PL exposure 23-04-19-15-37
+Measure PL dark spectrum 23-04-19-15-37
+Measure PL spectrum 23-04-19-15-37
+Measure transient emission 23-04-19-15-37
+Wash cells
+Wash collector 13
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-38
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-39
+Measure absorption dark 23-04-19-15-39
+Measure absorption spectrum  23-04-19-15-39
+Measure reference uv power 23-04-19-15-39
+Adjust PL exposure 23-04-19-15-39
+Measure PL dark spectrum 23-04-19-15-39
+Measure PL spectrum 23-04-19-15-39
+Measure transient emission 23-04-19-15-39
+Wash cells
+Wash collector 13
+discard sample 23-04-19-15-39
+measurement done 23-04-19-15-39
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-39
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-42
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-43
+Measure absorption dark 23-04-19-15-43
+Measure absorption spectrum  23-04-19-15-43
+Measure reference uv power 23-04-19-15-43
+Adjust PL exposure 23-04-19-15-43
+Measure PL dark spectrum 23-04-19-15-43
+Measure PL spectrum 23-04-19-15-43
+Measure transient emission 23-04-19-15-43
+Wash cells
+Wash collector 13
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-57
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-57
+Measure absorption dark 23-04-19-15-57
+Measure absorption spectrum  23-04-19-15-57
+Measure reference uv power 23-04-19-15-57
+Adjust PL exposure 23-04-19-15-57
+Measure PL dark spectrum 23-04-19-15-57
+Measure PL spectrum 23-04-19-15-57
+Measure transient emission 23-04-19-15-57
+Wash cells
+Wash collector 13
+discard sample 23-04-19-15-57
+measurement done 23-04-19-15-57
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-58
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-59
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-15-59
+Measure absorption dark 23-04-19-15-59
+Measure absorption spectrum  23-04-19-15-59
+Measure reference uv power 23-04-19-15-59
+Adjust PL exposure 23-04-19-15-59
+Measure PL dark spectrum 23-04-19-15-59
+Measure PL spectrum 23-04-19-15-59
+Measure transient emission 23-04-19-15-59
+Wash cells
+Wash collector 13
+discard sample 23-04-19-15-59
+measurement done 23-04-19-15-59
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-15-59
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-16-01
+Measure absorption dark 23-04-19-16-01
+Measure absorption spectrum  23-04-19-16-01
+Measure reference uv power 23-04-19-16-01
+Adjust PL exposure 23-04-19-16-01
+Measure PL dark spectrum 23-04-19-16-01
+Measure PL spectrum 23-04-19-16-01
+Measure transient emission 23-04-19-16-01
+Wash cells
+Wash collector 13
+discard sample 23-04-19-16-01
+measurement done 23-04-19-16-01
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-16-01
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-16-05
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-16-06
+Measure absorption dark 23-04-19-16-06
+Measure absorption spectrum  23-04-19-16-06
+Measure reference uv power 23-04-19-16-06
+Adjust PL exposure 23-04-19-16-06
+Measure PL dark spectrum 23-04-19-16-06
+Measure PL spectrum 23-04-19-16-06
+Measure transient emission 23-04-19-16-06
+Wash cells
+Wash collector 13
+discard sample 23-04-19-16-06
+measurement done 23-04-19-16-06
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-16-06
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-16-10
+Measure absorption dark 23-04-19-16-10
+Measure absorption spectrum  23-04-19-16-10
+Measure reference uv power 23-04-19-16-10
+Adjust PL exposure 23-04-19-16-10
+Measure PL dark spectrum 23-04-19-16-10
+Measure PL spectrum 23-04-19-16-10
+Measure transient emission 23-04-19-16-10
+Wash cells
+Wash collector 13
+discard sample 23-04-19-16-10
+measurement done 23-04-19-16-10
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-16-10
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-16-12
+Measure absorption dark 23-04-19-16-12
+Measure absorption spectrum  23-04-19-16-12
+Measure reference uv power 23-04-19-16-12
+Adjust PL exposure 23-04-19-16-12
+Measure PL dark spectrum 23-04-19-16-12
+Measure PL spectrum 23-04-19-16-12
+Measure transient emission 23-04-19-16-12
+Wash cells
+Wash collector 13
+discard sample 23-04-19-16-12
+measurement done 23-04-19-16-12
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-16-12
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-16-24
+
+measurement start for simulated atlas compound
+Measure absorption reference 23-04-19-16-24
+Measure absorption dark 23-04-19-16-24
+Measure absorption spectrum  23-04-19-16-24
+Measure reference uv power 23-04-19-16-24
+Adjust PL exposure 23-04-19-16-24
+Measure PL dark spectrum 23-04-19-16-24
+Measure PL spectrum 23-04-19-16-24
+Measure transient emission 23-04-19-16-24
+Wash cells
+Wash collector 13
+discard sample 23-04-19-16-24
+measurement done 23-04-19-16-24
+sample waiting for re-dissolution 0
+waiting job input 23-04-19-16-24

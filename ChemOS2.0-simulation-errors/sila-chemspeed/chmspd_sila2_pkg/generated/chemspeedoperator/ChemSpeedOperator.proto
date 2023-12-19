@@ -1,0 +1,119 @@
+syntax = "proto3";
+
+import "SiLAFramework.proto";
+
+package sila2.org.silastandard.examples.chemspeedoperator.v1;
+
+/* Runs the ChemSpeed platform using a given synthesis procedure */
+service ChemSpeedOperator {
+  /* Changes the synthesis procedure */
+  rpc ChangeProcedure (sila2.org.silastandard.examples.chemspeedoperator.v1.ChangeProcedure_Parameters) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.ChangeProcedure_Responses) {}
+  /*  Adds a batch for the chemspeed platform to make */
+  rpc Addbatch (sila2.org.silastandard.examples.chemspeedoperator.v1.Addbatch_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of Addbatch */
+  rpc Addbatch_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of Addbatch */
+  rpc Addbatch_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.chemspeedoperator.v1.Addbatch_IntermediateResponses) {}
+  /* Retrieve result of Addbatch */
+  rpc Addbatch_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.Addbatch_Responses) {}
+  /* Instructs ChemSpeed to filter a compound */
+  rpc Filter (sila2.org.silastandard.examples.chemspeedoperator.v1.Filter_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of Filter */
+  rpc Filter_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of Filter */
+  rpc Filter_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.chemspeedoperator.v1.Filter_IntermediateResponses) {}
+  /* Retrieve result of Filter */
+  rpc Filter_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.Filter_Responses) {}
+  /* Tells Chemspeed to inject to HPLC */
+  rpc Inject (sila2.org.silastandard.examples.chemspeedoperator.v1.Inject_Parameters) returns (sila2.org.silastandard.CommandConfirmation) {}
+  /* Monitor the state of Inject */
+  rpc Inject_Info (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.ExecutionInfo) {}
+  /* Retrieve intermediate responses of Inject */
+  rpc Inject_Intermediate (sila2.org.silastandard.CommandExecutionUUID) returns (stream sila2.org.silastandard.examples.chemspeedoperator.v1.Inject_IntermediateResponses) {}
+  /* Retrieve result of Inject */
+  rpc Inject_Result(sila2.org.silastandard.CommandExecutionUUID) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.Inject_Responses) {}
+  /* Retreives storage rack information form chemspeed */
+  rpc GetRackpositions (sila2.org.silastandard.examples.chemspeedoperator.v1.GetRackpositions_Parameters) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.GetRackpositions_Responses) {}
+  /* Retreives inventory information from ChemSpeed */
+  rpc GetInventory (sila2.org.silastandard.examples.chemspeedoperator.v1.GetInventory_Parameters) returns (sila2.org.silastandard.examples.chemspeedoperator.v1.GetInventory_Responses) {}
+}
+
+/* Parameters for ChangeProcedure */
+message ChangeProcedure_Parameters {
+  sila2.org.silastandard.String SynthesisProcedure = 1;  /* Synthesis procedure to use in this experiment. */
+}
+
+/* Responses of ChangeProcedure */
+message ChangeProcedure_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Parameters for Addbatch */
+message Addbatch_Parameters {
+  sila2.org.silastandard.String BatchName = 1;  /* Name of batchfile to use */
+  sila2.org.silastandard.String Batchfile = 2;  /* Batch file to use in this experiment. */
+}
+
+/* Responses of Addbatch */
+message Addbatch_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of Addbatch */
+message Addbatch_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of batch */
+  sila2.org.silastandard.String Operations = 2;  /* Operations executed by chemspeed during this batch */
+}
+
+/* Parameters for Filter */
+message Filter_Parameters {
+  sila2.org.silastandard.String RackPosition = 1;  /* Position of compound on RackL */
+}
+
+/* Responses of Filter */
+message Filter_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of Filter */
+message Filter_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of Characterization */
+  sila2.org.silastandard.String Operations = 2;  /* Operations executed by chemspeed during this batch */
+}
+
+/* Parameters for Inject */
+message Inject_Parameters {
+  sila2.org.silastandard.String RackPosition = 1;  /* Location of compound */
+}
+
+/* Responses of Inject */
+message Inject_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}
+
+/* Intermediate responses of Inject */
+message Inject_IntermediateResponses {
+  sila2.org.silastandard.String Status = 1;  /* Status of Characterization */
+  sila2.org.silastandard.String Operations = 2;  /* Operations executed by chemspeed during this batch */
+}
+
+/* Parameters for GetRackpositions */
+message GetRackpositions_Parameters {
+}
+
+/* Responses of GetRackpositions */
+message GetRackpositions_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+  sila2.org.silastandard.String RACKL = 2;  /* RACKL */
+  sila2.org.silastandard.String RACKR = 3;  /* RACKR */
+  sila2.org.silastandard.String SPE = 4;  /* SPE */
+}
+
+/* Parameters for GetInventory */
+message GetInventory_Parameters {
+}
+
+/* Responses of GetInventory */
+message GetInventory_Responses {
+  sila2.org.silastandard.String Termination = 1;  /* Termination message */
+}

@@ -1,0 +1,4 @@
+washing selector to pump line with solvent (2021-02-25 11:10:07)
+Discard selector to pump volumes
+closing device
+OFF

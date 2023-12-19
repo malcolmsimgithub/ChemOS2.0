@@ -1,0 +1,43 @@
+{
+
+	"sample" : {
+		"name" : "Unknown",
+		"solvent" : "Unknown",
+		"concentration(uM)" : "Unknown",
+		"abs_coeff_at_excitation" : "Unknown"
+	},
+
+	"TimeHarp": {
+		"SYNC_cfd_level" : -70,
+		"SYNC_zero_cross" : -10,
+		"SYNC_offset" : 0,
+		"channel_cfd_level" : -70,
+		"channel_zero_cross" : -10,
+		"channel_offset" : 0,
+		"binning" : 0,
+		"offset" : 0
+	},
+
+	"ND_filter": {
+		"visa_filter" : "ASRL11::INSTR"
+	},
+
+	"laser" : {
+		"wavelength" : "375nm"
+	},
+
+
+	"measurement": {
+        "min_rate" : 1E-2, 
+        "max_rate" : 3E-2, 
+        "accumulation" : 10000,
+        "initial_frequency" : 1E6,
+		"initial_filter_position" : 12
+	},
+
+	"fitting": {
+		"fit_order" : 1,
+		"fit_weight" : 1,
+		"do_plot" : "False"
+	}
+}

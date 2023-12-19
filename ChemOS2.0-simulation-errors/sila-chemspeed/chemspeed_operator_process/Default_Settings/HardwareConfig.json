@@ -1,0 +1,55 @@
+{
+    "reactor": {
+      "type": "ISynth",
+      "name": "ISYNTH",
+      "role": "reactor",
+      "positions": "range(1, 49)",
+      "output_folder": "ChemSpeed_Modules",
+      "capacity": 8,
+      "drawer_size": 8
+    },
+    "filtration_rack": {
+      "type": "FiltrationRack",
+      "name": "SPE",
+      "role": "filtration",
+      "positions": "['3', '5', '7', '9', '13', '15', '20', '22', '24', '26', '30', '32', '33', '37', '39', '41', '43', '47', '54', '56', '58', '60', '64']",
+      "output_folder": "ChemSpeed_Modules",
+      "capacity": 8
+    },
+    "solid_storage": {
+      "type": "StorageRack",
+      "name": "SOLID",
+      "role": "storage",
+      "positions": "range(1, 17)",
+      "output_folder": "ChemSpeed_Modules",
+      "capacity": 10000,
+      "phase": "solid"
+    },
+    "liquid_storage": {
+      "type": "StorageRack",
+      "name": "RACKR",
+      "role": "storage",
+      "positions": "range(1, 31)",
+      "output_folder": "ChemSpeed_Modules",
+      "capacity": 10000,
+      "phase": "liquid"
+    },
+    "sample_rack": {
+      "type": "StorageRack",
+      "name": "RACKL",
+      "role": "sample",
+      "positions": "range(1, 81)",
+      "output_folder": "ChemSpeed_Modules",
+      "capacity": 8,
+      "phase": "liquid"
+    },
+    "system_liquids": {
+      "type": "StorageRack",
+      "name": "VALVEB",
+      "role": "storage",
+      "positions": "range(1, 5)",
+      "output_folder": "ChemSpeed_Modules",
+      "capacity": 4000,
+      "phase": "liquid"
+    }
+  }

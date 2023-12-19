@@ -1,0 +1,467 @@
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+
+measurement start for BSBCz
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 11:51:20)
+Discard selector to pump volumes
+Switch selector to position 9
+Draw 0.120 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-01-27 11:52:07)
+Emplying the flow cell (2021-01-27 11:52:33)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 11:54:24)
+Measure absorption spectrum  (2021-01-27 11:54:30)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-01-27 11:55:04)
+Emplying the flow cell (2021-01-27 11:55:12)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 11:56:42)
+Measure PL dark spectrum (2021-01-27 11:56:45)
+Measure PL spectrum (2021-01-27 11:57:06)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 11:58:01)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+measurement done (2021-01-27 12:00:43)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+
+measurement start for BSBCz
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 12:02:55)
+Discard selector to pump volumes
+Switch selector to position 9
+Draw 0.120 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-01-27 12:03:42)
+Emplying the flow cell (2021-01-27 12:04:08)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 12:05:59)
+Measure absorption spectrum  (2021-01-27 12:06:05)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-01-27 12:06:39)
+Emplying the flow cell (2021-01-27 12:06:47)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 12:08:17)
+Measure PL dark spectrum (2021-01-27 12:08:20)
+Measure PL spectrum (2021-01-27 12:08:41)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 12:09:35)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+measurement done (2021-01-27 12:12:18)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+
+measurement start for BSBCz
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 12:17:03)
+Discard selector to pump volumes
+Switch selector to position 9
+Draw 0.120 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-01-27 12:17:50)
+Emplying the flow cell (2021-01-27 12:18:16)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 12:20:07)
+Measure absorption spectrum  (2021-01-27 12:20:13)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-01-27 12:20:47)
+Emplying the flow cell (2021-01-27 12:20:55)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 12:22:25)
+Measure PL dark spectrum (2021-01-27 12:22:28)
+Measure PL spectrum (2021-01-27 12:22:49)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 12:23:43)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+measurement done (2021-01-27 12:26:26)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+
+measurement start for BSBCz
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 12:57:56)
+Discard selector to pump volumes
+Switch selector to position 9
+Draw 0.120 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-01-27 12:58:43)
+Emplying the flow cell (2021-01-27 12:59:09)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 13:01:00)
+Measure absorption spectrum  (2021-01-27 13:01:06)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-01-27 13:01:40)
+Emplying the flow cell (2021-01-27 13:01:48)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 13:03:18)
+Measure PL dark spectrum (2021-01-27 13:03:21)
+Measure PL spectrum (2021-01-27 13:03:42)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 13:04:36)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+measurement done (2021-01-27 13:07:19)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+
+measurement start for BSBCz
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 14:22:22)
+Discard selector to pump volumes
+Switch selector to position 9
+Draw 0.120 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-01-27 14:23:09)
+Emplying the flow cell (2021-01-27 14:23:35)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 14:25:26)
+Measure absorption spectrum  (2021-01-27 14:25:32)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-01-27 14:26:06)
+Emplying the flow cell (2021-01-27 14:26:14)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 14:27:44)
+Measure PL dark spectrum (2021-01-27 14:27:47)
+Measure PL spectrum (2021-01-27 14:28:08)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 14:29:02)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+measurement done (2021-01-27 14:31:45)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+
+measurement start for BSBCz
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 14:33:52)
+Discard selector to pump volumes
+Switch selector to position 9
+Draw 0.120 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-01-27 14:34:39)
+Emplying the flow cell (2021-01-27 14:35:05)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 14:36:56)
+Measure absorption spectrum  (2021-01-27 14:37:02)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-01-27 14:37:36)
+Emplying the flow cell (2021-01-27 14:37:44)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 14:39:14)
+Measure PL dark spectrum (2021-01-27 14:39:17)
+Measure PL spectrum (2021-01-27 14:39:38)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 14:40:32)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+measurement done (2021-01-27 14:43:15)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+
+measurement start for BSBCz
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 14:43:58)
+Discard selector to pump volumes
+Switch selector to position 2
+Draw 0.120 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-01-27 14:44:45)
+Emplying the flow cell (2021-01-27 14:45:11)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 14:47:02)
+Measure absorption spectrum  (2021-01-27 14:47:08)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-01-27 14:47:42)
+Emplying the flow cell (2021-01-27 14:47:50)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 14:49:19)
+Measure PL dark spectrum (2021-01-27 14:49:22)
+Measure PL spectrum (2021-01-27 14:49:44)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 14:50:38)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2021-01-27 14:53:20)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+waiting job input (2021-01-27 15:02:44)
+
+measurement start for BSBCz _c
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 15:10:33)
+Discard selector to pump volumes
+Switch selector to position 2
+Draw 0.070 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+Measure absorption reference (2021-01-27 15:11:48)
+Emplying the flow cell (2021-01-27 15:12:13)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 15:14:05)
+Measure absorption spectrum  (2021-01-27 15:14:11)
+Collect 0.085 ml of solution to flow cell
+Draw 0.030 ml of solvent and mix in vial
+Current sample volume : 0.120 ml
+Measure reference uv power (2021-01-27 15:15:13)
+Emplying the flow cell (2021-01-27 15:15:21)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 15:16:50)
+Measure PL dark spectrum (2021-01-27 15:16:53)
+Measure PL spectrum (2021-01-27 15:17:15)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 15:18:09)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 2
+update vial status : vial2 True
+valve connection closed
+measurement done (2021-01-27 15:20:51)
+
+measurement start for BSBCz _c
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 15:20:59)
+Discard selector to pump volumes
+Switch selector to position 3
+Draw 0.080 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.010 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+Measure absorption reference (2021-01-27 15:22:14)
+Emplying the flow cell (2021-01-27 15:22:40)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 15:24:31)
+Measure absorption spectrum  (2021-01-27 15:24:37)
+Collect 0.085 ml of solution to flow cell
+Draw 0.030 ml of solvent and mix in vial
+Current sample volume : 0.120 ml
+Measure reference uv power (2021-01-27 15:25:39)
+Emplying the flow cell (2021-01-27 15:25:47)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 15:27:16)
+Measure PL dark spectrum (2021-01-27 15:27:19)
+Measure PL spectrum (2021-01-27 15:27:41)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 15:28:35)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 3
+update vial status : vial3 True
+valve connection closed
+measurement done (2021-01-27 15:31:17)
+waiting job input (2021-01-27 15:31:22)
+
+measurement start for 3_c
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 15:31:31)
+Discard selector to pump volumes
+Switch selector to position 9
+Draw 0.073 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.017 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+Measure absorption reference (2021-01-27 15:32:46)
+Emplying the flow cell (2021-01-27 15:33:11)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 15:35:03)
+Measure absorption spectrum  (2021-01-27 15:35:09)
+Collect 0.085 ml of solution to flow cell
+Draw 0.030 ml of solvent and mix in vial
+Current sample volume : 0.120 ml
+Measure reference uv power (2021-01-27 15:36:11)
+Emplying the flow cell (2021-01-27 15:36:19)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 15:37:48)
+Measure PL dark spectrum (2021-01-27 15:37:51)
+Measure PL spectrum (2021-01-27 15:38:13)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 15:39:07)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 9
+update vial status : vial9 True
+valve connection closed
+measurement done (2021-01-27 15:41:49)
+waiting job input (2021-01-27 15:41:54)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+waiting job input (2021-01-27 15:45:16)
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 15:53:03)
+Discard selector to pump volumes
+Sending solutions to the collector vials 10
+valve connection closed
+nitrogen_valve: Open
+Waiting 5.0 min for evaporation
+nitrogen_valve: Close
+valve connection opened
+Sending 0.15 ml of solvent to collector vial 10
+valve connection closed
+Waiting 5.0 min for dissolution
+
+measurement start for BSBCz _c_evap
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 16:11:00)
+Discard selector to pump volumes
+Switch selector to position 10
+Draw 0.070 ml of sample
+Switch selector to position 1
+valve connection closed
+Draw 0.020 ml of solvent and mix in vial
+Current sample volume : 0.090 ml
+Measure absorption reference (2021-01-27 16:12:15)
+Emplying the flow cell (2021-01-27 16:12:41)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 16:14:32)
+Measure absorption spectrum  (2021-01-27 16:14:38)
+Collect 0.085 ml of solution to flow cell
+Draw 0.030 ml of solvent and mix in vial
+Current sample volume : 0.120 ml
+Measure reference uv power (2021-01-27 16:15:40)
+Emplying the flow cell (2021-01-27 16:15:48)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 16:17:17)
+Measure PL dark spectrum (2021-01-27 16:17:20)
+Measure PL spectrum (2021-01-27 16:17:42)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 16:18:36)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 10
+update vial status : vial10 True
+valve connection closed
+measurement done (2021-01-27 16:21:25)
+waiting job input (2021-01-27 16:21:30)
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+waiting job input (2021-01-27 16:27:57)
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 16:30:25)
+Discard selector to pump volumes
+Sending solutions to the collector vials 10
+valve connection closed
+nitrogen_valve: Open
+Waiting 5.0 min for evaporation
+nitrogen_valve: Close
+valve connection opened
+Sending 0.15 ml of solvent to collector vial 10
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+Wash vial
+load C:\Users\MatterLab\Dropbox\PythonScript\kazu\optical_characterizations/.config_AutoOpt_ocean.dat
+waiting job input (2021-01-27 16:44:14)
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 16:47:48)
+Discard selector to pump volumes
+Sending 0.15 ml of solvent to collector vial 10
+valve connection closed
+Waiting 5.0 min for dissolution
+
+measurement start for BSBCz _c2_evap
+valve connection opened
+washing selector to pump line with solvent (2021-01-27 16:56:51)
+Discard selector to pump volumes
+Switch selector to position 10
+Draw 0.150 ml of sample
+Switch selector to position 1
+valve connection closed
+Measure absorption reference (2021-01-27 16:57:39)
+Emplying the flow cell (2021-01-27 16:58:05)
+Send 0.085 ml of solution to flow cell
+Measure absorption dark (2021-01-27 16:59:56)
+Measure absorption spectrum  (2021-01-27 17:00:02)
+Collect 0.085 ml of solution to flow cell
+Measure reference uv power (2021-01-27 17:00:36)
+Emplying the flow cell (2021-01-27 17:00:44)
+Send 0.100 ml of solution to flow cell
+Adjust PL exposure (2021-01-27 17:02:13)
+Measure PL dark spectrum (2021-01-27 17:02:16)
+Measure PL spectrum (2021-01-27 17:02:38)
+Collect 0.100 ml of solution to flow cell
+discard sample (2021-01-27 17:03:32)
+Wash flow_cell_abs
+Wash flow_cell_PL
+Wash vial
+valve connection opened
+Wash collector 10
+update vial status : vial10 True
+valve connection closed
+measurement done (2021-01-27 17:06:23)
+waiting job input (2021-01-27 17:06:28)

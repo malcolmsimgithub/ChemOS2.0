@@ -1,0 +1,4 @@
+{"transfer_compound": {"solid": {"drawers": {"state":  "open", "environment":  "none"}, "operation": []}, "liquid": {"drawers": {"state": "open", "environment": "inert"}, "operation": [{"name": "prime_pumps", "parameters": {}}, {"name": "request_confirmation", "parameters": {"message": "Before starting liquid dispensing, please confirm that ISynth Nitrogen gas is switched on!"}}]}},
+ "schlenk_cycle": {"none": {"drawers": {}, "operation": [{"name": "request_confirmation", "parameters": {"message": "Before starting Schlenk cycles, please confirm that ISynth Nitrogen gas is switched on!"}}]}},
+ "reflux": {"none": {"drawers": {}, "operation": []}}
+}

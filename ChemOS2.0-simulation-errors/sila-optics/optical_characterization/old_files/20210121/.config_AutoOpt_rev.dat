@@ -1,0 +1,60 @@
+
+{
+	"absorption": {
+		"abs_minimum_volume" : 0.09,
+		"abs_maximum_absorption" : 1,
+        "abs_equibliration_time" :60,
+        "abs_exposure" : 0.050,
+		"dark_average" : 100,
+		"abs_average" : 100,
+		"abs_draw_velocity" : 300,
+		"abs_dispense_velocity" : 300,
+		"abs_do_plot" : "False",
+		"abs_calc_range" : [300,800]
+	},
+
+	"PL": {
+		"PL_minimum_volume" : 0.12,
+		"PL_equibliration_time" : 30,
+        "excitation_wavelengths" : [365],
+		"led_powers" : [10],
+        "PL_average" : 30,
+        "PL_max_exposure" : 1,
+		"PL_min_measurement_time" : 10,
+        "PL_initial_exposure" : 0.1,
+        "PL_target_intensity" : 0.4,
+        "uv_average" : 10,
+		"PL_draw_velocity" : 300, 
+		"PL_dispense_velocity" : 300,
+		"PL_calc_range" : [380,900]
+	},
+
+	"TE" : {
+		"TE_minimum_volume" : 0.12,
+		"TE_draw_velocity" : 500,
+		"TE_dispense_velocity" : 1000,
+	    "min_rate" : 1E-2, 
+        "max_rate" : 3E-2, 
+        "accumulation" : 10000,
+        "initial_frequency" : 1E6,
+		"initial_filter_position" : 12,
+		"fit_order" : 1,
+		"fit_weight" : 0.7
+	},
+
+	"dilution": {
+		"dilution_draw_velocity" : 500,
+		"dilution_dispense_velocity" : 500
+	},
+
+	"data_processing": {
+        "filter_size": 20,
+        "correction_datafile" : "None",
+		"absorption_threshold" : 0.02
+    }, 
+
+	"data_path": {
+        "job_input": "C:/Users/MatterLab/Dropbox/PythonScript/HPLCMS_characterization/sample_to_measure",
+        "status" : "C:/Users/MatterLab/Dropbox/PythonScript/HPLCMS_characterization/status"
+    } 
+}

@@ -1,0 +1,26 @@
+sample waiting for re-dissolution 0
+waiting job input 23-07-27-11-54
+sample waiting for re-dissolution 0
+waiting job input 23-07-27-12-45
+sample waiting for re-dissolution 0
+waiting job input 23-07-27-13-22
+sample waiting for re-dissolution 0
+waiting job input 23-07-27-13-22
+sample waiting for re-dissolution 0
+waiting job input 23-07-27-13-25
+
+measurement start 23-07-27-13-54
+Measure absorption reference 23-07-27-13-54
+Measure absorption dark 23-07-27-13-54
+Measure absorption spectrum  23-07-27-13-54
+Measure reference uv power 23-07-27-13-54
+Adjust PL exposure 23-07-27-13-54
+Measure PL dark spectrum 23-07-27-13-54
+Measure PL spectrum 23-07-27-13-54
+Measure transient emission 23-07-27-13-54
+Wash cells
+Wash collector 13
+discard sample 23-07-27-13-54
+measurement done 23-07-27-13-54
+sample waiting for re-dissolution 0
+waiting job input 23-07-27-13-54

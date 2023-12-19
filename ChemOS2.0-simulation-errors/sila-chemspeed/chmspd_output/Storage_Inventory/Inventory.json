@@ -1,0 +1,27 @@
+{
+  "K3PO4": {
+    "location": "SOLID:2",
+    "phase": "solid",
+    "quantity": 10000
+  },
+  "THF": {
+    "location": "VALVEB:1",
+    "phase": "liquid",
+    "quantity": 4000
+  },
+  "Hexane": {
+    "location": "VALVEB:2",
+    "phase": "liquid",
+    "quantity": 4000
+  },
+  "Acetonitrile": {
+    "location": "VALVEB:3",
+    "phase": "liquid",
+    "quantity": 4000
+  },
+  "Water": {
+    "location": "VALVEB:4",
+    "phase": "liquid",
+    "quantity": 4000
+  }
+}
