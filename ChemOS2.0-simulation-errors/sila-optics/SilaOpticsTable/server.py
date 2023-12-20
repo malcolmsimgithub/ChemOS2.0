@@ -5,7 +5,7 @@ from uuid import UUID
 
 from sila2.server import SilaServer
 
-from .feature_implementations.opticstablesimulator_impl import OpticsTableSimulatorImpl
+from .feature_implementations.updated_opticstablesimulator_impl import OpticsTableSimulatorImpl
 from .generated.opticstablesimulator import OpticsTableSimulatorFeature
 
 

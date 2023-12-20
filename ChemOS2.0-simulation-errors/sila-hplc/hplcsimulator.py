@@ -136,8 +136,8 @@ class HPLCSimulator(object):
         print("HPLC-MS measurement completed.")
         self.silacommunicate("HPLC-MS measurement completed")
 
-        ## 50% chance of crashing
-        if random.uniform(0, 1) < 0.4:
+        ## 40% chance of crashing
+        if random.uniform(0, 1) < 0.5:
             # crash the hplc
             self.client_socket.close()
             sys.exit()

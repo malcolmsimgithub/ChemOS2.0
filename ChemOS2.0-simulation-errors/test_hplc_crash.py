@@ -19,20 +19,7 @@ import json
 from utils import *
 import pickle
 from csv import reader
-
-###########################
-# Filter crude mixture    #
-###########################
-
-
-instance = run_chemspeed_filter("RACKL:65", CHEMSPEED_IP, CHEMSPEED_PORT, None)
-injectposition = instance.get_responses().Termination
-print(injectposition)
-time.sleep(10)
-
-###################################################
-# Run characterization_2nd Job on HPLC            #
-###################################################
+import sys
 
 
 hplc_injection = {
@@ -44,34 +31,38 @@ hplc_injection = {
         ]
 }
 
-hplc_thread, chemspeed_thread, resultsdict = hplc_and_chemspeed_inject(hplc_injection, injectposition)
+id_dict = {}
 
-while hplc_thread.is_alive():
-    time.sleep(1)
-print(resultsdict)
-
-if resultsdict["response"].Termination == "HPLCMS_lost":
+try:
+    result = hplc_from_chemspeed(hplc_injection, "SPE_C:9", HPLC_IP, HPLC_PORT, HPLC_CERT, id_dict)
+except SilaError:
     while True:
         answer = input("Continue? if so, please restart the hplc and confirm")
         if answer.lower() in ["y","yes"]:
             break
         elif answer.lower() in ["n","no"]:
-            continue
+            sys.exit()
         else:
             print("please answer yes or no")
             continue
-    hplc_blank()
-    print("blank done. re-injecting.")
-    hplc_thread, chemspeed_thread, resultsdict = hplc_and_chemspeed_inject(hplc_injection, injectposition)
-    while hplc_thread.is_alive():
-        time.sleep(1)
-elif resultsdict["response"].Termination ==  "not detected":
+    try:
+        print("performing blank run on HPLCMS...")
+        hplc_blank()
+        result = hplc_from_chemspeed(hplc_injection, "SPE_C:9", HPLC_IP, HPLC_PORT, HPLC_CERT, id_dict)
+    except SilaError:
+        print("HPLC has crashed twice. please inspect for detailed measurements")
+        sys.exit()
+
+print(result)
+
+if result ==  "not detected":
     print("compound not detected. rerunning job")
-    hplc_thread, chemspeed_thread, resultsdict = hplc_and_chemspeed_inject(hplc_injection, injectposition)
-    while hplc_thread.is_alive():
-        time.sleep(1)
-    print(resultsdict["response"].Termination)
-elif resultsdict["response"].Termination ==  "detected":
+    try:
+        result = hplc_from_chemspeed(hplc_injection, "SPE_C:9", HPLC_IP, HPLC_PORT, HPLC_CERT, id_dict)
+    except SilaError:
+        print("HPLC has crashed. please inspect for detailed measurements or run again")
+        sys.exit()
+elif result ==  "detected":
     print("compound detected!")
 
-
+sys.exit()

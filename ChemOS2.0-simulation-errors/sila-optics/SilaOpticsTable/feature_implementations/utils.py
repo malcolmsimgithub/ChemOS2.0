@@ -13,6 +13,7 @@ from ..generated.opticstablesimulator import (
     Status_Responses,
     SubmitJob_IntermediateResponses,
     SubmitJob_Responses,
+    LostConnection
 )
 
 from pathlib import Path
@@ -92,7 +93,7 @@ def run_optics_table_client(client_socket, instance, jobname):
                     time.sleep(20)
                     return "characterization complete"
                 elif message == "optics-table_lost":
-                    return   "optics-table_lost"
+                    raise LostConnection
 
             
 

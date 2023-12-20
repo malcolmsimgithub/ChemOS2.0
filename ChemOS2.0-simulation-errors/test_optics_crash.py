@@ -19,6 +19,7 @@ import json
 from utils import *
 import pickle
 from csv import reader
+import sys
 
 ###########################
 # Begin Characterization  #
@@ -31,20 +32,11 @@ with open("job_files/optical_job.json", "r") as f:
 
 opticsjob["name"] = f"BSBCz_derivative_{timestamp()}"
 
-
-instance, job_id =  run_optics_table(opticsjob, OPTICS_IP, OPTICS_PORT, OPTICS_CERT)
-
-while instance.done != True:
-    time.sleep(1)
-
-print("waitng 10 seconds before analysis of results")
-time.sleep(10)
-
-if instance.get_responses().Termination == "optics-table_lost":
-    print("re-running job")
-
+try:
+    message, job_id =  run_optics_table(opticsjob, OPTICS_IP, OPTICS_PORT, OPTICS_CERT)
+except SilaError:
     while True:
-        answer = input("Continue? if so, please restart the optics table and confirm")
+        answer = input("Optics table has crashed! if so, please restart the optics table and confirm")
         if answer.lower() in ["y","yes"]:
             break
         elif answer.lower() in ["n","no"]:
@@ -53,16 +45,15 @@ if instance.get_responses().Termination == "optics-table_lost":
             print("please answer yes or no")
             continue
     print("re-doing optics table job")
-    with open("job_files/optical_job.json", "r") as f:
-        opticsjob = json.load(f)
     opticsjob["name"] = f"BSBCz_derivative_{timestamp()}"
-    instance, job_id =  run_optics_table(opticsjob, OPTICS_IP, OPTICS_PORT, OPTICS_CERT)
-    while instance.done != True:
-        time.sleep(1)
-    print("waitng 10 seconds before analysis of results")
-    time.sleep(10)
+    try:
+        message, job_id =  run_optics_table(opticsjob, OPTICS_IP, OPTICS_PORT, OPTICS_CERT)
+    except SilaError:
+        print("optics table has failed twice. aborting")
+        sys.exit()
 
-
+print("waitng 10 seconds before analysis of results")
+time.sleep(10)
 
 resultsfound = fetch_optics_results(job_id)
 if resultsfound:
@@ -85,6 +76,4 @@ if resultsfound:
         
     
     cross_section_gain = gain*qy/(tau*1e-9*2.25)
-
-
 print(cross_section_gain)

@@ -6,11 +6,10 @@ from typing import Set
 from sila2.client import SilaClient
 from sila2.framework import FullyQualifiedFeatureIdentifier
 
-from .opticstablesimulator import OpticsTableSimulatorClient
+from .opticstablesimulator import LostConnection, OpticsTableSimulatorClient, OpticsTableSimulatorFeature
 
 
 class Client(SilaClient):
-
     OpticsTableSimulator: OpticsTableSimulatorClient
 
     _expected_features: Set[FullyQualifiedFeatureIdentifier] = {
@@ -20,3 +19,7 @@ class Client(SilaClient):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
+
+        self._register_defined_execution_error_class(
+            OpticsTableSimulatorFeature.defined_execution_errors["LostConnection"], LostConnection
+        )

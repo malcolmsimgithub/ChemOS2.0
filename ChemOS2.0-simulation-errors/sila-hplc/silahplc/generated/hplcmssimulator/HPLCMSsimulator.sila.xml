@@ -113,5 +113,13 @@
         <Basic>Binary</Basic>
       </DataType>
     </IntermediateResponse>
+    <DefinedExecutionErrors>
+      <Identifier>LostConnection</Identifier>
+    </DefinedExecutionErrors>
   </Command>
+  <DefinedExecutionError>
+    <Identifier>LostConnection</Identifier>
+    <DisplayName>Lost Connection</DisplayName>
+    <Description>Connection between the Socket and HPLC was lost</Description>
+  </DefinedExecutionError>
 </Feature>

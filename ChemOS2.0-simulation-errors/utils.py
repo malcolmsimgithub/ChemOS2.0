@@ -1,4 +1,5 @@
 from sila2.client import SilaClient
+from sila2.framework import SilaError
 import time
 import psycopg2 as psycopg
 from sila2.client import SilaClient
@@ -347,7 +348,7 @@ def hplc_from_autosampler(injection, ip, port, cert):
 
     return JOB_ID
 
-def hplc_from_chemspeed(injection, ip, port, cert, id_dict):
+def hplc_from_chemspeed(injection, chemspeed_position, ip, port, cert, id_dict):
 
     jobtimestamp = datetime.now()
     global database_connect
@@ -417,14 +418,36 @@ def hplc_from_chemspeed(injection, ip, port, cert, id_dict):
     sub = instance.subscribe_to_intermediate_responses()
     sub.add_callback(HPLC_update_SQLalchemy)
 
+
+    while True:
+        if HPLC_CERT is None:
+            client2 = SilaClient(HPLC_IP,HPLC_PORT, insecure=True)
+        else:
+            client2 = SilaClient(HPLC_IP,HPLC_PORT, root_certs=open(HPLC_CERT, "rb").read())
+        status = client2.HPLCMSsimulator.Status().Termination
+        if status != "ready":
+            print("waiting for ready signal from hplc")
+            time.sleep(3)
+        else:
+            break
+    print("injecting from chemspeed...")
+    chemspeed_thread = threading.Thread(target=run_chemspeed_inject, args=(
+        chemspeed_position,
+        CHEMSPEED_IP, 
+        CHEMSPEED_PORT, 
+        CHEMSPEED_CERT
+    ))
+    chemspeed_thread.start()
+    while chemspeed_thread.is_alive():
+        time.sleep(1)
     while instance.done != True:
         time.sleep(1)
-
-    id_dict["response"] = instance.get_responses()
+    if instance.status.value == 3:
+        raise SilaError("HPLC has crashed")
     
     print("hplc thread done")
 
-    return JOB_ID
+    return instance.get_responses().Termination
 
 
 def run_chemspeed_filter(position, ip, port, cert):
@@ -603,9 +626,6 @@ def run_optics_table(jobdict, ip, port, cert):
 
     job_id = session.query(Job).filter_by(timestamp=jobtimestamp).first().id
 
-
-
-
     def Optics_table_update_SQLalchemy(SubmitJob_response) -> None:
         if SubmitJob_response.Status == "output_data":
 
@@ -649,47 +669,12 @@ def run_optics_table(jobdict, ip, port, cert):
     sub = instance.subscribe_to_intermediate_responses()
     sub.add_callback(Optics_table_update_SQLalchemy)
 
-    return instance, job_id
-
-
-def hplc_and_chemspeed_inject(hplc_job, chemspeed_position):
-
-    resultsdict = {}
-
-    print("creating hplc job...")
-
-    hplc_thread = threading.Thread(target=hplc_from_chemspeed, args=(hplc_job, HPLC_IP, HPLC_PORT, HPLC_CERT, resultsdict))
-
-    hplc_thread.start()
-
-    while True:
-        if HPLC_CERT is None:
-            client = SilaClient(HPLC_IP,HPLC_PORT, insecure=True)
-        else:
-            client = SilaClient(HPLC_IP,HPLC_PORT, root_certs=open(HPLC_CERT, "rb").read())
-        status = client.HPLCMSsimulator.Status().Termination
-        if status != "ready":
-            print("waiting for ready signal from hplc")
-            time.sleep(3)
-        else:
-            break
-    
-    print(resultsdict)
-
-    print("injecting from chemspeed...")
-    chemspeed_thread = threading.Thread(target=run_chemspeed_inject, args=(
-        chemspeed_position,
-        CHEMSPEED_IP, 
-        CHEMSPEED_PORT, 
-        CHEMSPEED_CERT
-    ))
-
-    chemspeed_thread.start()
-
-    while chemspeed_thread.is_alive():
+    while instance.done != True:
         time.sleep(1)
-    return hplc_thread, chemspeed_thread, resultsdict
+    if instance.status.value == 3:
+        raise SilaError("HPLC has crashed")
 
+    return instance.get_responses().Termination, job_id
 
 def hplc_blank():
     global database_connect

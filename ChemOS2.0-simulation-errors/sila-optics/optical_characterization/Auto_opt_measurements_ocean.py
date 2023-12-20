@@ -63,7 +63,7 @@ class Optical_measurements():
         else :
             self.log(f'\nmeasurement start {timestamp()}')
         
-        if random.uniform(0, 1) < 0.3:
+        if random.uniform(0, 1) < 0.6:
             #crash the optics table
             self.log.silasocket.close()
             sys.exit()

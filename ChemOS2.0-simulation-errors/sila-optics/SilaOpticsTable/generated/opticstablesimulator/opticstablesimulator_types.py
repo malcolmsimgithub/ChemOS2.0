@@ -5,7 +5,6 @@ from typing import NamedTuple
 
 
 class Status_Responses(NamedTuple):
-
     Termination: str
     """
     Termination message
@@ -13,7 +12,6 @@ class Status_Responses(NamedTuple):
 
 
 class SubmitJob_Responses(NamedTuple):
-
     Termination: str
     """
     Termination message
@@ -21,7 +19,6 @@ class SubmitJob_Responses(NamedTuple):
 
 
 class SubmitJob_IntermediateResponses(NamedTuple):
-
     Status: str
     """
     Status of batch 

@@ -5,7 +5,7 @@ from uuid import UUID
 
 from sila2.server import SilaServer
 
-from .feature_implementations.updated_hplcmssimulator_impl import HPLCMSsimulatorImpl
+from .feature_implementations.hplcmssimulator_impl import HPLCMSsimulatorImpl
 from .generated.hplcmssimulator import HPLCMSsimulatorFeature
 
 

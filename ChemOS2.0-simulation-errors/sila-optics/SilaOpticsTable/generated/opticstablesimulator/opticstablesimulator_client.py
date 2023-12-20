@@ -9,7 +9,6 @@ from __future__ import annotations
 from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
-
     from typing import Iterable, Optional
 
     from opticstablesimulator_types import Status_Responses, SubmitJob_IntermediateResponses, SubmitJob_Responses

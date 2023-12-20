@@ -1,9 +1,13 @@
 import os
 from ..generated.hplcmssimulator import (
     SubmitJobChemspeed_IntermediateResponses,
+    SubmitJobChemspeed_Responses,
     BlankRun_IntermediateResponses,
-    BlankRun_Responses,
+    LostConnection
 )
+
+
+from sila2.framework import SilaError
 
 from pathlib import Path
 import sys
@@ -32,10 +36,6 @@ def get_status(statusfile):
 def run_chemspeed_client(client_socket, instance, outputfile, jobname):
 
     outputfile = os.path.join(JOBS_RETURNED, f"{jobname}.json")
-
-
-
-
     bindata = str.encode("dummy")
     instance.send_intermediate_response(SubmitJobChemspeed_IntermediateResponses(f"monitoring for {outputfile}", bindata))
 
@@ -79,18 +79,13 @@ def run_chemspeed_client(client_socket, instance, outputfile, jobname):
 
                     time.sleep(30)
 
-
                     with open(outputjson, "r") as f:
                         output_json = json.load(f)
                     
-                    return  output_json["result"]
+                    return  str(output_json["result"])
                 
                 elif message == "HPLCMS_lost":
-                    return   "HPLCMS_lost"
-
-        
-
-
+                    raise LostConnection
 
         except IOError as e:
             # This is normal on non blocking connections - when there are no incoming data error is going to be raised

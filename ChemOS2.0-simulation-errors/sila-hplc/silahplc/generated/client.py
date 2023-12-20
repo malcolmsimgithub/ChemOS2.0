@@ -6,7 +6,7 @@ from typing import Set
 from sila2.client import SilaClient
 from sila2.framework import FullyQualifiedFeatureIdentifier
 
-from .hplcmssimulator import HPLCMSsimulatorClient
+from .hplcmssimulator import HPLCMSsimulatorClient, HPLCMSsimulatorFeature, LostConnection
 
 
 class Client(SilaClient):
@@ -19,3 +19,7 @@ class Client(SilaClient):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
+
+        self._register_defined_execution_error_class(
+            HPLCMSsimulatorFeature.defined_execution_errors["LostConnection"], LostConnection
+        )
