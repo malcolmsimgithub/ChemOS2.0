@@ -42,12 +42,7 @@ async def run_hplcs(injection, position):
 
     return jobs
 
-
-
-
 result = asyncio.run(run_hplcs(hplc_injection, "SPE_C:9"))
-
-
 
 if "not detected" in result:
     print("compound not detected. rerunning job")
