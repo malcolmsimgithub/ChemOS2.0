@@ -91,7 +91,13 @@ python start_sila_servers.py
 
 Web application for ChemOS 2.0. A:sidebar for toggling between instruments/features. B:job submission for the HPLC-MS. C:data visualiza- tion of the HLPC-MS’s job results.
 
+# Faulty simulators
+The folder ChemOS2.0-simulation-errors contains code for modified HPLC and optics table simulators that can crash randomly. 
+It aslo contains some scripts that demonstrate error handling in workflows
+These are intended to demonstrate the error handling capabilities of ChemOS 2.0
 
+# Parallel simulators
+The folder ChemOS2.0-simulation-parallel contains code for two HPLC simulators, and a script designed to showcase the job parallelization capabilities of ChemOS 2.0 using python's asyncio library.
 
 ## echem data
 Note that we have included a folder called "echem_data". This code is a part of a thesis that incorporates this project, and is not directly related to 
