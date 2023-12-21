@@ -1,0 +1,1 @@
+{"name": "test_injection23-12-21-17-11", "itype": "characterization_2nd", "targets": [{"name": "BSBCz_derivative", "type": "product", "smiles": "CCC"}, {"name": "BHT", "type": "others", "formula": "C15H24O"}], "concentration": 1.0, "result": "not detected"}
