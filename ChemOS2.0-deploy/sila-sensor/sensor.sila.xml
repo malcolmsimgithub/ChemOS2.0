@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Feature SiLA2Version="1.0" FeatureVersion="1.0" MaturityLevel="Verified" Originator="org.silastandard"
+         Category="examples"
+         xmlns="http://www.sila-standard.org"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.sila-standard.org https://gitlab.com/SiLA2/sila_base/raw/master/schema/FeatureDefinition.xsd">
+  <Identifier>Sensor</Identifier>
+  <DisplayName>Sensor</DisplayName>
+  <Description>
+    A Sila_server for a temperatur/humidity sensor
+  </Description>
+  <Command>
+    <Identifier>Temperature</Identifier>
+    <DisplayName>Temperature</DisplayName>
+    <Description>get a temperature measurment</Description>
+    <Observable>Yes</Observable>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+  </Command>
+  <Command>
+    <Identifier>Humidity</Identifier>
+    <DisplayName>Humidity</DisplayName>
+    <Description>get a humidity measurment</Description>
+    <Observable>Yes</Observable>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+  </Command>
+  <Command>
+    <Identifier>HumidityTemperature</Identifier>
+    <DisplayName>HumidityTemperature</DisplayName>
+    <Description>get a humidity and temperature measurement</Description>
+    <Observable>Yes</Observable>
+    <Response>
+      <Identifier>Termination</Identifier>
+      <DisplayName>Termination</DisplayName>
+      <Description>Termination message</Description>
+      <DataType>
+        <Basic>String</Basic>
+      </DataType>
+    </Response>
+  </Command>
+</Feature>
