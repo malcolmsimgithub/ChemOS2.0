@@ -12,7 +12,7 @@ if TYPE_CHECKING:
 
 
 # Sensor type
-# sensor = Adafruit_DHT.DHT22
+sensor = Adafruit_DHT.DHT22
 
 # GPIO pins for each sensor
 pin_sensor1 = 4
